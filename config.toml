@@ -36,20 +36,15 @@ enableEmoji = true
         url = "/posts/"
         weight = 1      
       [[languages.en.menu.main]]
-        identifier = "categories"
-        name = "Categories"
-        url = "/categories/"
-        weight = 2
-      [[languages.en.menu.main]]
         identifier = "portfolio"
         name = "Portfolio"
         url = "/portfolio/"
-        weight = 3  
+        weight = 2  
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about/"
-        weight = 4        
+        weight = 3        
       [languages.en.params]
         # LoveIt theme version
         version = "0.1.X"
@@ -99,11 +94,11 @@ enableEmoji = true
             defaultHiddenFromHomePage = false
         # Social Info in home page
         [languages.en.params.social]
+          Email = "me@reddvid.xyz"
           GitHub = "reddvid"
           Linkedin = "reddvid"
           Twitter = "reddvid"
           Instagram = "reddvid"
-          Email = "me@reddvid.xyz"
           # Facebook = "reddvid14"
           # Telegram = "xxxx"
           # Medium = "xxxx"
@@ -126,7 +121,7 @@ enableEmoji = true
           # Flickr = "xxxx"
           # Xing = "xxxx"
           # Snapchat = "xxxx"
-          Soundcloud = "reddvid"
+          # Soundcloud = "reddvid"
           # Spotify = "xxxx"
           # Bandcamp = "xxxx"
           # Paypal = "xxxx"
