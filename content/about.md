@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-02-23T13:10:38+08:00
-draft: true
+draft: false
 ---
 
 ![Macapagal Bridge, Butuan City - 2019](/images/about-hero.jpg)

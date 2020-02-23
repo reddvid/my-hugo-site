@@ -1,4 +1,5 @@
-baseURL = "/"
+baseURL = "https://reddvid.xyz"
+
 # [en, zh, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
