@@ -1,41 +1,45 @@
-<footer class="footer" >
+<footer class="footer">
     <div class="copyright" style="font-size: 0.7rem;">
         {{- /* Hugo and LoveIt */ -}}
-        <div class="copyright-line" >
-            {{- printf (T "powered") `<a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a>` | safeHTML }} and <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt</a> theme
+        <div class="copyright-line">
+          Made with <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a>
+            and <a href="https://github.com/dillonzq/LoveIt" target="_blank"
+                rel="external nofollow noopener noreffer">LoveIt</a> theme
         </div>
 
         <div class="copyright-line">
             {{- /* Copyright year */ -}}
             <i class="far fa-copyright fa-fw"></i>
             {{- with .Site.Params.footer.since -}}
-                <span itemprop="copyrightYear">
-                    {{- if lt . now.Year }}{{ . }} - {{ end }}{{ now.Year -}}
-                </span>
+            <span itemprop="copyrightYear">
+                {{- if lt . now.Year }}{{ . }} - {{ end }}{{ now.Year -}}
+            </span>
             {{- else -}}
-                <span itemprop="copyrightYear">{{ now.Year }}</span>
+            <span itemprop="copyrightYear">{{ now.Year }}</span>
             {{- end -}}
 
             {{- /* Author */ -}}
             {{- with .Site.Author.name -}}
-                <span class="author" itemprop="copyrightHolder">&nbsp;<a href="{{ $.Site.Author.link | default (relLangURL `/`) }}" target="_blank">{{ . }}</a></span>
+            <span class="author" itemprop="copyrightHolder">&nbsp;<a
+                    href="{{ $.Site.Author.link | default (relLangURL `/`) }}" target="_blank">{{ . }}</a></span>
             {{- end -}}
 
-            {{- /* License */ -}}
+            <!-- {{- /* License */ -}}
             {{- with .Site.Params.footer.license -}}
-                &nbsp;|&nbsp;<span class="license">{{ . | safeHTML }}</span>
-            {{- end -}}
+            &nbsp;|&nbsp;<span class="license">{{ . | safeHTML }}</span>
+            {{- end -}} -->
 
             {{- /* Privacy for Apps */ -}}
             {{- with .Site.Params.footer.license -}}
-                &nbsp;|&nbsp;<span class="author"><a href="/privacy/" >Privacy Policy</a></span>
+            &nbsp;|&nbsp;<span class="author"><a href="/privacy/">Privacy Policy</a></span>
             {{- end -}}
 
             {{- /* ICP */ -}}
             {{- with .Site.Params.footer.icp -}}
-                <span class="icp-splitter">&nbsp;|&nbsp;</span><br class="icp-br"/>
-                <span class="icp">{{ . | safeHTML }}</span>
+            <span class="icp-splitter">&nbsp;|&nbsp;</span><br class="icp-br" />
+            <span class="icp">{{ . | safeHTML }}</span>
             {{- end -}}
         </div>
+        <br/>
     </div>
 </footer>
