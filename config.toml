@@ -1,14 +1,19 @@
 baseURL = "https://reddvid.xyz"
-
-# [en, zh, ...] determines default content language
+# [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
 theme = "LoveIt"
+# themes directory
+themesDir = "/themes"
+
+# website title
+# 网站标题
+title = "Red David"
 
 # whether to use robots.txt
 enableRobotsTXT = true
-# whether to use git commit log to generate lastmod record
-enableGitInfo = false
+# whether to use git commit log
+enableGitInfo = true
 # whether to use emoji code
 enableEmoji = true
 
@@ -17,292 +22,527 @@ enableEmoji = true
     weight = 1
     # language code
     languageCode = "en"
-    # website title
-    title = "David Ballesteros"
-    # whether to include chinese/japanese/korean
+    # language name
+    languageName = "English"
+    # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = false
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
+    googleAnalytics = "UA-129071597-1"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-    # date format
-    dateFormatToUse = "2006-01-02"
-    # Menu Info
+    # Menu config
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "posts"
+        # you can add extra information before the name (HTML format is supported), such as icons
+        pre = ""
+        # you can add extra information after the name (HTML format is supported), such as icons
+        post = ""
         name = "Posts"
         url = "/posts/"
-        weight = 1      
-      [[languages.en.menu.main]]
+        # title will be shown when you hover on this menu link.
+        title = "Posts"
+        weight = 1
+        [[languages.en.menu.main]]
         identifier = "portfolio"
         name = "Portfolio"
         url = "/portfolio/"
         weight = 2  
-      [[languages.en.menu.main]]
+       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about/"
-        weight = 3        
-      [languages.en.params]
-        # LoveIt theme version
-        version = "0.1.X"
-        # site description
-        description = "About LoveIt Theme"
-        # site keywords
-        keywords = ["Theme", "Hugo"]
-        # site default theme ("light", "dark", "auto")
-        defaultTheme = "auto"
-        # public git repo url to link lastmod git commit only then enableGitInfo is true
-        gitRepo = ""
-        # Header info
-        [languages.en.params.header]
-          # desktop header mode ("fixed", "normal", "auto")
-          desktopMode = "fixed"
-          # mobile header mode ("fixed", "normal", "auto")
-          mobileMode = "auto"
-        # Footer Copyright Info
-        [languages.en.params.footer]
-          # Site creation time
-          since = 2020
-          # ICP info only in China (HTML format is allowed)
-          # icp = ""
-          # license info (HTML format is allowed)
-          license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
-        # Home Page Info
-        [languages.en.params.home]
-          # Home Page Profile
-          [languages.en.params.home.profile]
-            enable = true
-            # Gravatar Email for preferred avatar in home page
-            gravatarEmail = ""
-            # URL of avatar shown in home page
-            avatarURL = "images/avatar.jpg"
-            # subtitle shown in home page
-            subtitle = "Electronics Engineer. Software developer."
-            # whether to use typeit animation for subtitle
-            typeit = false
-            # whether to show social links
-            social = true
-          # Home Page Posts
-          [languages.en.params.home.posts]
-            enable = true
-            # special amount of posts in each home posts page
-            paginate = 6
-            # default behavior when you don't set "hiddenFromHomePage" in front matter
-            defaultHiddenFromHomePage = false
-        # Social Info in home page
-        [languages.en.params.social]
-          Email = "me@reddvid.xyz"
-          GitHub = "reddvid"
-          Linkedin = "reddvid"
-          Twitter = "reddvid"
-          Instagram = "reddvid"
-          # Facebook = "reddvid14"
-          # Telegram = "xxxx"
-          # Medium = "xxxx"
-          # Gitlab = "xxxx"
-          # Youtubelegacy = "xxxx"
-          # Youtubecustom = "xxxx"
-          # Youtubechannel = "UC5p7CWPw29oXaW84Hjiao5Q"
-          # Tumblr ="xxxx"
-          # Quora = "xxxx"
-          # Keybase = "xxxx"
-          # Pinterest = "xxxx"
-          # Reddit = "xxxx"
-          # Codepen = "xxxx"
-          # FreeCodeCamp = "xxxx"
-          # Bitbucket = "xxxx"
-          # Stackoverflow = "xxxx"
-          # Weibo = "xxxx"
-          # Odnoklassniki = "xxxx"
-          # VK = "xxxx"
-          # Flickr = "xxxx"
-          # Xing = "xxxx"
-          # Snapchat = "xxxx"
-          # Soundcloud = "reddvid"
-          # Spotify = "xxxx"
-          # Bandcamp = "xxxx"
-          # Paypal = "xxxx"
-          # Fivehundredpx = "xxxx"
-          # Mix = "xxxx"
-          # Goodreads = "xxxx"
-          # Lastfm = "xxxx"
-          # Foursquare = "xxxx"
-          # Hackernews = "xxxx"
-          # Kickstarter = "xxxx"
-          # Patreon = "xxxx"
-          # Steam = "reddvid"
-          # Twitch = "xxxx"
-          # Strava = "xxxx"
-          # Skype = "xxxx"
-          # Whatsapp = "xxxx"
-          # Zhihu = "xxxx"
-          # Douban = "xxxx"
-          # Angellist = "xxxx"
-          # Slidershare = "xxxx"
-          # Jsfiddle = "xxxx"
-          # Deviantart = "xxxx"
-          # Behance = "xxxx"
-          # Dribble = "xxxx"
-          # Wordpress = "xxxx"
-          # Vine = "xxxx"
-          # Googlescholar = "xxxx"
-          # Researchgate = "xxxx"
-          # Mastodon = "xxxx"
-          # MastodonPrefix = "https://mastodon.technology/"
-          # Thingiverse = "xxxx"
-          # Devto = "xxxx"
-          # Gitea = "xxxx"
-          # XMPP = "xxxx"
-          # Matrix = "xxxx"
-          # Bilibili = "xxxx"
-        # Page config
-        [languages.en.params.page]
-          # whether to show social share links in post page
-          socialShare = true
-          # whether to show link to Raw Markdown content of the post
-          linkToMarkdown = true
-        # Social Share Links in post page
-        [languages.en.params.share]
+        weight = 3       
+    [languages.en.params]
+      # site description
+      description = "Red David's blog using Hugo."
+      # site keywords
+      keywords = ["Gaming", "Red David", "Stream", "Coding", "Personal blog"]
+      # App icon config
+      [languages.en.params.app]
+        # optional site title override for the app when added to an iOS home screen or Android launcher
+        title = "Red David Blog"
+        # whether to omit favicon resource links
+        noFavicon = false
+        # modern SVG favicon to use in place of older style .png and .ico files
+        svgFavicon = ""
+        # Android browser theme color
+        themeColor = "#212121"
+        # Safari mask icon color
+        iconColor = "#FF0000"
+        # Windows v8-10 tile color
+        tileColor = "#FF0000"
+      # Search config
+      [languages.en.params.search]
+        enable = true
+        # type of search engine ("lunr", "algolia")
+        type = "algolia"
+        # max index length of the chunked content
+        contentLength = 4000
+        # placeholder of the search bar
+        placeholder = ""
+        # max number of results length
+        maxResultLength = 10
+        # snippet length of the result
+        snippetLength = 30
+        # HTML tag name of the highlight part in results
+        highlightTag = "em"
+        # whether to use the absolute URL based on the baseURL in search index
+        absoluteURL = false
+        [languages.en.params.search.algolia]
+          index = "index.en"
+          appID = "PASDMWALPK"
+          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+      # Home page config
+      [languages.en.params.home]
+        # amount of RSS pages
+        rss = 10
+        # Home page profile
+        [languages.en.params.home.profile]
           enable = true
-          Twitter = true
-          Facebook = true
-          Linkedin = true
-          Whatsapp = true
-          Messenger = true
-          # Pinterest = true
-          # Tumblr = true
-          # HackerNews = true
-          # Reddit = true
-          # VK = true
-          # Buffer = true
-          # Xing = true
-          # Line = true
-          # Instapaper = true
-          # Pocket = true
-          # Digg = true
-          # Stumbleupon = true
-          # Flipboard = true
-          # Weibo = true
-          # Renren = true
-          # Myspace = true
-          # Blogger = true
-          # Baidu = true
-          # Odnoklassniki = true
-          # Evernote = true
-          # Skype = true
-          # Trello = true
-          # Mix = true
-        # mathematical formulas (KaTeX)
-        [languages.en.params.math]
+          # Gravatar Email for preferred avatar in home page
+          gravatarEmail = ""
+          # URL of avatar shown in home page
+          avatarURL = "images/avatar.jpg"
+          # title shown in home page (HTML format is supported)
+          title = ""
+          # subtitle shown in home page
+          subtitle = "Gamer. Software developer. Electronics Engineer."
+          # whether to use typeit animation for subtitle
+          typeit = false
+          # whether to show social links
+          social = true
+          # disclaimer (HTML format is supported)
+          disclaimer = ""
+        # Home page posts
+        [languages.en.params.home.posts]
           enable = true
-          # default inline delimiter is $ ... $ and \\( ... \\)
-          inlineLeftDelimiter = ""
-          inlineRightDelimiter = ""
-          # default block delimiter is $$ ... $$ and \\[ ... \\]
-          blockLeftDelimiter = ""
-          blockRightDelimiter = ""
-          # KaTeX extension copy_tex
-          copyTex = true
-          # KaTeX extension mhchem
-          mhchem = true
-        # CSS and JS Files CDN
-        [languages.en.params.cdn]
-          ## for example '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.10.1/css/all.min.css" integrity="sha256-fdcFNFiBMrNfWL6OcAGQz6jDgNTRxnrLEd4vJYFWScE=" crossorigin="anonymous">'
-          fontawesomeFreeCSS = ''
-          animateCSS = ''
-          gitalkCSS = ''
-          gitalkJS = ''
-          valineJS = ''
-          lazysizesJS = ''
-          smoothScrollJS = ''
-          sharerJS = ''
-          katexCSS = ''
-          katexJS = ''
-          katexAutoRenderJS = ''
-          katexCopyTexCSS = ''
-          katexCopyTexJS = ''
-          katexMhchemJS = ''
-          mermaidJS = ''
-          echartsJS = ''
-          echartsMacaronsJS = ''
-          typeitJS = ''
-          aplayerCSS = ''
-          aplayerJS = ''
-          metingJS = ''
-        # site verification code for Google/Bing/Yandex/Pinterest/Baidu
-        [languages.en.params.verification]
-          google = ""
-          bing = ""
-          yandex = ""
-          pinterest = ""
-          baidu = ""
-        # Publisher Info just for SEO
-        [languages.en.params.publisher]
-          name = "xxxx"
-          [languages.en.params.publisher.logo]
-            url = "logo.png"
-            width = 127
-            height = 40
-        # Website Log Info just for SEO
-        [languages.en.params.logo]
-          url = "logo.png"
-          width = 127
-          height = 40
-        # Website Image Info just for SEO
-        [languages.en.params.image]
-          url = "cover.png"
-          width = 800
-          height = 600
-        # Comment Config
-        [languages.en.params.comment]
-          enable = true
-          # Disqus Comment Config (https://disqus.com/)
-          [languages.en.params.comment.disqus]
-            # Disqus shortname to use Disqus in posts
-            shortname = "dillonzq"
-          # Gittalk Comment Config (https://github.com/gitalk/gitalk)
-          [languages.en.params.comment.gitalk]
-            owner = ""
-            repo = ""
-            clientId = ""
-            clientSecret = ""
-          # Valine Comment Config (https://github.com/xCss/Valine)
-          [languages.en.params.comment.valine]
-            enable = false
-            appId = ""
-            appKey = ""
-            placeholder = "Your comment ..."
-            notify = false
-            verify = true
-            avatar = "mp"
-            # meta= ""
-            pageSize = 10
-            visitor = true
-            recordIP = true
-          # Facebook Comment Config (https://developers.facebook.com/docs/plugins/comments)
-          [languages.en.params.comment.facebook]
-            enable = false
-            width = "100%"
-            numPosts = 10
-            appId = ""
-            languageCode = "en_US"
-  
+          # special amount of posts in each home posts page
+          paginate = 6
+      # Social config in home page
+      [languages.en.params.social]
+      GitHub = "reddvid"
+       Linkedin = "reddvid"
+        Twitter = "reddvid"
+     #     Instagram = "reddvid"
+        Facebook = "reddavidapps"
+        Telegram = ""
+        Medium = ""
+        Gitlab = ""
+       # Youtubelegacy = "xxxx"
+        Youtubecustom = ""
+      #  Youtubechannel = "UC5p7CWPw29oXaW84Hjiao5Q"
+        Tumblr = ""
+        Quora = ""
+        Keybase = ""
+        Pinterest = ""
+        Reddit = ""
+        Codepen = ""
+        FreeCodeCamp = ""
+        Bitbucket = ""
+        Stackoverflow = ""
+        Weibo = ""
+        Odnoklassniki = ""
+        VK = ""
+        Flickr = ""
+        Xing = ""
+        Snapchat = ""
+       # Soundcloud = "reddvid"
+        Spotify = ""
+        Bandcamp = ""
+        Paypal = ""
+        Fivehundredpx = ""
+        Mix = ""
+        Goodreads = ""
+        Lastfm = ""
+        Foursquare = ""
+        Hackernews = ""
+        Kickstarter = ""
+        Patreon = ""
+        Steam = "76561198051401116"
+        Twitch = ""
+        Strava = ""
+        Skype = ""
+        Whatsapp = ""
+        Zhihu = ""
+        Douban = ""
+        Angellist = ""
+        Slidershare = ""
+        Jsfiddle = ""
+        Deviantart = ""
+        Behance = ""
+        Dribbble = ""
+        Wordpress = ""
+        Vine = ""
+        Googlescholar = ""
+        Researchgate = ""
+        Thingiverse = ""
+        Devto = ""
+        Gitea = ""
+        XMPP = ""
+        Matrix = ""
+        Bilibili = ""
+        Email = "me@reddvid.xyz"
+      #  RSS = true
+        [languages.en.params.social.Mastodon]
+      #    id = "@xxxx"
+      #    prefix = "https://mastodon.technology/"
+ 
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
+  # site default theme ("light", "dark", "auto")
+  defaultTheme = "dark"
+  # public git repo url only then enableGitInfo is true
+  gitRepo = "https://github.com/dillonzq/LoveIt"
+  # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
+  fingerprint = ""
+  # date format
+  dateFormat = "2006-Jan-02"
+  # website images for Open Graph and Twitter Cards
+  images = ["/logo.png"]
+
+  # Header config
+  [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    # 桌面端导航栏模式 ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    # 移动端导航栏模式 ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    # Header title config
+    # 页面头部导航栏标题配置
+    [params.header.title]
+      # URL of the LOGO
+      # LOGO 的 URL
+     # logo = "/images/logo-nopad.png"
+      # title name
+      # 标题名称
+      name = "David Ballesteros"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+      # pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
+      # you can add extra information after the name (HTML format is supported), such as icons
+      # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+      post = ""
+      # whether to use typeit animation for title name
+      # 是否为标题显示打字机动画
+      typeit = false
+
+  # Footer config
+  [params.footer]
+    enable = true
+    # Custom content (HTML format is supported)
+    # 自定义内容 (支持 HTML 格式)
+    custom = ''
+    # whether to show Hugo and theme info
+    # 是否显示 Hugo 和主题信息
+    hugo = true
+    # whether to show copyright info
+    # 是否显示版权信息
+    copyright = true
+    # whether to show the author
+    # 是否显示作者
+    author = true
+    # site creation time
+    # 网站创立年份
+    since = 2019
+    # ICP info only in China (HTML format is supported)
+    # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
+    icp = ""
+    # license info (HTML format is supported)
+    # 许可协议信息 (支持 HTML 格式)
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+  # Section (all posts) page config
+  [params.section]
+    # special amount of posts in each section page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "Jan-02"
+    # amount of RSS pages
+    rss = 10
+
+  # List (category or tag) page config
+  [params.list]
+    # special amount of posts in each list page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "Jan-02"
+    # amount of RSS pages
+    rss = 10
+
+  # Page config
+  [params.page]
+    # whether to hide a page from home page
+    hiddenFromHomePage = false
+    # whether to hide a page from search results
+    hiddenFromSearch = false
+    # whether to enable twemoji
+    twemoji = false
+    # whether to enable lightgallery
+    lightgallery = false
+    # whether to enable the ruby extended syntax
+    ruby = true
+    # whether to enable the fraction extended syntax
+    fraction = true
+    # whether to enable the fontawesome extended syntax
+    fontawesome = true
+    # whether to show link to Raw Markdown content of the content
+    linkToMarkdown = true
+    # whether to show the full text content in RSS
+    rssFullText = false
+    # Table of the contents config
+    [params.page.toc]
+      # whether to enable the table of the contents
+      enable = true
+      # whether to keep the static table of the contents in front of the post
+      keepStatic = false
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      auto = true
+    # Code config
+    [params.page.code]
+      # whether to show the copy button of the code block
+      copy = true
+      # the maximum number of lines of displayed code by default
+      maxShownLines = 10
+    # KaTeX mathematical formulas config (KaTeX https://katex.org/)
+    [params.page.math]
+      enable = false
+      # default block delimiter is $$ ... $$ and \\[ ... \\]
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # default inline delimiter is $ ... $ and \\( ... \\)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # KaTeX extension copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      mhchem = true
+    # Mapbox GL JS config (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
+    [params.page.mapbox]
+      # access token of Mapbox GL JS
+      accessToken = "pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ"
+      # style for the light theme
+      lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
+      # style for the dark theme
+      darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
+      # whether to add NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
+      navigation = true
+      # whether to add GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
+      geolocate = true
+      # whether to add ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
+      scale = true
+      # whether to add FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
+      fullscreen = true
+    # Social share links in post page
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Linkedin = false
+      Whatsapp = true
+      Pinterest = false
+      Tumblr = true
+      HackerNews = false
+      Reddit = false
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = false
+      Instapaper = false
+      Pocket = false
+      Digg = false
+      Stumbleupon = false
+      Flipboard = false
+      Weibo = false
+      Renren = false
+      Myspace = false
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
+    # Comment config
+    [params.page.comment]
+      enable = false
+      # Disqus comment config (https://disqus.com/)
+      [params.page.comment.disqus]
+        enable = false
+        # Disqus shortname to use Disqus in posts
+        shortname = ""
+      # Gitalk comment config (https://github.com/gitalk/gitalk)
+      [params.page.comment.gitalk]
+        enable = false
+        owner = ""
+        repo = ""
+        clientId = ""
+        clientSecret = ""
+      # Valine comment config (https://github.com/xCss/Valine)
+      [params.page.comment.valine]
+        enable = false
+        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
+        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        placeholder = ""
+        avatar = "mp"
+        meta= ""
+        pageSize = 10
+        lang = ""
+        visitor = true
+        recordIP = true
+        highlight = true
+        enableQQ = false
+        serverURLs = "https://leancloud.hugoloveit.com"
+        # emoji data file name, default is "google.yml"
+        # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
+        # located in "themes/LoveIt/assets/data/emoji/" directory
+        # you can store your own data files in the same path under your project:
+        # "assets/data/emoji/"
+        # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
+        # 位于 "themes/LoveIt/assets/data/emoji/" 目录
+        # "assets/data/emoji/"
+        emoji = ""
+      # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
+      [params.page.comment.facebook]
+        enable = true
+        width = "100%"
+        numPosts = 10
+        appId = "2365688650320612"
+        languageCode = "en"
+      # Telegram comments config (https://comments.app/)
+      [params.page.comment.telegram]
+        enable = false
+        siteID = ""
+        limit = 5
+        height = ""
+        color = ""
+        colorful = true
+        dislikes = false
+        outlined = false
+      # Commento comment config (https://commento.io/)
+      [params.page.comment.commento]
+        enable = false
+      # Utterances comment config (https://utteranc.es/)
+      [params.page.comment.utterances]
+        enable = false
+        # owner/repo
+        repo = ""
+        issueTerm = "pathname"
+        label = ""
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
+    # Third-party library config
+    [params.page.library]
+      [params.page.library.css]
+        # someCSS = "some.css"
+        # located in "assets/" 位于 "assets/"
+        # Or 或者
+        # someCSS = "https://cdn.example.com/some.css"
+      [params.page.library.js]
+        # someJavascript = "some.js"
+        # located in "assets/" 位于 "assets/"
+        # Or 或者
+        # someJavascript = "https://cdn.example.com/some.js"
+    # Page SEO config
+    [params.page.seo]
+      # image URL
+      images = []
+      # Publisher info
+      [params.page.seo.publisher]
+        name = "xxxx"
+        logoUrl = "/images/avatar.png"
+
+  # TypeIt config
+  [params.typeit]
+    # typing speed between each step (measured in milliseconds)
+    speed = 100
+    # blinking speed of the cursor (measured in milliseconds)
+    cursorSpeed = 1000
+    # character used for the cursor (HTML format is supported)
+    cursorChar = "|"
+    # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
+    duration = -1
+
+  # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
+  [params.verification]
+    google = ""
+    bing = ""
+    yandex = ""
+    pinterest = ""
+    baidu = ""
+
+  # Site SEO config
+  [params.seo]
+    # image URL
+    image = "/images/Apple-Devices-Preview.png"
+    # thumbnail URL
+    thumbnailUrl = "/images/screenshot.png"
+
+  # Analytics config
+  [params.analytics]
+    enable = false
+    # Google Analytics
+    [params.analytics.google]
+      id = ""
+      # whether to anonymize IP
+      anonymizeIP = true
+    # Fathom Analytics
+    [params.analytics.fathom]
+      id = ""
+      # server url for your tracker if you're self hosting
+      server = ""
+
+  # Cookie consent config
+  [params.cookieconsent]
+    enable = false
+    # text strings used for Cookie consent banner
+    [params.cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
+
+  # CDN config for third-party library files
+  [params.cdn]
+    # CDN data file name, disabled by default
+    # ("jsdelivr.yml")
+    # located in "themes/LoveIt/assets/data/cdn/" directory
+    # you can store your own data files in the same path under your project:
+    # "assets/data/cdn/"
+    # CDN 数据文件名称, 默认不启用
+    # ("jsdelivr.yml")
+    # 位于 "themes/LoveIt/assets/data/cdn/" 目录
+    # 可以在你的项目下相同路径存放你自己的数据文件:
+    # "assets/data/cdn/"
+    data = "jsdelivr.yml"
+
+  # Compatibility config
+  # 兼容性设置
+  [params.compatibility]
+    # whether to use Polyfill.io to be compatible with older browsers
+    # 是否使用 Polyfill.io 来兼容旧式浏览器
+    polyfill = false
+    # whether to use object-fit-images to be compatible with older browsers
+    # 是否使用 object-fit-images 来兼容旧式浏览器
+    objectFit = false
+
 # Markup related configuration in Hugo
+# Hugo 解析文档的配置
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
   [markup.highlight]
     codeFences = true
     guessSyntax = true
-    lineNoStart = 1
     lineNos = true
     lineNumbersInTable = true
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    # false 是必要的设置 (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
-    style = "monokai"
-    tabWidth = 4
   # Goldmark is from Hugo 0.60 the default library used for Markdown
   # Goldmark 是 Hugo 0.60 以来的默认 Markdown 解析库
   [markup.goldmark]
@@ -319,48 +559,60 @@ enableEmoji = true
       # 是否在文档中直接使用 HTML 标签
       unsafe = true
   # Table Of Contents settings
+  # 目录设置
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
 
-# Author Info
+# Author config
+# 作者配置
 [author]
-  name = "David Ballesteros"
-  # link = ""
+  name = "Red David"
+  email = ""
+  link = ""
 
-# Sitemap Info
+# Sitemap config
+# 网站地图配置
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
 
-# Permalinks Info (https://gohugo.io/content-management/urls/#permalinks)
+# Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
+# Permalinks 配置 (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
   # posts = ":year/:month/:filename"
   posts = ":filename"
 
-# Privacy Info (https://gohugo.io/about/hugo-and-gdpr/)
+# Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
+# 隐私信息配置 (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy]
+  # privacy of the Google Analytics (replaced by params.analytics.google)
+  # Google Analytics 相关隐私 (被 params.analytics.google 替代)
   [privacy.googleAnalytics]
-    anonymizeIP = true
-
+    # ...
+  [privacy.twitter]
+    enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
 
 # Options to make output .md files
+# 用于输出 Markdown 格式文档的设置
 [mediaTypes]
   [mediaTypes."text/plain"]
     suffixes = ["md"]
 
 # Options to make output .md files
+# 用于输出 Markdown 格式文档的设置
 [outputFormats.MarkDown]
   mediaType = "text/plain"
   isPlainText = true
   isHTML = false
 
 # Options to make hugo output files
+# 用于 Hugo 输出文档的设置
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]

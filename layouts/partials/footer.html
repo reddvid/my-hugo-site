@@ -1,13 +1,12 @@
 <footer class="footer" >
     <div class="copyright" style="font-size: 0.7rem;">
         {{- /* Hugo and LoveIt */ -}}
-        <div class="copyright-line" >
-            {{- printf (T "powered") `<a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a>` | safeHTML }} and <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt</a> theme
+        <div class="copyright-line" ><a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Made with ♥, Hugo</a> and <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt</a> theme
         </div>
 
         <div class="copyright-line">
             {{- /* Copyright year */ -}}
-            <i class="far fa-copyright fa-fw"></i>
+            <i class="far fa-copyright fa-fw"></i>&nbsp;
             {{- with .Site.Params.footer.since -}}
                 <span itemprop="copyrightYear">
                     {{- if lt . now.Year }}{{ . }} - {{ end }}{{ now.Year -}}
