@@ -221,7 +221,7 @@ enableEmoji = true
      # logo = "/images/logo-nopad.png"
       # title name
       # 标题名称
-      name = "David Ballesteros"
+      name = "Red David"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       # pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
@@ -298,7 +298,7 @@ enableEmoji = true
     # Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = true
+      enable = false
       # whether to keep the static table of the contents in front of the post
       keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
@@ -485,10 +485,10 @@ enableEmoji = true
 
   # Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "129071597"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
