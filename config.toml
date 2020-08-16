@@ -29,7 +29,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = "UA-129071597-1"
+    googleAnalytics = ""
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -485,10 +485,10 @@ enableEmoji = true
 
   # Analytics config
   [params.analytics]
-    enable = true
+    enable = false
     # Google Analytics
     [params.analytics.google]
-      id = "129071597"
+      id = ""
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
