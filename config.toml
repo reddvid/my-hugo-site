@@ -161,7 +161,7 @@ enableEmoji = true
         Hackernews = ""
         Kickstarter = ""
         Patreon = ""
-        Steam = "76561198051401116"
+       # Steam = "76561198051401116"
         Twitch = ""
         Strava = ""
         Skype = ""
@@ -184,7 +184,7 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "me@reddvid.xyz"
+      #  Email = "me@reddvid.xyz"
       #  RSS = true
         [languages.en.params.social.Mastodon]
       #    id = "@xxxx"
