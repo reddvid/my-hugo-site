@@ -57,9 +57,9 @@ enableEmoji = true
         weight = 3       
     [languages.en.params]
       # site description
-      description = "Red David's blog using Hugo."
+      description = "Red David's blog powered by Hugo."
       # site keywords
-      keywords = ["Gaming", "Red David", "Stream", "Coding", "Personal blog"]
+      keywords = ["Gaming", "Red David", "Stream", "Tech", "Coding", "Software Development", "Personal blog", "Freelance"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -107,9 +107,9 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "images/avatar.jpg"
           # title shown in home page (HTML format is supported)
-          title = ""
+          title = "Gamer<br/>Software developer<br/>Electronics Engineer"
           # subtitle shown in home page
-          subtitle = "Gamer. Software developer. Electronics Engineer."
+          subtitle = ""
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
@@ -127,7 +127,7 @@ enableEmoji = true
        Linkedin = "reddvid"
         Twitter = "reddvid"
      #     Instagram = "reddvid"
-        Facebook = "reddavidapps"
+        Facebook = "RedDavidGG"
         Telegram = ""
         Medium = ""
         Gitlab = ""
@@ -201,7 +201,7 @@ enableEmoji = true
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   # date format
-  dateFormat = "2006-Jan-02"
+  dateFormat = "02/Jan/2006" # 2006-Jan-02
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -240,7 +240,7 @@ enableEmoji = true
     custom = ''
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -262,7 +262,7 @@ enableEmoji = true
     # special amount of posts in each section page
     paginate = 20
     # date format (month and day)
-    dateFormat = "Jan-02"
+    dateFormat = "02-Jan"
     # amount of RSS pages
     rss = 10
 
@@ -302,7 +302,7 @@ enableEmoji = true
       # whether to keep the static table of the contents in front of the post
       keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
-      auto = true
+      auto = false
     # Code config
     [params.page.code]
       # whether to show the copy button of the code block
@@ -348,7 +348,7 @@ enableEmoji = true
       Pinterest = false
       Tumblr = true
       HackerNews = false
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
