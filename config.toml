@@ -1,4 +1,4 @@
-baseURL = "https://reddvid.xyz"
+baseURL = "https://reddavid.me"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
@@ -8,7 +8,7 @@ themesDir = "/themes"
 
 # website title
 # 网站标题
-title = "Red David"
+title = "Red David's Blog"
 
 # whether to use robots.txt
 enableRobotsTXT = true
@@ -57,13 +57,13 @@ enableEmoji = true
         weight = 3       
     [languages.en.params]
       # site description
-      description = "Red David's blog powered by Hugo."
+      description = "A casual gamer, small streamer that blogs about technology, coding and software development. Read and be updated about my personal thoughts."
       # site keywords
-      keywords = ["Gaming", "Red David", "Stream", "Tech", "Coding", "Software Development", "Personal blog", "Freelance"]
+      keywords = ["Casual Gamer", "Small Streamer", "Technology blog", "Coding", "Software Development", "Personal blog", "Freelancer"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "Red David Blog"
+        title = "Red David's Blog"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -105,7 +105,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "images/avatar.jpg"
+          avatarURL = "/images/avatar.jpg"
           # title shown in home page (HTML format is supported)
           title = "Gamer<br/>Software developer<br/>Electronics Engineer"
           # subtitle shown in home page
@@ -120,7 +120,7 @@ enableEmoji = true
         [languages.en.params.home.posts]
           enable = true
           # special amount of posts in each home posts page
-          paginate = 6
+          paginate = 7
       # Social config in home page
       [languages.en.params.social]
       GitHub = "reddvid"
@@ -133,7 +133,7 @@ enableEmoji = true
         Gitlab = ""
        # Youtubelegacy = "xxxx"
         Youtubecustom = ""
-      #  Youtubechannel = "UC5p7CWPw29oXaW84Hjiao5Q"
+       Youtubechannel = "UC5p7CWPw29oXaW84Hjiao5Q"
         Tumblr = ""
         Quora = ""
         Keybase = ""
@@ -162,7 +162,7 @@ enableEmoji = true
         Kickstarter = ""
         Patreon = ""
        # Steam = "76561198051401116"
-        Twitch = ""
+        Twitch = "reddavidGG"
         Strava = ""
         Skype = ""
         Whatsapp = ""
@@ -185,7 +185,7 @@ enableEmoji = true
         Matrix = ""
         Bilibili = ""
       #  Email = "me@reddvid.xyz"
-      #  RSS = true
+        RSS = true
         [languages.en.params.social.Mastodon]
       #    id = "@xxxx"
       #    prefix = "https://mastodon.technology/"
@@ -203,7 +203,7 @@ enableEmoji = true
   # date format
   dateFormat = "02/Jan/2006" # 2006-Jan-02
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["images/rd-lego.png"]
 
   # Header config
   [params.header]
@@ -455,7 +455,7 @@ enableEmoji = true
       # Publisher info
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        logoUrl = "/images/avatar.jpg"
 
   # TypeIt config
   [params.typeit]
