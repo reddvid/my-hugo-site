@@ -2,7 +2,7 @@ baseURL = "https://reddavid.me"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
-theme = "LoveIt"
+theme = "CodeIT"
 # themes directory
 themesDir = "/themes"
 
@@ -284,7 +284,7 @@ enableEmoji = true
     # whether to enable twemoji
     twemoji = false
     # whether to enable lightgallery
-    lightgallery = false
+    lightgallery = true
     # whether to enable the ruby extended syntax
     ruby = true
     # whether to enable the fraction extended syntax
@@ -294,7 +294,7 @@ enableEmoji = true
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
     # whether to show the full text content in RSS
-    rssFullText = false
+    rssFullText = true
     # Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
