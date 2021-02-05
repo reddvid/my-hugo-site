@@ -162,7 +162,7 @@ enableEmoji = true
         Kickstarter = ""
         Patreon = ""
        # Steam = "76561198051401116"
-        Twitch = "reddavidGG"
+       # Twitch = "reddavidGG"
         Strava = ""
         Skype = ""
         Whatsapp = ""
@@ -185,7 +185,7 @@ enableEmoji = true
         Matrix = ""
         Bilibili = ""
       #  Email = "me@reddvid.xyz"
-        RSS = true
+       # RSS = true
         [languages.en.params.social.Mastodon]
       #    id = "@xxxx"
       #    prefix = "https://mastodon.technology/"
