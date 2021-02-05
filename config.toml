@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 theme = "CodeIT"
 # themes directory
 themesDir = "/themes"
-
+publishDir = "E:/repos/reddvid.github.io"
 # website title
 # 网站标题
 title = "Red David's Blog"
