@@ -8,6 +8,7 @@ toc: false
 tags: ["Apps"]
 categories: ["Stories"]
 featuredimage: featured-image.jpg
+comments: true
 ---
 
 Your Phone Tray UWP app just got updated.

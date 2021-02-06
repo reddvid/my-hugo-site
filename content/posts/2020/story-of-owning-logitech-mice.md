@@ -8,6 +8,7 @@ tags: ["Setup", "Electronics"]
 categories: ["Stories"]
 toc: false
 featuredimage: "/images/07-20/logi-hero.png"
+comments: true
 ---
 
 Why do (or did) I own at least 5 of Logitech G mice despite the "double-clicking" issues about them? As an ECE, I knew that some percentage of any electronics produced out there do have flaws - and this is not an excuse for their price - but in the "real" world, these things can happen. Also, when looking at r/mechanicalkeyboards they combo their awesome keebs with a Logitech mouse despite them hating on Romer-G's.

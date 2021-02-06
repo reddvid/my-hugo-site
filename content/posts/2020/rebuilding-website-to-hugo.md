@@ -7,6 +7,7 @@ author: "David"
 tags: ["Coding"]
 categories: ["Stories"]
 featuredimage: "/images/hugo.png"
+comments: true
 ---
 
 It was early 2019, I think when I accidentally deleted my Wordpress database that contains at least 20 posts. Sad right? After that sad moment, I tried to repost everything using Hugo, a static website builder, but found that it was too complicated - with YAML, some .scss, layouts, etc.

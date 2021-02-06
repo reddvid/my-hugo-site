@@ -8,6 +8,7 @@ toc: false
 tags: ["Setup", "Mechanical Keyboard"]
 categories: ["Stories"]
 featuredimage: featured-image.jpg
+comments: true
 ---
 
 This is a simple review and unboxing post for my newly bought keyboard today. It is the Tecware Phantom Elite TKL with Gateron brown switches. I am using it to write this post.

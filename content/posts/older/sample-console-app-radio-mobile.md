@@ -6,6 +6,7 @@ draft: true
 tags: ["Apps"]
 categories: ["Stories"]
 featuredImage: "/images/radio-mobile-auto.jpg"
+comments: true
 ---
 
 Made a simple console app to simplify Radio Mobile software installation by auto-creating folders as stated thru the guide <a href="http://www.ve2dbe.com/download/download.html" target="_blank">here</a>

@@ -8,6 +8,7 @@ toc: false
 tags: ["Setup", "Logitech", "Gaming"]
 categories: ["Stories", "Reviews"]
 featuredimage: featured-image.jpg
+comments: true
 ---
 
 So this is my short and honest review of the G304 wireless mouse.

@@ -8,6 +8,7 @@ toc: false
 tags: ["Apps", "Fluent Design", "UWP"]
 categories: ["Stories", "Coding"]
 featuredimage: featured-image2.png
+comments: true
 ---
 
 Over these past few months, I have been checking on some fluent design concepts and app updates over Twitter and other design sites like, Dribbble, Behance, and even Medium.

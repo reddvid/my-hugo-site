@@ -8,6 +8,7 @@ author: "David"
 categories: ["Stories"]
 tags: ["Apps"]
 featuredimage: "/images/rftools.png"
+comments: true
 ---
 
 UWP SDK recently released a new support for Multi-windowing.

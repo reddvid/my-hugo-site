@@ -7,13 +7,12 @@ theme = "CodeIT"
 themesDir = "/themes"
 publishDir = "E:/repos/reddvid.github.io"
 # website title
-# 网站标题
-title = "Red David's Blog"
+title = "Red David Blog"
 
 # whether to use robots.txt
 enableRobotsTXT = true
 # whether to use git commit log
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 enableEmoji = true
 
@@ -51,19 +50,24 @@ enableEmoji = true
         url = "/portfolio/"
         weight = 2  
        [[languages.en.menu.main]]
+        identifier = "links"
+        name = "Links"
+        url = "/links/"
+        weight = 3       
+       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about/"
-        weight = 3       
+        weight = 4      
     [languages.en.params]
       # site description
-      description = "A casual gamer, small streamer that blogs about technology, coding and software development. Read and be updated about my personal thoughts."
+      description = "Electronics Engineer, Gamer and Streamer. Blogging about technology, coding and software development, and music."
       # site keywords
       keywords = ["Casual Gamer", "Small Streamer", "Technology blog", "Coding", "Software Development", "Personal blog", "Freelancer"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "Red David's Blog"
+        title = "Red David Blog"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -107,7 +111,7 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.jpg"
           # title shown in home page (HTML format is supported)
-          title = "Gamer<br/>Software developer<br/>Electronics Engineer"
+          title = "Electronics Engineer<br/>Software developer"
           # subtitle shown in home page
           subtitle = ""
           # whether to use typeit animation for subtitle
@@ -123,17 +127,17 @@ enableEmoji = true
           paginate = 7
       # Social config in home page
       [languages.en.params.social]
-      GitHub = "reddvid"
-       Linkedin = "reddvid"
+        GitHub = "reddvid"
+        Linkedin = "reddvid"
         Twitter = "reddvid"
-     #     Instagram = "reddvid"
+        # Instagram = "reddvid"
         Facebook = "RedDavidGG"
         Telegram = ""
         Medium = ""
         Gitlab = ""
-       # Youtubelegacy = "xxxx"
+        # Youtubelegacy = "xxxx"
         Youtubecustom = ""
-       Youtubechannel = "UC5p7CWPw29oXaW84Hjiao5Q"
+        Youtubechannel = "UC5p7CWPw29oXaW84Hjiao5Q"
         Tumblr = ""
         Quora = ""
         Keybase = ""
@@ -149,7 +153,7 @@ enableEmoji = true
         Flickr = ""
         Xing = ""
         Snapchat = ""
-       # Soundcloud = "reddvid"
+        # Soundcloud = "reddvid"
         Spotify = ""
         Bandcamp = ""
         Paypal = ""
@@ -161,8 +165,8 @@ enableEmoji = true
         Hackernews = ""
         Kickstarter = ""
         Patreon = ""
-       # Steam = "76561198051401116"
-       # Twitch = "reddavidGG"
+        # Steam = "76561198051401116"
+        # Twitch = "reddavidGG"
         Strava = ""
         Skype = ""
         Whatsapp = ""
@@ -184,11 +188,11 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-      #  Email = "me@reddvid.xyz"
-       # RSS = true
+        # Email = "me@reddvid.xyz"
+        # RSS = true
         [languages.en.params.social.Mastodon]
-      #    id = "@xxxx"
-      #    prefix = "https://mastodon.technology/"
+          #    id = "@xxxx"
+          #    prefix = "https://mastodon.technology/"
  
 
 [params]
@@ -201,60 +205,45 @@ enableEmoji = true
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   # date format
-  dateFormat = "02/Jan/2006" # 2006-Jan-02
+  dateFormat = "Jan 02, 2006" # 2006-Jan-02
   # website images for Open Graph and Twitter Cards
-  images = ["images/rd-lego.png"]
+  images = ["reddavid-og.png"]
 
   # Header config
   [params.header]
     # desktop header mode ("fixed", "normal", "auto")
-    # 桌面端导航栏模式 ("fixed", "normal", "auto")
     desktopMode = "fixed"
     # mobile header mode ("fixed", "normal", "auto")
-    # 移动端导航栏模式 ("fixed", "normal", "auto")
     mobileMode = "auto"
     # Header title config
-    # 页面头部导航栏标题配置
     [params.header.title]
       # URL of the LOGO
-      # LOGO 的 URL
-     # logo = "/images/logo-nopad.png"
+      logo = ""
       # title name
-      # 标题名称
       name = "Red David"
       # you can add extra information before the name (HTML format is supported), such as icons
-      # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       # pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
-      # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
       # whether to use typeit animation for title name
-      # 是否为标题显示打字机动画
       typeit = false
 
   # Footer config
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    # 自定义内容 (支持 HTML 格式)
     custom = ''
     # whether to show Hugo and theme info
-    # 是否显示 Hugo 和主题信息
     hugo = false
     # whether to show copyright info
-    # 是否显示版权信息
     copyright = true
     # whether to show the author
-    # 是否显示作者
     author = true
     # site creation time
-    # 网站创立年份
     since = 2019
     # ICP info only in China (HTML format is supported)
-    # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
     # license info (HTML format is supported)
-    # 许可协议信息 (支持 HTML 格式)
     license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   # Section (all posts) page config
@@ -370,12 +359,12 @@ enableEmoji = true
       Mix = false
     # Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqus]
         enable = false
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "reddavid"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
@@ -385,9 +374,9 @@ enableEmoji = true
         clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = false
-        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        enable = true
+        appId = "LkqwzgjTpx8hPeow6VXjgIWk-MdYXbMMI"
+        appKey = "DlgLhTzl8vgGxofnqVMQQmaD"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -397,22 +386,21 @@ enableEmoji = true
         recordIP = true
         highlight = true
         enableQQ = false
-        serverURLs = "https://leancloud.hugoloveit.com"
+        serverURLs = ""
         # emoji data file name, default is "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # located in "themes/LoveIt/assets/data/emoji/" directory
         # you can store your own data files in the same path under your project:
         # "assets/data/emoji/"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
-        # 位于 "themes/LoveIt/assets/data/emoji/" 目录
         # "assets/data/emoji/"
         emoji = ""
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
-        enable = true
-        width = "100%"
+        enable = false
+        width = "500px"
         numPosts = 10
-        appId = "2365688650320612"
+        appId = "358132315247153"
         languageCode = "en"
       # Telegram comments config (https://comments.app/)
       [params.page.comment.telegram]
@@ -440,13 +428,11 @@ enableEmoji = true
     [params.page.library]
       [params.page.library.css]
         # someCSS = "some.css"
-        # located in "assets/" 位于 "assets/"
-        # Or 或者
+        # located in "assets/"
         # someCSS = "https://cdn.example.com/some.css"
       [params.page.library.js]
         # someJavascript = "some.js"
-        # located in "assets/" 位于 "assets/"
-        # Or 或者
+        # located in "assets/"
         # someJavascript = "https://cdn.example.com/some.js"
     # Page SEO config
     [params.page.seo]
@@ -513,38 +499,26 @@ enableEmoji = true
     # located in "themes/LoveIt/assets/data/cdn/" directory
     # you can store your own data files in the same path under your project:
     # "assets/data/cdn/"
-    # CDN 数据文件名称, 默认不启用
-    # ("jsdelivr.yml")
-    # 位于 "themes/LoveIt/assets/data/cdn/" 目录
-    # 可以在你的项目下相同路径存放你自己的数据文件:
-    # "assets/data/cdn/"
     data = "jsdelivr.yml"
 
   # Compatibility config
-  # 兼容性设置
   [params.compatibility]
     # whether to use Polyfill.io to be compatible with older browsers
-    # 是否使用 Polyfill.io 来兼容旧式浏览器
     polyfill = false
     # whether to use object-fit-images to be compatible with older browsers
-    # 是否使用 object-fit-images 来兼容旧式浏览器
     objectFit = false
 
 # Markup related configuration in Hugo
-# Hugo 解析文档的配置
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
-  # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
   [markup.highlight]
     codeFences = true
     guessSyntax = true
     lineNos = true
     lineNumbersInTable = true
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
-    # false 是必要的设置 (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
   # Goldmark is from Hugo 0.60 the default library used for Markdown
-  # Goldmark 是 Hugo 0.60 以来的默认 Markdown 解析库
   [markup.goldmark]
     [markup.goldmark.extensions]
       definitionList = true
@@ -556,39 +530,32 @@ enableEmoji = true
       typographer = true
     [markup.goldmark.renderer]
       # whether to use HTML tags directly in the document
-      # 是否在文档中直接使用 HTML 标签
       unsafe = true
   # Table Of Contents settings
-  # 目录设置
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
 
 # Author config
-# 作者配置
 [author]
   name = "Red David"
   email = ""
   link = ""
 
 # Sitemap config
-# 网站地图配置
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
 
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
-# Permalinks 配置 (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
   # posts = ":year/:month/:filename"
   posts = ":filename"
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
-# 隐私信息配置 (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy]
   # privacy of the Google Analytics (replaced by params.analytics.google)
-  # Google Analytics 相关隐私 (被 params.analytics.google 替代)
   [privacy.googleAnalytics]
     # ...
   [privacy.twitter]
@@ -597,20 +564,17 @@ enableEmoji = true
     privacyEnhanced = true
 
 # Options to make output .md files
-# 用于输出 Markdown 格式文档的设置
 [mediaTypes]
   [mediaTypes."text/plain"]
     suffixes = ["md"]
 
 # Options to make output .md files
-# 用于输出 Markdown 格式文档的设置
 [outputFormats.MarkDown]
   mediaType = "text/plain"
   isPlainText = true
   isHTML = false
 
 # Options to make hugo output files
-# 用于 Hugo 输出文档的设置
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]

@@ -5,6 +5,7 @@ draft: false
 
 description: "See David 'Red' Ballesteros' simplistic professional portfolio"
 author: "David"
+comments: false
 ---
 
 <img src="featured-image.png" style="display:block;margin-left:auto;margin-right:auto;width:40%;" alt="Red David Logo">

@@ -9,6 +9,7 @@ description: "Short introduction on why I get into coding"
 categories: ["Stories"]
 
 featuredImage: "/images/ard-and.jpg"
+comments: true
 ---
 
 Started coding using VB.Net and Forms for our final year thesis (which programming was NOT a major). Then while gearing up for board exams, learnt to code and design for Windows Phone 7.5/7.8/8 using XAML, C# & Silverlight. 

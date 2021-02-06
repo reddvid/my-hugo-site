@@ -7,6 +7,7 @@ author: "David"
 tags: ["Apps", "Development", "Software", "Android"]
 categories: ["Stories"]
 featuredimage: featured-image.png
+comments: true
 ---
 
 # The Pandemic and Night Owls

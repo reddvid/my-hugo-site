@@ -8,6 +8,7 @@ author: "David"
 categories: ["Stories"]
 tags: ["Apps"]
 featuredimage: "/images/rpn-newui.jpg"
+comments: true
 ---
 
 A quite small update to fix and improve the overall UI of the app. Adding some fluent design, new font and smoother experience.

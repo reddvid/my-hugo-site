@@ -3,8 +3,9 @@
 {{- $comment := .Scratch.Get "comment" | default dict -}}
 {{- $commentConfig := dict -}}
 
-{{- if $comment.enable -}}
-    <div id="comments">
+{{- if and $comment.enable .Params.comments -}}
+<div id="comments">
+        <h2 style="margin: 0 auto; text-align: left; margin-bottom: 10px;">Comments</h2>
         {{- /* Disqus Comment System */ -}}
         {{- $disqus := $comment.disqus | default dict -}}
         {{- if $disqus.enable -}}
@@ -125,6 +126,6 @@
             </noscript>
         {{- end -}}
     </div>
-{{- end -}}
+    {{- end -}}
 
 {{- dict "comment" $commentConfig | dict "config" | merge (.Scratch.Get "this") | .Scratch.Set "this" -}}

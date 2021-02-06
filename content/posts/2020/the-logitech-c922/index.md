@@ -8,7 +8,7 @@ toc: false
 tags: ["Logitech", "C922", "Setup"]
 categories: ["Stories"]
 featuredimage: featured-image.jpg
-
+comments: true
 ---
 
 

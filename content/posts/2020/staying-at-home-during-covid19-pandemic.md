@@ -7,6 +7,7 @@ author: "David"
 tags: ["Covid19"]
 categories: ["Stories"]
 featuredimage: "/images/at-home.jpg"
+comments: true
 ---
 
 When the sudden rise of Covid-19 cases here in the Philippines, the government was urged to implement a community quarantine - which was a lockdown - public transportation is suspended, non-essential businesses must be closed or simply <strong>everyone should stay at home</strong>.

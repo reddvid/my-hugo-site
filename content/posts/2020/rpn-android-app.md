@@ -7,6 +7,7 @@ author: "David"
 tags: ["Apps"]
 categories: ["Stories"]
 featuredimage: "/images/rpn-android.png"
+comments: true
 ---
 
 Hey hey, recently I branched out my C# and apps knowledge to create and actually port or make versions of my UWP apps to Android using Xamarin Forms.

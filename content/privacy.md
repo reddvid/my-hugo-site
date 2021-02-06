@@ -2,6 +2,7 @@
 title: "Privacy Policy for Red David Apps"
 date: 2020-02-23T13:10:38+08:00
 draft: false
+comments: false
 ---
 
                 
