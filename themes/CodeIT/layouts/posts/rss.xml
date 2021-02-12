@@ -1,4 +1,5 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>
             {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" }} - {{ .Site.Title -}}
@@ -8,7 +9,7 @@
         </link>
         <description>
             {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" }} | {{ .Site.Title -}}
-        </description>
+        </description>      
         <generator>Hugo -- gohugo.io</generator>
         {{- with .Site.LanguageCode -}}
             <language>

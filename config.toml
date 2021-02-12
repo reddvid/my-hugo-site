@@ -53,12 +53,17 @@ enableEmoji = true
         identifier = "links"
         name = "Links"
         url = "/links/"
-        weight = 3       
+        weight = 3   
+      [[languages.en.menu.main]]
+        identifier = "wall"
+        name = "Star Wall"
+        url = "/starwall/"
+        weight = 4       
        [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about/"
-        weight = 4      
+        weight = 5      
     [languages.en.params]
       # site description
       description = "Electronics Engineer, Gamer and Streamer. Blogging about technology, coding and software development, and music."
@@ -567,6 +572,8 @@ enableEmoji = true
 [mediaTypes]
   [mediaTypes."text/plain"]
     suffixes = ["md"]
+  [mediaTypes."application/rss"]
+    suffixes = ["rss"]
 
 # Options to make output .md files
 [outputFormats.MarkDown]

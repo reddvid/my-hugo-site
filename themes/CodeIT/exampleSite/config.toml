@@ -990,7 +990,7 @@ ignoreErrors = ["error-remote-getjson"]
 [mediaTypes]
   [mediaTypes."text/plain"]
     suffixes = ["md"]
-
+    
 # Options to make output .md files
 [outputFormats.MarkDown]
   mediaType = "text/plain"
