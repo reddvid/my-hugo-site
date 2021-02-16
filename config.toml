@@ -7,7 +7,7 @@ theme = "CodeIT"
 themesDir = "/themes"
 publishDir = "E:/repos/reddvid.github.io"
 # website title
-title = "Red David Blog"
+title = "Red David | Coding, Tech, Gaming, and Music"
 
 # whether to use robots.txt
 enableRobotsTXT = true

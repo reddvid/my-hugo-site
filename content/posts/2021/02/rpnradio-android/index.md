@@ -6,7 +6,7 @@ author: "David"
 
 tags: ["Apps", "Android", "App development"]
 categories: ["Stories"]
-featuredimage: featured-image.png
+featuredimage: "/images/feat/rpnradio.png"
 comments: true
 ---
 

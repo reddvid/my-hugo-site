@@ -7,7 +7,7 @@ author: "David"
 toc: false
 tags: ["Setup", "Logitech", "Gaming"]
 categories: ["Stories", "Reviews"]
-featuredimage: featured-image.jpg
+featuredimage: "/images/feat/g304.jpg"
 comments: true
 ---
 

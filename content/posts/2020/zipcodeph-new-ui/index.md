@@ -7,7 +7,7 @@ author: "David"
 toc: false
 tags: ["Apps", "Fluent Design", "UWP"]
 categories: ["Stories", "Coding"]
-featuredimage: featured-image2.png
+featuredimage: "/images/feat/zipcodeph.png"
 comments: true
 ---
 

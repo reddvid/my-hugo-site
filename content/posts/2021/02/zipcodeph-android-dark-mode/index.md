@@ -6,7 +6,7 @@ author: "David"
 
 tags: ["Apps", "Development", "Software", "Android"]
 categories: ["Stories"]
-featuredimage: featured-image.png
+featuredimage: "/images/feat/zipcodeph-android.png"
 comments: true
 ---
 

@@ -7,7 +7,7 @@ author: "David"
 toc: false
 tags: ["Apps"]
 categories: ["Stories"]
-featuredimage: featured-image.jpg
+featuredimage: "/images/feat/your-phone.jpg"
 comments: true
 ---
 

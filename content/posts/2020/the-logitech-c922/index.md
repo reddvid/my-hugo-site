@@ -7,7 +7,7 @@ author: "David"
 toc: false
 tags: ["Logitech", "C922", "Setup"]
 categories: ["Stories"]
-featuredimage: featured-image.jpg
+featuredimage: "/images/feat/logitech-c922.jpg"
 comments: true
 ---
 

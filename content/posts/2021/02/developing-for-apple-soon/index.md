@@ -6,7 +6,7 @@ author: "David"
 
 tags: ["Apps", "Software development", "Apple", "iOS"]
 categories: ["Stories"]
-featuredimage: featured-image.png
+featuredimage: "/images/feat/appstore.png"
 comments: true
 ---
 

@@ -7,7 +7,7 @@ author: "David"
 toc: false
 tags: ["Setup", "Mechanical Keyboard"]
 categories: ["Stories"]
-featuredimage: featured-image.jpg
+featuredimage: "/images/feat/tecware.jpg"
 comments: true
 ---
 

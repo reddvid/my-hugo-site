@@ -7,7 +7,7 @@ author: "David"
 toc: false
 tags: ["Devices, Setup"]
 categories: ["Stories"]
-featuredimage: featured-image.jpg
+featuredimage: "/images/feat/acer-laptop.jpg"
 comments: true
 ---
 

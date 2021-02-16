@@ -6,7 +6,7 @@ author: "David"
 
 tags: ["Review", "2020"]
 categories: ["Stories"]
-featuredimage: featured-image.jpg
+featuredimage: "/images/feat/bye-2020.jpg"
 
 lightgallery: true
 comments: true
