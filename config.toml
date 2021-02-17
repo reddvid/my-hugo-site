@@ -28,7 +28,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
+    googleAnalytics = "UA-129071597-1"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -68,7 +68,7 @@ enableEmoji = true
       # site description
       description = "Electronics Engineer, Gamer and Streamer. Blogging about technology, coding and software development, and music."
       # site keywords
-      keywords = ["Casual Gamer", "Small Streamer", "Technology blog", "Coding", "Software Development", "Personal blog", "Freelancer"]
+      keywords = ["Red David", "Red David Blog", "RedDavid", "Casual Gamer", "Small Streamer", "Technology blog", "Coding", "Software Development", "Personal blog", "Freelancer"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -141,8 +141,8 @@ enableEmoji = true
         Medium = ""
         Gitlab = ""
         # Youtubelegacy = "xxxx"
-        Youtubecustom = ""
-        Youtubechannel = "UC5p7CWPw29oXaW84Hjiao5Q"
+        Youtubecustom = "RedDavid"
+        #Youtubechannel = "UC5p7CWPw29oXaW84Hjiao5Q"
         Tumblr = ""
         Quora = ""
         Keybase = ""
@@ -337,7 +337,7 @@ enableEmoji = true
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = true
       Pinterest = false
       Tumblr = true
@@ -348,7 +348,7 @@ enableEmoji = true
       Xing = false
       Line = false
       Instapaper = false
-      Pocket = false
+      Pocket = true
       Digg = false
       Stumbleupon = false
       Flipboard = false
