@@ -4,9 +4,9 @@
 
 // ========== Global ========== //
 // Font and Line Height
-$global-font-family: system-ui, -apple-system, BlinkMacSystemFont, PingFang SC,
-  Microsoft YaHei UI, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans,
-  Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif !default;
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800;900&display=swap');
+
+$global-font-family: 'Rubik', Arial Nova, -apple-system, BlinkMacSystemFont, PingFang SC, Microsoft Yahei, Segoe UI, Helvetica, Arial, sans-serif, Segoe UI Emoji;
 $global-font-size: 16px;
 $global-font-weight: 400;
 $global-line-height: 1.5rem;
