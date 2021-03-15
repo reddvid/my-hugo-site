@@ -28,6 +28,13 @@ The technical specs and comparison is available in the internet which you can vi
 
 I forgot to take pictures to avoid the SSD from picking up some static from my desk mat. But I did take a picture of the box before installing it on the system.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42098109-8925-4113-a375-584ee655cf12/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42098109-8925-4113-a375-584ee655cf12/Untitled.png)
+<figure class="image">
+<img src="/images/03-21/samsung-evo/samsung-970-evo-plus-box.png" style="display:inline;margin-left:auto;margin-right:auto;width:60%;">
+<figcaption><em>Samsung 970 EVO Plus</em></figcaption>
+
+<img src="/images/03-21/samsung-evo/taskbar.png" style="display:inline;margin-left:auto;margin-right:auto;width:40%;">
+<figcaption><em>Taskbar</em></figcaption>
+</figure>
+<br/>
 
 This is not to flaunt the things I have, I'm just trying to share my thoughts and share which can help my daily activities like coding, and file and graphics processing.
