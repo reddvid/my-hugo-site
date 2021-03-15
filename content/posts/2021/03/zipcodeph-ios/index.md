@@ -15,7 +15,7 @@ lightgallery: true
 
 For the last few weeks, I spent my free time building my app, ZIP Code PH, for iOS using Apple's native language SwiftUI.
 
-Using a mac, is not that hard anymore since I've test ran macOS Catalina on VirtualBox. I managed to run XCode and tried to tinker with the language and built some UI mockups.
+Using a Mac is not that hard anymore since I've test ran macOS Catalina on VirtualBox. I managed to run XCode and tried to tinker with the language, and built some UI mockups.
 
 And luckily, the workplace has acquired a mac mini to cater Apple users for our apps (which is coming as soon as possible). I will also be the one developing the iOS apps, so check them out soon.
 
@@ -111,7 +111,7 @@ HStack {
 I spent a few times making the search (filtering) logic work the way I wanted that I almost gave up with SwiftUI programming 😅
 
 ## Menu and Area List Page
-After understanding the filtering code while developing the Search Page, it is time to code the Menu and Area pages. The UI looks a lot like the Android counterpart but the built in Title style for iOS makes the UI better by collapsing the title to inline when scrolled. This is how it looks like on version 1.0.4
+After understanding the filtering code while developing the Search Page, it is time to code the Menu and Area pages. The UI looks a lot like the Android counterpart but the built-in Title style for iOS makes the UI better by collapsing the title to inline when scrolled. This is how it looks like on version 1.0.4
 
 <figure class="image">
 <img src="/images/03-21/zipcodeph-ios/area.png" style="display:inline;margin-left:auto;margin-right:auto;width:40%;">
@@ -149,12 +149,12 @@ div#gallery-zipcodephios a {
 
 <div id="gallery-zipcodephios">
 {{< image src="/images/03-21/zipcodeph-ios/gallery/color-mode.png" alt="Light and Dark Mode" >}}
-{{< image src="/images/03-21/zipcodeph-ios/gallery/favorites.png" alt="Light and Dark Mode" >}}
-{{< image src="/images/03-21/zipcodeph-ios/gallery/search.png" alt="Light and Dark Mode" >}}
-{{< image src="/images/03-21/zipcodeph-ios/gallery/trivia.png" alt="Light and Dark Mode" >}}
-{{< image src="/images/03-21/zipcodeph-ios/gallery/ncr-and-luzon.png" alt="Light and Dark Mode" >}}
-{{< image src="/images/03-21/zipcodeph-ios/gallery/visayas.png" alt="Light and Dark Mode" >}}
-{{< image src="/images/03-21/zipcodeph-ios/gallery/mindanao.png" alt="Light and Dark Mode" >}}
+{{< image src="/images/03-21/zipcodeph-ios/gallery/favorites.png" alt="Favorites Page" >}}
+{{< image src="/images/03-21/zipcodeph-ios/gallery/search.png" alt="Search Page" >}}
+{{< image src="/images/03-21/zipcodeph-ios/gallery/trivia.png" alt="Trivias" >}}
+{{< image src="/images/03-21/zipcodeph-ios/gallery/ncr-and-luzon.png" alt="NCR and Luzon" >}}
+{{< image src="/images/03-21/zipcodeph-ios/gallery/visayas.png" alt="Visayas" >}}
+{{< image src="/images/03-21/zipcodeph-ios/gallery/mindanao.png" alt="Mindanao" >}}
 </div>
 
 # You Can Get it Soon
