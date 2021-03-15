@@ -1,7 +1,7 @@
 ---
 title: "ZIP Code PH for iOS"
 date: 2021-03-15T00:32:11+08:00
-draft: true
+draft: false
 author: "David"
 
 tags: ["iOS", "Coding", "SwiftUI", "Apple"]
@@ -54,7 +54,7 @@ I didn't explorer SwiftUI that much but I found this code to build the Search ba
 </figure>
 <br/>
 
-```swiftui
+```swift
 HStack {
     TextField("Search ZIP Code PH", text: $text)
         .padding(7)

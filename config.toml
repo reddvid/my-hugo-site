@@ -4,8 +4,8 @@ defaultContentLanguage = "en"
 # theme
 theme = "CodeIT"
 # themes directory
-themesDir = "/themes"
-publishDir = "E:/repos/reddvid.github.io"
+themesDir = "themes"
+# publishDir = "E:/repos/reddvid.github.io"
 # website title
 title = "Red David | Coding, Tech, Gaming, and Music"
 
