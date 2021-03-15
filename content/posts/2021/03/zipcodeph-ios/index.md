@@ -1,6 +1,6 @@
 ---
-title: "ZIP Code PH for iOS"
-date: 2021-03-14T00:32:11+08:00
+title: "[Update: NOW AVAILABLE] ZIP Code PH for iOS"
+date: 2021-03-16T01:28:15+08:00
 draft: false
 author: "David"
 
@@ -10,6 +10,14 @@ featuredimage: "/images/feat/zipcodeph-ios.png"
 comments: true
 lightgallery: true
 ---
+
+# Update: Now Available
+You can get the app from App Store (iPhone and iPad) for only Php49 (US$0.99) - sorry for the paywall. I'm still a struggling developer and just to let you know, developing for Apple costs more compared to Windows and Google Play Store.
+
+Get the app below: <br/>
+<a href="https://apps.apple.com/us/app/zip-code-ph/id1555921863?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1615766400&h=60d62bace1ec567408893f9085310f3c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a><img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/a1b53b4233734ce37673d9f70803db74/47cd37c9-fb35-4a15-b8b8-958219968ea0.png" width="200px" style="display: inline-block;margin-left: 20px;">
+
+<hr/>
 
 # Let's Go
 
@@ -157,7 +165,9 @@ div#gallery-zipcodephios a {
 {{< image src="/images/03-21/zipcodeph-ios/gallery/mindanao.png" alt="Mindanao" >}}
 </div>
 
-# You Can Get it Soon
+# (Now Available) You Can Get it Soon
+<a href="https://apple.co/3lrnrBO" target="_blank">Get the app</a>
+
 The app can be tested and I will share the TestFlight link soon. I am still fixing some minor issues and will announce the availability on a new blog post.
 
 For the meantime, the app is still available for Android and Windows 10.
