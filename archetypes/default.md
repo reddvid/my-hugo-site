@@ -6,7 +6,7 @@ author: "David"
 
 tags: ["Apps"]
 categories: ["Stories"]
-featuredimage: "images/feat/image.jog"
+featuredimage: "/images/feat/image.jpg"
 comments: true
 ---
 
