@@ -8,6 +8,7 @@ tags: ["Apps", "Website", "RPN", "RPN Radio", "Android", "Webapp"]
 categories: ["Stories", "Web Development", "Coding"]
 featuredimage: "/images/feat/rpn-tunein.png"
 comments: true
+images: ["/images/og/tunein.png"]
 ---
 
 I updated the tune-in website for RPN. This post will detail the changes, what's new or removed, and how the update went.

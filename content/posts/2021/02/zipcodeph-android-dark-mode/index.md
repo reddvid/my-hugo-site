@@ -8,6 +8,7 @@ tags: ["Apps", "Development", "Software", "Android"]
 categories: ["Stories"]
 featuredimage: "/images/feat/zipcodeph-android.png"
 comments: true
+images: ["/images/og/zipcodeph-android.png"]
 ---
 
 # The Pandemic and Night Owls

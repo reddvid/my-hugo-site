@@ -9,6 +9,7 @@ categories: ["Software development", "Apps"]
 featuredimage: "/images/feat/zipcodeph-ios.png"
 comments: true
 lightgallery: true
+images: ["/images/og/zipcodeph-ios.png"]
 ---
 
 # Update: Now Available

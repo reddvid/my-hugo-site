@@ -8,6 +8,7 @@ tags: ["Flutter", "Google", "Android Studio", "Android", "Dev"]
 categories: ["Stories", "Coding", "Software development"]
 featuredimage: "/images/feat/android-love-flutter.png"
 comments: true
+images: ["/images/og/flutter-coding.png"]
 ---
 
 I've heard about Flutter a long time ago but never actually used it or read in-depth about it. But I knew it was a UI framework from Google which uses a single code-base for mobile and web apps.

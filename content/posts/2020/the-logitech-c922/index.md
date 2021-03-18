@@ -9,6 +9,7 @@ tags: ["Logitech", "C922", "Setup"]
 categories: ["Stories"]
 featuredimage: "/images/feat/logitech-c922.jpg"
 comments: true
+images: ["/images/og/logi-c922.png"]
 ---
 
 

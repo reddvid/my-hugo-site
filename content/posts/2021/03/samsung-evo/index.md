@@ -8,6 +8,7 @@ tags: ["Samsung", "SSD", "Samsung 970 EVO Plus"]
 categories: ["Stories", "Tech", "PC Upgrade"]
 featuredimage: "/images/feat/970-evo-plus.webp"
 comments: true
+images: ["/images/og/samsung-970evo.png"]
 ---
 
 Here we go again folks! Another PC upgrade, this time we take our storage to the next level.

@@ -9,6 +9,7 @@ tags: ["Setup", "Logitech", "Gaming"]
 categories: ["Stories", "Reviews"]
 featuredimage: "/images/feat/g304.jpg"
 comments: true
+images: ["/images/og/logi-g304.png"]
 ---
 
 So this is my short and honest review of the G304 wireless mouse.

@@ -8,6 +8,7 @@ tags: ["Apps", "Software development", "Apple", "iOS"]
 categories: ["Stories"]
 featuredimage: "/images/feat/appstore.png"
 comments: true
+images: ["/images/og/appstore.png"]
 ---
 
 # Apple User -> Me

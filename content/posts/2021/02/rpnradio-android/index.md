@@ -8,6 +8,7 @@ tags: ["Apps", "Android", "App development"]
 categories: ["Stories"]
 featuredimage: "/images/feat/rpnradio.png"
 comments: true
+images: ["/images/og/rpnradio.png"]
 ---
 
 This should just be a short post to promote and showcase this Android app I developed for my job.

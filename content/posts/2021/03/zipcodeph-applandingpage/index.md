@@ -8,6 +8,7 @@ tags: ["Apps", "ZIP Code PH", "Website", "App Landing Page", "Web Design"]
 categories: ["App Development", "Web Development"]
 featuredimage: "/images/feat/zipcodeph-applanding.png"
 comments: true
+images: ["/images/og/zipcodeph-landingpage.png"]
 ---
 
 Now that ZIP Code PH is available for both Android and iOS, I wanted to build a landing page for it.

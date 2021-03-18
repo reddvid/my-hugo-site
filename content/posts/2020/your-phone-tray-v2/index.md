@@ -9,6 +9,7 @@ tags: ["Apps"]
 categories: ["Stories"]
 featuredimage: "/images/feat/your-phone.jpg"
 comments: true
+images: ["/images/og/your-phone-tray.png"]
 ---
 
 Your Phone Tray UWP app just got updated.

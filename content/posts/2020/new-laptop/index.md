@@ -9,6 +9,7 @@ tags: ["Devices, Setup"]
 categories: ["Stories"]
 featuredimage: "/images/feat/acer-laptop.jpg"
 comments: true
+images: ["/images/og/new-laptop.png"]
 ---
 
 Last February 15, I got myself a new Acer laptop. It is an Acer Nitro 5 laptop sporting an AMD Ryzen 3550H with RX560X Graphics. This makes my 3rd Acer laptop in a span of 8+ years and my first ever AMD on a laptop (had an AMD Athlon X2 PC before).

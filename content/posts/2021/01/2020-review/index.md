@@ -10,6 +10,7 @@ featuredimage: "/images/feat/bye-2020.jpg"
 
 lightgallery: true
 comments: true
+images: ["/images/og/goodbye-2020.png"]
 ---
 
 

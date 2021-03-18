@@ -9,6 +9,7 @@ tags: ["Apps", "Fluent Design", "UWP"]
 categories: ["Stories", "Coding"]
 featuredimage: "/images/feat/zipcodeph.png"
 comments: true
+images: ["/images/og/zipcodeph-windows.png"]
 ---
 
 Over these past few months, I have been checking on some fluent design concepts and app updates over Twitter and other design sites like, Dribbble, Behance, and even Medium.
