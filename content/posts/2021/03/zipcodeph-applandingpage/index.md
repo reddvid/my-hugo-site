@@ -4,8 +4,8 @@ date: 2021-03-19T02:21:44+08:00
 draft: false
 author: "David"
 
-tags: ["Apps"]
-categories: ["Stories"]
+tags: ["Apps", "ZIP Code PH", "Website", "App Landing Page", "Web Design"]
+categories: ["App Development", "Web Development"]
 featuredimage: "/images/feat/zipcodeph-applanding.png"
 comments: true
 ---
