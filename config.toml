@@ -490,11 +490,11 @@ enableEmoji = true
 
   # Cookie consent config
   [params.cookieconsent]
-    enable = false
+    enable = true
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
-      message = ""
-      dismiss = ""
+      message = "We use cookies on this website to give you the best experience on our site and show you relevant ads. Read more on our privacy policy."
+      dismiss = "Ok, I understand"
       link = ""
 
   # CDN config for third-party library files
