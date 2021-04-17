@@ -1,18 +1,19 @@
 ---
-title: "Mc S02"
+title: "Streaming Again & Minecraft SMP Season 2"
 date: 2021-04-18T02:52:30+08:00
-draft: true
+draft: false
 author: "David"
 
 tags: ["Apps"]
 categories: ["Stories"]
-featuredimage: "/images/feat/image.jpg"
+featuredimage: "/images/feat/mc-smp-s02.png"
 comments: true
+images: ["/images/feat/mc-smp-s02.png"]
 ---
 
 Rejoice! My more-than-a-month-long hiatus finally came to an end - I'm back to streaming video games in Facebook Gaming. In just 2 days, I've managed to garner a whopping 8+ hours as compared before.
 
-This also means that I am back to relieving some stress thru my beloved game Minecraft Survival.
+This also means that I am back to relieving some stress thru my beloved game Minecraft, (Survival Mode).
 
 # First World?
 
@@ -20,7 +21,7 @@ The first server I rented became <strike>toxic</strike> unenjoyable after a few 
 
 I tried to reload the server with a new world but it kept corrupting upto the point that I reverted it back to the older (toxic) world. And I stopped playing less and less.
 
-# Refreshed and New?
+# Refreshed and New? SEASON TWO
 
 Yes, after I decided to stream again, I hastily rented a new server and invite some of my OG followers to play with me. As of now, the world is still peaceful and managed to invite more players in hoping we can live happily in the upcoming days.
 
@@ -46,7 +47,7 @@ Now with regained confidence, I am on the path to reach that goal while improvin
 
 Also, I tried streaming mobile games now and then but the current setup is not suited for it. I am slowly building funds to get the setup for mobile games too.
 
-Receiving stars during my live streams are very much appreciated by placing your names on my Starwall as seen here: `[Star-senders Wall](https://reddavid.me/starwall)`
+Receiving stars during my live streams are very much appreciated by placing your names on my Starwall here: [Star-senders Wall](https://reddavid.me/starwall)
 
 Buy me Coffee: [https://www.buymeacoffee.com/RedDavid](https://www.buymeacoffee.com/RedDavid)
 
