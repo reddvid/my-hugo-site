@@ -4,7 +4,7 @@ date: 2021-04-18T02:52:30+08:00
 draft: false
 author: "David"
 
-tags: ["Apps"]
+tags: ["Facebook", "Facebook Gaming", "Minecraft", "Gaming", "SMP", "Shockbyte"]
 categories: ["Stories"]
 featuredimage: "/images/feat/mc-smp-s02.png"
 comments: true
