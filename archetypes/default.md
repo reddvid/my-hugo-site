@@ -8,5 +8,5 @@ tags: ["Apps"]
 categories: ["Stories"]
 featuredimage: "/images/feat/image.jpg"
 comments: true
+images: ["/images/og/zipcodeph-ios.png"]
 ---
-
