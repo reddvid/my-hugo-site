@@ -12,11 +12,12 @@ comments: true
 <ul id="people-list" style="list-style-type: none;">
     <li>Marineth Ebora</li>
     <li>Jan Montejo</li>
+    <li>Lloyd Nolasco</li>
     <li>Neng Crochet</li>
     <li>Kestler Fernandez</li>
     <li>Mark Kevin Lamsen</li>
-    <li>Lloyd Nolasco</li>
     <li>Jairus Gabres</li>
+    <li>Daryl Noguera</li>
 </ul>
 
 <p style="margin-top: 50px;">Follow me on <a href="https://fb.gg/RedDavidGG/" target="_blank">Facebook Gaming</a> to watch gameplay, send stars, and be a part of the Star Senders Wall.</p>
