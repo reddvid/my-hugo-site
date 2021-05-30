@@ -3,6 +3,7 @@ title: "Links"
 description: "Red David Quick Links"
 date: 2021-01-15T00:01:01+08:00
 draft: false
+comments: false
 ---
 
 <img src="/images/avatar.jpg" style="border-radius: 200px; margin-left: auto; margin-right: auto; width: 20%; display: block; margin-top: 2em;"/>
@@ -42,8 +43,8 @@ draft: false
 </style>
 
 <ul id="list">
-<li><a href="https://reddavid.me/zipcodeph-app/">ZIP Code PH</a></li>
-<li><a href="https://www.fb.gg/RedDavidGG">Help me reach 1K Followers on Facebook Gaming</a></li>
+<li><a href="https://reddavid.me/zipcodeph-app/">ZIP Code PH for Android/iOS</a></li>
+<li><a href="https://www.fb.gg/RedDavidGG">Join me on Facebook Gaming</a></li>
 <li><a href="https://www.microsoft.com/store/productid/9nblggh5gft6">ZIP Code PH for Windows 10</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.rpnradio.radiov1">RPN Radio for Android</a></li>
 <li><a href="https://www.microsoft.com/store/productid/9PHL469C0Z20">RPN News & Radio for Windows 10</a></li>

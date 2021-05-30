@@ -395,7 +395,7 @@ Mix = false
 
 # Comment config
 [params.page.comment]
-enable = true
+enable = false
 
 # Disqus comment config (https://disqus.com/)
 [params.page.comment.disqus]
@@ -413,7 +413,7 @@ clientSecret = ""
 
 # Valine comment config (https://github.com/xCss/Valine)
 [params.page.comment.valine]
-enable = true
+enable = false
 appId = "LkqwzgjTpx8hPeow6VXjgIWk-MdYXbMMI"
 appKey = "DlgLhTzl8vgGxofnqVMQQmaD"
 placeholder = ""
