@@ -152,7 +152,7 @@ disclaimer = ""
 [languages.en.params.home.posts]
 enable = true
 # special amount of posts in each home posts page
-paginate = 7
+paginate = 12
 
 # Social config in home page
 [languages.en.params.social]
