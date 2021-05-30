@@ -5,7 +5,7 @@ draft: false
 author: "David"
 
 tags: ["Apps", "ZIP Code PH", "Website", "App Landing Page", "Web Design"]
-categories: ["App Development", "Web Development"]
+categories: ["Coding"]
 featuredimage: "/images/feat/zipcodeph-applanding.png"
 comments: true
 images: ["/images/og/zipcodeph-landingpage.png"]

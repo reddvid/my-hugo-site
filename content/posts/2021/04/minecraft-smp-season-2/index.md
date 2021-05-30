@@ -5,7 +5,7 @@ draft: false
 author: "David"
 
 tags: ["Facebook", "Facebook Gaming", "Minecraft", "Gaming", "SMP", "Shockbyte"]
-categories: ["Stories"]
+categories: ["Gaming"]
 featuredimage: "/images/feat/mc-smp-s02.png"
 comments: true
 images: ["/images/feat/mc-smp-s02.png"]

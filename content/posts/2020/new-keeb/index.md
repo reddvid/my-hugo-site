@@ -5,8 +5,8 @@ draft: false
 author: "David"
 
 toc: false
-tags: ["Setup", "Mechanical Keyboard"]
-categories: ["Stories"]
+tags: ["Tecware", "Setup", "Mechanical Keyboard", "Keyboard", "Coding"]
+categories: ["Technology"]
 featuredimage: "/images/feat/tecware.jpg"
 comments: true
 images: ["/images/og/tecware-kb.png"]
@@ -18,7 +18,7 @@ I have used a number of mechanical keyboards in the past, the first one was an A
 
 The G810 was a stay-at-home keyboard for my laptop and the G403 lives in the office. And guess what, both are defective with unresponsive and ghosting keys, respectively. I thought of delaying buying a new one for "budget" reasons but coding with keyboard issues is a definitely a pain in the ass with constant deleting doubling keys and characters. I am looking for several "budget" keyboards out there, including the TNC Icarus one with Cherry MXs but the delivery time was so bad that I had to settle down with this one.
 
-Coming from Logitech, I almost passed on this one for its "gamer" font which I don't think is *clean* for my desk, but my wallet said "it's okay, you can live with that".
+Coming from Logitech, I almost passed on this one for its "gamer" font which I don't think is _clean_ for my desk, but my wallet said "it's okay, you can live with that".
 
 I bought one with brown switches since the old ones I had had Romer-Gs with a "mushy-tactile" feel on keypress so I don't have to worry much about them on the long run.
 

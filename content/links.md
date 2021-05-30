@@ -1,9 +1,8 @@
 ---
 title: "Links"
 description: "Red David Quick Links"
-date: 2021-01-01
+date: 2021-01-15T00:01:01+08:00
 draft: false
-comments: false
 ---
 
 <img src="/images/avatar.jpg" style="border-radius: 200px; margin-left: auto; margin-right: auto; width: 20%; display: block; margin-top: 2em;"/>

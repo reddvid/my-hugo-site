@@ -5,8 +5,8 @@ draft: false
 author: "David"
 
 toc: false
-tags: ["Apps", "Fluent Design", "UWP"]
-categories: ["Stories", "Coding"]
+tags: ["App Development", "Windows 10", "Fluent Design", "UWP"]
+categories: ["Coding"]
 featuredimage: "/images/feat/zipcodeph.png"
 comments: true
 images: ["/images/og/zipcodeph-windows.png"]
@@ -21,6 +21,7 @@ I started coding at once, cleaning up some codes on the app beginning with the U
 
 Here are some screenshots of the updated app version 4.
 </br>
+
 <figure class="image">
 <img src="/images/08-20/zipcodeph/full.png" alt="Fluent Design">
   <figcaption><em>version 4.0, clean and refreshed Fluent Design UI</em></figcaption>
@@ -37,6 +38,6 @@ Here are some screenshots of the updated app version 4.
 </figure>
 </br>
 
-You can check the *free* app here in the Microsoft Store.
+You can check the _free_ app here in the Microsoft Store.
 </br>
 <a href='//www.microsoft.com/store/apps/9nblggh5gft6?cid=storebadge&ocid=badge'><img src='/images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px; '/></a>

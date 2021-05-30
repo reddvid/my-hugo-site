@@ -4,8 +4,8 @@ date: 2020-02-23T21:43:46+08:00
 draft: false
 author: "David"
 
-tags: ["Coding"]
-categories: ["Stories"]
+tags: ["Web Development", "Hugo", "Website", "GitHub Pages"]
+categories: ["Coding"]
 featuredimage: "/images/hugo.png"
 comments: true
 images: ["/images/og/hugo.png"]

@@ -5,8 +5,8 @@ draft: false
 
 toc: false
 author: "David"
-categories: ["Stories"]
-tags: ["Apps"]
+categories: ["Coding"]
+tags: ["App Development", "UI/UX", "Windows 10", "UWP"]
 featuredimage: "/images/rpn-newui.jpg"
 comments: true
 images: ["/images/og/rpnradio-windows.png"]

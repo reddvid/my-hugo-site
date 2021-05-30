@@ -5,7 +5,7 @@ draft: false
 
 toc: false
 author: "David"
-categories: ["Stories"]
+categories: ["Coding"]
 tags: ["Apps"]
 featuredimage: "/images/rftools.png"
 comments: true

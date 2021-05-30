@@ -4,6 +4,8 @@ date: 2021-02-12T21:59:46+08:00
 draft: false
 description: "Wall of my Facebook Stars Senders"
 comments: true
+
+images: ["/images/og/starwall.png"]
 ---
 
 <img src="/images/stars.png" style="border-radius: 200px; margin-left: auto; margin-right: auto; width: 20%; display: block; margin-top: 2em; "/>
