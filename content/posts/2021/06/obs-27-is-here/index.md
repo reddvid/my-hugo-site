@@ -6,9 +6,9 @@ author: "David"
 
 tags: ["OBS", "OBS Studio", "Streaming"]
 categories: ["Apps"]
-featuredimage: "/images/06-21/obs/obs27.png"
+featuredimage: "/images/feat/obs27.png"
 comments: true
-images: ["/images/06-21/obs/obs27.png"]
+images: ["/images/og/obs27.png"]
 ---
 
 I just updated my OBS a few days ago with the official release version after trying out the several release candidates.
