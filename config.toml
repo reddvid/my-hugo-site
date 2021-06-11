@@ -7,7 +7,7 @@ theme = "CodeIT"
 themesDir = "themes"
 # publishDir = "E:/repos/reddvid.github.io"
 # website title
-title = "Red David | Coding, Tech, Gaming, and Music"
+title = "Red David | Tech, Gaming, and Coding Blog"
 # whether to use robots.txt
 enableRobotsTXT = false
 # whether to use git commit log
@@ -236,7 +236,7 @@ fingerprint = ""
 # date format
 dateFormat = "Jan 02, 2006" # 2006-Jan-02
 # website images for Open Graph and Twitter Cards
-images = ["reddavid-og.png"]
+images = ["reddavid-og-new.png"]
 
 # Header config
 [params.header]
