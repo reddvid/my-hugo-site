@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 theme = "CodeIT"
 # themes directory
 themesDir = "themes"
-# publishDir = "E:/repos/reddvid.github.io"
+# publishDir = "../../reddvid.github.io"
 # website title
 title = "Red David | Tech, Gaming, and Coding Blog"
 # whether to use robots.txt
@@ -14,6 +14,8 @@ enableRobotsTXT = false
 enableGitInfo = false
 # whether to use emoji code
 enableEmoji = true
+# Ignore build errors.
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 [languages]
 
@@ -159,7 +161,7 @@ paginate = 12
 GitHub = "reddvid"
 Linkedin = "reddvid"
 Twitter = "reddvid"
-# Instagram = "reddvid"
+Instagram = "reddvid"
 Facebook = "RedDavidGG"
 Telegram = ""
 Medium = ""
@@ -195,7 +197,7 @@ Hackernews = ""
 Kickstarter = ""
 Patreon = ""
 # Steam = "76561198051401116"
-# Twitch = "reddavidGG"
+Twitch = "reddavidgg"
 Strava = ""
 Skype = ""
 Whatsapp = ""
