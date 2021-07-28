@@ -60,12 +60,11 @@ name = "Links"
 url = "/links/"
 weight = 3
 
-[[languages.en.menu.main]]
-identifier = "wall"
-name = "Star Wall"
-url = "/starwall/"
-weight = 4
-
+# [[languages.en.menu.main]]
+# identifier = "wall"
+# name = "Star Wall"
+# url = "/starwall/"
+# weight = 4
 [[languages.en.menu.main]]
 identifier = "about"
 name = "About"
