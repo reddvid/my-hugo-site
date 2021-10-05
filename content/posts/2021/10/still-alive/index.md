@@ -6,9 +6,9 @@ author: "David"
 
 tags: ["Books", "Gaming", "Self-development", "Vacation"]
 categories: ["Stories"]
-featuredimage: "/images/feat/image.jpg"
+featuredimage: "/images/og/still-alive.png"
 comments: true
-images: ["/images/og/zipcodeph-ios.png"]
+images: ["/images/og/still-alive.png"]
 ---
 
 Well how about that?! I just said about how I am prone to procrastinating on my last blog post (over 2 months ago!) that I wanted to keep pisting at least once a week but guess what, I failed! 🥲
