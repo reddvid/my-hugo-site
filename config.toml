@@ -414,7 +414,7 @@ clientSecret = ""
 
 # Valine comment config (https://github.com/xCss/Valine)
 [params.page.comment.valine]
-enable = true
+enable = false
 appId = "LkqwzgjTpx8hPeow6VXjgIWk-MdYXbMMI"
 appKey = "DlgLhTzl8vgGxofnqVMQQmaD"
 placeholder = ""
@@ -438,7 +438,7 @@ emoji = ""
 
 # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
 [params.page.comment.facebook]
-enable = false
+enable = true
 width = "500px"
 numPosts = 10
 appId = "1923295877819117"
