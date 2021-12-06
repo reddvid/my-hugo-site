@@ -1,5 +1,5 @@
 ---
-title: "RPN News Mobile App Released"
+title: "(Update: Now Available on 3 Major App Stores) RPN News Mobile App"
 date: 2021-12-04T03:22:25+08:00
 draft: false
 author: "David"
@@ -10,6 +10,16 @@ featuredimage: "/images/feat/rpn-news.png"
 comments: true
 images: ["/images/og/rpn-news.png"]
 ---
+
+# Update #2
+
+RPN News mobile app is now also available to download from Huawei AppGallery. Check the <a href="#download-here">download section</a> for the links!
+
+# Update #1
+
+The app is now available for iPhone on the App Store. See the <a href="#download-here">download section</a> below.
+
+<hr >
 
 It's been a while again since my last post but there were no significant updates lately - besides another week-long vacation. So let me introduce this new mobile app from RPN that I developed and releasing now.
 
@@ -60,7 +70,11 @@ div#gallery-rpn-news a {
 
 The app is available now on the Google Play Store: [RPN News - Apps on Google Play](https://play.google.com/store/apps/details?id=com.rpnradio.news&hl=en&gl=US)
 
-As for Huawei devices (App Gallery) and iPhone App Store, the app is still under review for each platform. Will add the links as soon as they're approved.
+Update #1: Download for iPhone here: [RPN News on the App Store](https://apps.apple.com/app/id1590143546)
+
+Update #2: Download from Huawei AppGallery: [RPN News on Huawei AppGallery](https://appgallery.huawei.com/app/C105053423)
+
+<del>As for Huawei devices (AppGallery) and iPhone App Store, the app is still under review for each platform. Will add the links as soon as they're approved.</del>
 
 # What's Next
 
