@@ -6,9 +6,9 @@ image: "/images/feat/zipcodeph.png"
 ogimage: "/images/og/apps.png"
 math:
 license:
-hidden: false
+hidden: true
 comments: true
-draft: false
+draft: true
 ---
 
 This is a sample content
