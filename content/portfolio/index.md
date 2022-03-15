@@ -1,11 +1,16 @@
 ---
-title: "My Portfolio"
+title: "Portfolio"
 date: 2020-02-23T14:37:36+08:00
 draft: false
 
-description: "See David 'Red' Ballesteros' simplistic professional portfolio"
+description: "See David 'Red' Ballesteros' simplistic !professional portfolio"
 author: "David"
 comments: false
+menu:
+  main:
+    weight: -20
+    params:
+      icon: pencil
 ---
 
 <img src="featured-image.png" style="display:block;margin-left:auto;margin-right:auto;width:40%;" alt="Red David Logo">
@@ -32,6 +37,7 @@ For almost 7 years in the field, below are some notable contributions to the com
 Self-taught developer; apps for Windows Phone then, Windows 10 and Android. I use C#.
 
 ## Windows 10 apps
+
 - <a href="https://www.microsoft.com/store/productid/9nblggh41btt" target="_blank">RF tools</a>
 - <a href="https://www.microsoft.com/store/productid/9P9F9D77ZB0N" target="_blank">Your Phone Tray</a>
 - <a href="https://www.microsoft.com/store/productid/9nblggh5gft6" target="_blank">ZIP Code PH</a>
@@ -41,11 +47,13 @@ Self-taught developer; apps for Windows Phone then, Windows 10 and Android. I us
 - <a href="https://www.microsoft.com/store/productid/9NPLBP33N95T" target="_blank">SubQuests</a>
 
 ## Android Apps
+
 - <a href="https://play.google.com/store/apps/details?id=xyz.reddvid.zipcodeph" target="_blank">ZIP Code PH (Early Access)</a>
 - <a href="https://play.google.com/store/apps/details?id=com.rpnradio.radiov1" target="_blank">RPN Radio (Early Access)</a>
 - <a href="https://play.google.com/store/apps/details?id=com.rpnradio.news" target="_blank">RPN News (Early Access)</a>
 
 ## Personal and Work-automation Desktop Apps
+
 - RPN ID Maker
 - RPN Manager (Web scraper, server and audio monitoring, etc.)
 - ECE Quizzer (Legacy ~Y2012)

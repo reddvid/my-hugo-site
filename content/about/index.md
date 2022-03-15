@@ -1,10 +1,17 @@
 ---
-title: "About Me"
+title: "About"
 date: 2020-02-23T13:10:38+08:00
 draft: false
-
+aliases:
+  - about-us
+  - contact
 description: "About David 'Red' Ballesteros' life, biography and career history"
 comments: false
+menu:
+  main:
+    weight: -10
+    params:
+      icon: user
 ---
 
 <!-- <img src="/images/about-hero.jpg" style="display:block;margin-left:auto;margin-right:auto;width:80%;" alt="Me, Macapagal Bridge, Butuan City 2019"> -->
