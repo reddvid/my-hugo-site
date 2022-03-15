@@ -44,11 +44,10 @@ comments: false
 
 <ul id="list">
 <li><a target="_blank" href="https://reddavid.me/zipcodeph-app/">ZIP Code PH for Android/iOS</a></li>
-<li><a target="_blank" href="https://www.twitch.tv/RedDavidGG">100 Followers Goal on Twitch</a></li>
-<li><a target="_blank" href="https://www.microsoft.com/store/productid/9nblggh5gft6">ZIP Code PH for Windows 10</a></li>
-<li><a target="_blank" href="https://tunein.rpnradio.com/download">RPN Radio Mobile App</a></li>
-<li id="win-store"><a target="_blank" href="ms-windows-store://publisher?name=Red David">My Apps for Windows 10/Xbox</a></li>
-<li><a target="_blank" href="https://www.buymeacoffee.com/RedDavid">Buy me a <del>coffee</del> beer</a></li>
+<li><a target="_blank" href="https://fb.gg/RedDavidGG">Follow me on Facebook Gaming</a></li>
+<li><a target="_blank" href="https://rpnradio.com/apps">RPN Mobile Apps</a></li>
+<li id="win-store"><a target="_blank" href="ms-windows-store://publisher?name=Red David">Windows 10 Apps</a></li>
+<li><a id="#gcash" target="_blank" href="/images/red-gcash.jpg">Support by GCash</a></li>
 </ul>
 
 <script>
