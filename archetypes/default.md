@@ -1,12 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+description: 
 date: {{ .Date }}
-draft: true
-author: "David"
-
-tags: ["Apps"]
-categories: ["Stories"]
-featuredimage: "/images/feat/image.jpg"
+image: "/images/feat/"
+ogimage: "/images/og/"
+math: 
+license: 
+hidden: false
 comments: true
-images: ["/images/og/zipcodeph-ios.png"]
+draft: true
 ---

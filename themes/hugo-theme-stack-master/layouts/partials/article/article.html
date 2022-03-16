@@ -1,0 +1,18 @@
+<article class="{{ if .Params.image }}has-image {{ end }}main-article">
+
+    {{ if not .Params.hideheader }}
+    {{ if not .Params.hidetitle }}
+    {{ partial "article/components/header" . }}
+    <br>
+    <hr style="width: 40%; background-color:rgb(53, 53, 53);">
+    <br>
+    {{ end }}
+
+    {{ partial "article/components/content" . }}
+    {{ partial "article/components/footer" . }}
+    {{ end }}
+
+    {{ if or .Params.math .Site.Params.article.math }}
+    {{ partialCached "article/components/math.html" . }}
+    {{ end }}
+</article>

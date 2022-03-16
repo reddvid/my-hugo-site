@@ -1,0 +1,29 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+* {
+  font-family: "Geomanist", sans-serif;
+}
+
+p > * > a,
+p > a,
+li > a.link {
+  text-decoration: none;
+  color: rgb(216, 43, 43) !important;
+}
+
+div.schmol > article > a {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+ol#main-menu {
+  row-gap: 1.2rem;
+}
+
+header.article-category > a {
+  font-size: 1.2rem;
+  padding: 0.6rem 0.8rem;
+}
+
+nav#TableOfContents {
+  font-size: 1.4rem;
+}

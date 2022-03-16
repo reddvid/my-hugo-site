@@ -1,21 +1,29 @@
 ---
-title: "About Me"
+title: "About"
+hidetitle: true
 date: 2020-02-23T13:10:38+08:00
 draft: false
-
+faeturedimage: "/images/about-hero.jpg"
+aliases:
+  - about-us
+  - contact
 description: "About David 'Red' Ballesteros' life, biography and career history"
 comments: false
+menu:
+  main:
+    weight: -10
+    params:
+      icon: user
 ---
 
 <!-- <img src="/images/about-hero.jpg" style="display:block;margin-left:auto;margin-right:auto;width:80%;" alt="Me, Macapagal Bridge, Butuan City 2019"> -->
-
 <h1 style="text-align: center;">About Me</h1>
 
-Hi! I am David. I am an electronics engineer and a software programmer.
+Hi! I am David. I am an electronics engineer and an app developer.
 
-I manage and admin website and other digital media (e.g. live stream, social media, cPanel).
+I currently work as IT admin at CNN Philippines (seconded by Radio Philippines Network).
 
-I develop desktop and mobile applications using XAML/C# and Flutter/Dart. I also know a little bit of bare HTML/CSS/JS.
+During days off, I develop desktop and mobile applications using XAML/C# and Flutter/Dart stacks, respectively. I also know a little bit of bare HTML/CSS/JS.
 
 ## Background
 
@@ -27,7 +35,7 @@ And right now, I am learning web development and looking forward to get a Micros
 
 ## Bio
 
-Live until 21 in a small town in Pangasinan.
+Lived until 21 in a small town in Pangasinan.
 
 I can speak Filipino (Tagalog), and English (spoken: 8, written: 9). I can also speak in my local dialect, Pangasinan.
 

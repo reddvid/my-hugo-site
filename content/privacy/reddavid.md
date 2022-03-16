@@ -2,11 +2,12 @@
 title: "Privacy Policy for Red David Website"
 date: 2020-02-23T13:10:38+08:00
 draft: false
+hidden: true
 comments: false
 ---
 
 <h2>Privacy Policy</h2>
-<p>Your privacy is important to us. It is Red David&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a href="https://reddavid.me">https://reddavid.me</a>, and other sites we own and operate. </p>
+<p>Your privacy is important to us. It is Red David&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a class="link" href="https://reddavid.me">https://reddavid.me</a>, and other sites we own and operate. </p>
 <p>This policy is effective as of 10 March 2021 and was last updated on 10 March 2021. </p>
 <h3>Information We Collect</h3>
 <p>Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services. </p>
@@ -59,5 +60,3 @@ comments: false
 <p>For any questions or concerns regarding your privacy, you may contact us using the following details: </p>
 <p>David Jessof Ico Ballesteros<br />
 reddavidapps@outlook.com </p>
-
-           
