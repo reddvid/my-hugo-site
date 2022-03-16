@@ -1,8 +1,6 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
-@import url(//db.onlinewebfonts.com/c/88f10bf18a36407ef36bf30bc25a3618?family=Suisse+Intl);
-
 * {
-  font-family: "Suisse Intl";
+  font-family: "Geomanist", sans-serif;
 }
 
 p > * > a,
@@ -15,4 +13,17 @@ li > a.link {
 div.schmol > article > a {
   padding-top: 0;
   padding-bottom: 0;
+}
+
+ol#main-menu {
+  row-gap: 1.2rem;
+}
+
+header.article-category > a {
+  font-size: 1.2rem;
+  padding: 0.6rem 0.8rem;
+}
+
+nav#TableOfContents {
+  font-size: 1.4rem;
 }
