@@ -9,7 +9,7 @@ tags: ["Tecware", "Setup", "Mechanical Keyboard", "Keyboard", "Coding"]
 categories: ["Technology"]
 featuredimage: "/images/feat/tecware.jpg"
 comments: true
-images: ["/images/og/tecware-kb.png"]
+ogimage: "/images/og/tecware-kb.png"
 ---
 
 This is a simple review and unboxing post for my newly bought keyboard today. It is the Tecware Phantom Elite TKL with Gateron brown switches. I am using it to write this post.
@@ -29,7 +29,7 @@ The box looks premium with minimal print of the logo and keyboard model on the c
 
 <figure class="image">
 <img src="/images/08-20/new-kb/box.jpg" alt="Keyboard Box">
-  <figcaption><em>Keyboard box</em></figcaption>
+  <figcaption>Keyboard box</figcaption>
 </figure>
 </br>
 
@@ -37,13 +37,13 @@ Inside the box was the keyboard wrapped in plastic? with a keyboard cover made o
 
 <figure class="image">
 <img src="/images/08-20/new-kb/inside.jpg" alt="Box contents">
-  <figcaption><em>Inside the box</em></figcaption>
+  <figcaption>Inside the box</figcaption>
 </figure>
 </br>
 
 <figure class="image">
 <img src="/images/08-20/new-kb/free-switches-puller.jpg" alt="Extra switches and puller">
-  <figcaption><em>Extra switches with puller</em></figcaption>
+  <figcaption>Extra switches with puller</figcaption>
 </figure>
 </br>
 
@@ -51,7 +51,7 @@ The keyboard has a TKL layout, with software-customizable RGB setting, and repla
 
 <figure class="image">
 <img src="/images/08-20/new-kb/tecware-rgb-software.png" alt="Tecware software for RGB modes">
-  <figcaption><em>Tecware RGB software</em></figcaption>
+  <figcaption>Tecware RGB software</figcaption>
 </figure>
 </br>
 
@@ -59,7 +59,7 @@ About the "gamer" font I hated, this game with a cleaner font. Surprised am I! T
 
 <figure class="image">
 <img src="/images/08-20/new-kb/keyboard.jpg" alt="Tecware Phantom Elite">
-  <figcaption><em>The keyboard itself</em></figcaption>
+  <figcaption>The keyboard itself</figcaption>
 </figure>
 </br>
 
@@ -67,7 +67,7 @@ The RGB lighting is good with bunch of built-in modes which can be visualized an
 
 <figure class="image">
 <img src="/images/08-20/new-kb/rgb.jpg" alt="Box contents">
-  <figcaption><em>RGB lighting in unlit room</em></figcaption>
+  <figcaption>RGB lighting in unlit room</figcaption>
 </figure>
 </br>
 
@@ -75,4 +75,4 @@ I went ahead for a typing test and got a 76wpm results with no mistyped words. B
 
 That's all, just a short review and unboxing post for the internet people to see. If you want me to have a typing test and sound test for it, let me know.
 
-Also, my apps are still available in the <a href="ms-windows-store:publisher?name=Red David" target="_blank">Microsoft Store</a> and some in the <a href="https://play.google.com/store/apps/dev?id=5465762079490576029" target="_blank">Google Play Store</a>, where I mostly get my funds for buying these stuff. You can always check them out, they're free to download and use, you don't have to buy or pay the the listed price - unless you want to.
+Also, my apps are still available in the <a class="link" href="ms-windows-store:publisher?name=Red David" target="_blank">Microsoft Store</a> and some in the <a class="link" href="https://play.google.com/store/apps/dev?id=5465762079490576029" target="_blank">Google Play Store</a>, where I mostly get my funds for buying these stuff. You can always check them out, they're free to download and use, you don't have to buy or pay the the listed price - unless you want to.

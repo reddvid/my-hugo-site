@@ -1,26 +1,49 @@
+<h2 class="article-title">Do you live on the internet? Check my links below</h2>
+
 <div class="article-list--compact links">
     {{ range $i, $link := .Params.links }}
-        <article>
-            <a href="{{ $link.website }}" target="_blank" rel="noopener">
-                <div class="article-details">
-                    <h2 class="article-title">
-                        {{- $link.title -}}
-                    </h2>
-                    <footer class="article-time">
-                        {{ with $link.description }}
-                            {{ . }}
-                        {{ else }}
-                            {{ $link.website }}
-                        {{ end }}
-                    </footer>
-                </div>
-        
-                {{ with $link.image }}
-                    <div class="article-image">
-                        <img src="{{ . }}" loading="lazy">
-                    </div>
-                {{ end }}
-            </a>
-        </article>
+    <article>
+        <a href="{{ $link.website }}" target="_blank" rel="noopener">
+            <div class="article-details">
+                <h2 class="article-title">
+                    {{- $link.title -}}
+                </h2>
+                <footer class="article-time">
+                    {{ with $link.description }}
+                    {{ . }}
+                    {{ else }}
+                    {{ $link.website }}
+                    {{ end }}
+                </footer>
+            </div>
+
+            {{ with $link.image }}
+            <div class="article-image">
+                <img src="{{ . }}" loading="lazy">
+            </div>
+            {{ end }}
+        </a>
+    </article>
+    {{ end }}
+</div>
+
+<h2 class="article-title">Feeling Generous?</h2>
+<div class="article-list--compact links schmol">
+    {{ range $i, $link := .Params.sublinks }}
+    <article>
+        <a href="{{ $link.website }}" target="_blank" rel="noopener">
+            <div class="article-details">
+                <h2 class="article-title">
+                    {{- $link.title -}}
+                </h2>
+            </div>
+
+            {{ with $link.image }}
+            <div class="article-image">
+                <img src="{{ . }}" loading="lazy">
+            </div>
+            {{ end }}
+        </a>
+    </article>
     {{ end }}
 </div>

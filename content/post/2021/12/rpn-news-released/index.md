@@ -6,21 +6,18 @@ author: "David"
 
 tags: ["RPN", "RPN News", "mobile apps", "apps", "Android", "iPhone", "Huawei"]
 categories: ["Apps", "Coding"]
-image: "/images/feat/rpn-news.png"
+featuredimage: "/images/feat/rpn-news.png"
 comments: true
 ogimage: "/images/og/rpn-news.png"
-resources:
-  - name: apple-feed
-    src: "/images/12-21/rpn-news/rpn-news-apple-1_.png"
 ---
 
 ## Update #2
 
-RPN News mobile app is now also available to download from Huawei AppGallery. Check the <a href="#download-here">download section</a> for the links!
+RPN News mobile app is now also available to download from Huawei AppGallery. Check the <a class="link" href="#download-here">download section</a> for the links!
 
 ## Update #1
 
-The app is now available for iPhone on the App Store. See the <a href="#download-here">download section</a> below.
+The app is now available for iPhone on the App Store. See the <a class="link" href="#download-here">download section</a> below.
 
 <hr >
 
@@ -46,7 +43,7 @@ It took too long to release the app that the version is now at 2.1. Below are sc
 <img src="/images/12-21/rpn-news/rpn-news-apple-2.png" alt="News details (iPhone)"  />
 <img src="/images/12-21/rpn-news/rpn-news-apple-3.png" alt="About page (iPhone)" /> -->
 
-![News feed (iPhone)](/images/12-21/rpn-news/rpn-news-apple-1_.png) ![News detail (iPhone)](rpn-news-apple-2_.png)![About page (iPhone)](rpn-news-apple-3_.png)
+![News feed (iPhone)](rpn-news-apple-1_.png) ![News detail (iPhone)](rpn-news-apple-2_.png)![About page (iPhone)](rpn-news-apple-3_.png)
 
 ![News feed (Android)](rpnnews-store-1_.png) ![News detail (Android)](rpnnews-store-2_.png)
 

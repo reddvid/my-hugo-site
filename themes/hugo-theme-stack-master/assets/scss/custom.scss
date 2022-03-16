@@ -4,3 +4,15 @@
 * {
   font-family: "Suisse Intl";
 }
+
+p > * > a,
+p > a,
+li > a.link {
+  text-decoration: none;
+  color: rgb(216, 43, 43) !important;
+}
+
+div.schmol > article > a {
+  padding-top: 0;
+  padding-bottom: 0;
+}

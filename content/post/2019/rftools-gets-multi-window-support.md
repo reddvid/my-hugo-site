@@ -9,7 +9,7 @@ categories: ["Coding"]
 tags: ["Apps"]
 featuredimage: "/images/rftools.png"
 comments: true
-images: ["/images/og/rf-tools.png"]
+ogimage: "/images/og/rf-tools.png"
 ---
 
 UWP SDK recently released a new support for Multi-windowing.
@@ -24,4 +24,4 @@ This should improve the user's experience by doing multiple calculations visible
 
 !["RF Tools multi window"](https://store-images.s-microsoft.com/image/apps.52167.13510798887994336.0ea597cf-9876-450a-a556-970e65ee2c51.1e574b1f-3491-4f87-b7e1-ad518a098b1f?w=1399&h=787&q=90&format=jpg)
 
-You can <a href="https://www.microsoft.com/en-us/p/rf-tools/9nblggh41btt" target="_blank">download the app here</a>
+You can <a class="link" href="https://www.microsoft.com/en-us/p/rf-tools/9nblggh41btt" target="_blank">download the app here</a>

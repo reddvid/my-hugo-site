@@ -1,11 +1,12 @@
 ---
 title: "Starwall"
+hidetitle: true
 date: 2021-02-12T21:59:46+08:00
 draft: false
 description: "Wall of my Facebook Stars Senders"
 comments: true
 
-images: ["/images/og/starwall.png"]
+ogimage: "/images/og/starwall.png"
 ---
 
 <img src="/images/stars.png" style="border-radius: 200px; margin-left: auto; margin-right: auto; width: 20%; display: block; margin-top: 2em; "/>
@@ -29,4 +30,4 @@ images: ["/images/og/starwall.png"]
 <br>
 <h6>Updated 14-Dec-2021</h6>
 
-<p style="margin-top: 50px;">Follow me on <a href="https://fb.gg/RedDavidGG/" target="_blank">Facebook Gaming</a> to watch gameplay and send stars to be a part of the Star Senders Wall.</p>
+<p style="margin-top: 50px;">Follow me on <a class="link" href="https://fb.gg/RedDavidGG/" target="_blank">Facebook Gaming</a> to watch gameplay and send stars to be a part of the Star Senders Wall.</p>

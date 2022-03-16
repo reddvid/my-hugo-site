@@ -9,7 +9,7 @@ tags: ["Setup", "Acer", "Acer Laptop", "Development"]
 categories: ["Technology"]
 featuredimage: "/images/feat/acer-laptop.jpg"
 comments: true
-images: ["/images/og/new-laptop.png"]
+ogimage: "/images/og/new-laptop.png"
 ---
 
 Last February 15, I got myself a new Acer laptop. It is an Acer Nitro 5 laptop sporting an AMD Ryzen 3550H with RX560X Graphics. This makes my 3rd Acer laptop in a span of 8+ years and my first ever AMD on a laptop (had an AMD Athlon X2 PC before).
@@ -27,7 +27,7 @@ The laptop includes a generic-looking backpack - yes, I said generic since I saw
 - 15.6" FHD 1920x1080p IPS LCD(slim-frame), Red Backlit-keyboard
 - Dual M.2 (nVME only + SATA only) + 1 HDD slots
 
-Full specs of the laptop can be found <a href="https://www.acer.com/ac/en/GB/content/model/NH.Q5XEK.008">here</a>
+Full specs of the laptop can be found <a class="link" href="https://www.acer.com/ac/en/GB/content/model/NH.Q5XEK.008">here</a>
 
 </br>
 
@@ -83,8 +83,8 @@ Right now, I am thinking of upgrading to nVMe, to a higher 2.5" SSD and 32GB RAM
 
 </br>
 
-#### See me play a game on this device in <a href="https://youtube.com/user/loveisinDA">YouTube</a>
+#### See me play a game on this device in <a class="link" href="https://youtube.com/user/loveisinDA">YouTube</a>
 
-#### <a href="https://buymeacoffee.com/reddavid">Buy me a coffee</a> or <a href="https://paypal.me/reddvid">chip-in for my next upgrade</a>
+#### <a class="link" href="https://buymeacoffee.com/reddavid">Buy me a coffee</a> or <a class="link" href="https://paypal.me/reddvid">chip-in for my next upgrade</a>
 
 <strong>Thank you</strong>

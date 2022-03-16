@@ -9,7 +9,7 @@ tags: ["Logitech", "C922", "Setup", "Logitech C922", "Webcam", "Streaming"]
 categories: ["Technology"]
 featuredimage: "/images/feat/logitech-c922.jpg"
 comments: true
-images: ["/images/og/logi-c922.png"]
+ogimage: "/images/og/logi-c922.png"
 ---
 
 Yoo! I finally got the C922 PRO HD Webcam from Logitech after wishing having it for years.
@@ -26,7 +26,7 @@ You might ask, why only now? At first, I never really thought of having a good w
 
 <figure class="image">
 <img src="/images/10-20/c922/logitech_c270.jpg" width="80%" alt="Logitech C270 Webcam">
-  <figcaption><em>Logitech C270 Webcam</em></figcaption>
+  <figcaption>Logitech C270 Webcam</figcaption>
 </figure>
 <br/>
 
@@ -42,7 +42,7 @@ The box contains the C922 camera, a table-top tripod, manuals and a sheet contai
 
 <figure class="image">
 <img src="/images/10-20/c922/box.jpg" width="80%" alt="Logitech C922 Box">
-  <figcaption><em>Logitech C922 Box</em></figcaption>
+  <figcaption>Logitech C922 Box</figcaption>
 </figure>
 <br/>
 
@@ -67,7 +67,7 @@ The C922 has a screw hole for mounting onto a tripod. The tripod can be extended
 <img src="/images/10-20/c922/c922_min.jpg" alt="Logitech C922 Tripod Min" style="display: inline; width: 32%;">
 <img src="/images/10-20/c922/c922_tripod_mid.jpg" alt="Logitech C922 Tripod Middle" style="display: inline; width: 30%;">
 <img src="/images/10-20/c922/c922_tripod_max.jpg" alt="Logitech C922 Tripod Max Length" style="display: inline; width: 30%;">
-<figcaption><em>Logitech C922 Tripod Screw Hole and Lengths</em></figcaption>
+<figcaption>Logitech C922 Tripod Screw Hole and Lengths</figcaption>
 </figure>
 <br/>
 
@@ -76,7 +76,7 @@ The tripod, without and with the webcam.
 <figure class="image">
 <img src="/images/10-20/c922/c922_tripod_stand.jpg" alt="Logitech C922 Tripod Standing" style="display: inline; width: 45%;">
 <img src="/images/10-20/c922/c922_tripod_side.jpg" alt="Logitech C922 Tripod-Mounted" style="display: inline; width: 45%;">
-  <figcaption><em>Logitech C922 Tripod</em></figcaption>
+  <figcaption>Logitech C922 Tripod</figcaption>
 </figure>
 <br/>
 
@@ -90,7 +90,7 @@ Upon connecting the webcam to my PC, Logitech prompted to install the companion 
 
 <figure class="image">
 <img src="/images/10-20/c922/logitech_capture_2.png" alt="Logitech Capture Software">
-  <figcaption><em>Logitech Capture Software</em></figcaption>
+  <figcaption>Logitech Capture Software</figcaption>
 </figure>
 <br/>
 
@@ -98,7 +98,7 @@ The software provides templates for typical sizes: FHD, 720p, and 360p; Portrait
 
 <figure class="image">
 <img src="/images/10-20/c922/resolutions.jpg" alt="Resolution Options" width="30%">
-  <figcaption><em>Logitech Capture Software - Resolution Options</em></figcaption>
+  <figcaption>Logitech Capture Software - Resolution Options</figcaption>
 </figure>
 <br/>
 
@@ -106,7 +106,7 @@ The software also allows you to add effects, text, etc with the Effects menu: Wa
 
 <figure class="image">
 <img src="/images/10-20/c922/effects.jpg" alt="Effects Options" width="30%">
-  <figcaption><em>Logitech Capture Software - Effects Options</em></figcaption>
+  <figcaption>Logitech Capture Software - Effects Options</figcaption>
 </figure>
 <br/>
 
@@ -116,17 +116,17 @@ There are a couple of issues for me, the first one really makes me annoyed is th
 
 <figure class="image">
 <img src="/images/10-20/c922/c922_frameless_issue.jpg" alt="Logitech C922 Frameless Monitor" width="40%">
-  <figcaption><em>Mounting Issue on a Frameless Monitor</em></figcaption>
+  <figcaption>Mounting Issue on a Frameless Monitor</figcaption>
 </figure>
 <br/>
 
 # It's Great!
 
-Overall, I am happy with the C922 webcam - my loved ones can see me clearly during video calls. And I thank everybody for supporting me on my <a href="https://fb.gg/RedDavidGG/" target="_blank">stream</a>, visiting my website, and checking my Windows 10 apps.
+Overall, I am happy with the C922 webcam - my loved ones can see me clearly during video calls. And I thank everybody for supporting me on my <a class="link" href="https://fb.gg/RedDavidGG/" target="_blank">stream</a>, visiting my website, and checking my Windows 10 apps.
 
 <figure class="image">
 <img src="/images/10-20/c922/c922_logicapture.png" alt="Logitech C922 Monitor-Mounted with Logitech Capture" width="60%">
-  <figcaption><em>Mounting is Just Right</em></figcaption>
+  <figcaption>Mounting is Just Right</figcaption>
 </figure>
 <br/>
 

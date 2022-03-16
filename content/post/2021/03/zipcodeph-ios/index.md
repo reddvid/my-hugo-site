@@ -9,7 +9,7 @@ categories: ["Coding"]
 featuredimage: "/images/feat/zipcodeph-ios.png"
 comments: true
 lightgallery: true
-images: ["/images/og/zipcodeph-ios.png"]
+ogimage: "/images/og/zipcodeph-ios.png"
 ---
 
 # Update: Now Available
@@ -17,7 +17,7 @@ images: ["/images/og/zipcodeph-ios.png"]
 You can get the app from App Store (iPhone and iPad) for only Php49 (US$0.99) - sorry for the paywall. I'm still a struggling developer and just to let you know, developing for Apple costs more compared to Windows and Google Play Store.
 
 Get the app below: <br/>
-<a href="https://apps.apple.com/us/app/zip-code-ph/id1555921863?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1615766400&h=60d62bace1ec567408893f9085310f3c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a><img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/a1b53b4233734ce37673d9f70803db74/47cd37c9-fb35-4a15-b8b8-958219968ea0.png" width="200px" style="display: inline-block;margin-left: 20px;">
+<a class="link" href="https://apps.apple.com/us/app/zip-code-ph/id1555921863?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1615766400&h=60d62bace1ec567408893f9085310f3c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a><img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/a1b53b4233734ce37673d9f70803db74/47cd37c9-fb35-4a15-b8b8-958219968ea0.png" width="200px" style="display: inline-block;margin-left: 20px;">
 
 <hr/>
 
@@ -37,18 +37,15 @@ I am fairly new to SwiftUI so converting? the codes I used for Windows and Xamar
 
 The Main Page took a lot of iterations but below is the final view (as of this writing):
 
-<figure class="image">
-<img src="/images/03-21/zipcodeph-ios/mainpage.png" style="display:block;margin-left:auto;margin-right:auto;width:40%;">
-<figcaption><em>Main Page</em></figcaption>
-</figure>
+{{< figure src="/images/03-21/zipcodeph-ios/mainpage.png" width="40%" title="Main Page" alt="Main Page" >}}
 <br/>
 
-The Help/About Page contains the same details I used in the Android app except that I added attributions to the new images in the Main Page (thanks <a href="https://unsplash.com/" target="_blank">Unsplash!</a>)
+The Help/About Page contains the same details I used in the Android app except that I added attributions to the new images in the Main Page (thanks <a class="link" href="https://unsplash.com/" target="_blank">Unsplash!</a>)
 
 <figure class="image">
 <img src="/images/03-21/zipcodeph-ios/about-1.png" style="display:inline;margin-left:auto;margin-right:auto;width:40%;">
 <img src="/images/03-21/zipcodeph-ios/about-2.png" style="display:inline;margin-left:auto;margin-right:auto;width:40%;">
-<figcaption><em>Help & About Page</em></figcaption>
+<figcaption>Help & About Page</figcaption>
 </figure>
 <br/>
 
@@ -58,10 +55,7 @@ Next up is the Search Page, I coded this before the menus since the code-behind 
 
 I didn't explorer SwiftUI that much but I found this code to build the Search bar iOS-style:
 
-<figure class="image">
-<img src="/images/03-21/zipcodeph-ios/searchbar.png" style="display:inline;margin-left:auto;margin-right:auto;width:60%;">
-<figcaption><em>iOS Search Bar</em></figcaption>
-</figure>
+{{< figure src="/images/03-21/zipcodeph-ios/searchbar.png" width="60%" title="iOS Search Bar" alt="iOS Search Bar" >}}
 <br/>
 
 ```swift
@@ -124,10 +118,7 @@ I spent a few times making the search (filtering) logic work the way I wanted th
 
 After understanding the filtering code while developing the Search Page, it is time to code the Menu and Area pages. The UI looks a lot like the Android counterpart but the built-in Title style for iOS makes the UI better by collapsing the title to inline when scrolled. This is how it looks like on version 1.0.4
 
-<figure class="image">
-<img src="/images/03-21/zipcodeph-ios/area.png" style="display:inline;margin-left:auto;margin-right:auto;width:40%;">
-<figcaption><em>City and Area Pages</em></figcaption>
-</figure>
+{{< figure src="/images/03-21/zipcodeph-ios/area.png" width="40%" title="City and Area Pages" alt="City and Area Pages" >}}
 <br/>
 
 ## Favorites
@@ -172,7 +163,7 @@ div#gallery-zipcodephios a {
 
 # (Now Available) You Can Get it Soon
 
-<a href="https://apple.co/3lrnrBO" target="_blank">Get the app</a>
+<a class="link" href="https://apple.co/3lrnrBO" target="_blank">Get the app</a>
 
 The app can be tested and I will share the TestFlight link soon. I am still fixing some minor issues and will announce the availability on a new blog post.
 
@@ -180,7 +171,7 @@ For the meantime, the app is still available for Android and Windows 10.
 
 You can check the blog posts here for the download links:
 <br/>
-<a href="/zipcodeph-android-dark-mode/">ZIP Code PH for Android gets Dark Mode
+<a class="link" href="/zipcodeph-android-dark-mode/">ZIP Code PH for Android gets Dark Mode
 </a>
 <br/>
-<a href="/zipcodeph-new-ui/">ZIP Code PH Gets Refreshed UI</a>
+<a class="link" href="/zipcodeph-new-ui/">ZIP Code PH Gets Refreshed UI</a>

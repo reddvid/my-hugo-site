@@ -8,7 +8,7 @@ tags: ["Covid-19", "WFH"]
 categories: ["Stories"]
 featuredimage: "/images/at-home.jpg"
 comments: true
-images: ["/images/og/stay-at-home.png"]
+ogimage: "/images/og/stay-at-home.png"
 ---
 
 When the sudden rise of Covid-19 cases here in the Philippines, the government was urged to implement a community quarantine - which was a lockdown - public transportation is suspended, non-essential businesses must be closed or simply <strong>everyone should stay at home</strong>.
@@ -27,4 +27,4 @@ We still don't know how will this affect our monetary status. But we are pretty 
 
 Donate maybe? 🙂 Thank you.
 
-#### <a href="https://paypal.me/reddvid" target="_blank">Small help for your boy</a>
+**<a class="link" href="https://paypal.me/reddvid" target="_blank">Small help for your boy</a>**

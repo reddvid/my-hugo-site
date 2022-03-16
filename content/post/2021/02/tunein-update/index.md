@@ -8,16 +8,16 @@ tags: ["Apps", "Website", "RPN", "RPN Radio", "Android", "Webapp"]
 categories: ["Coding"]
 featuredimage: "/images/feat/rpn-tunein.png"
 comments: true
-images: ["/images/og/tunein.png"]
+ogimage: "/images/og/tunein.png"
 ---
 
 I updated the tune-in website for RPN. This post will detail the changes, what's new or removed, and how the update went.
 
 # MainPage and Mobile-First Design
 
-The main page remains got a few changes, starting with the font face and size. Before the update, the font family forced to check for <a href="https://www.marksimonson.com/fonts/view/proxima-nova" target="_blank">Proxima Nova</a> and fallback to Arial Nova or other <a href="https://en.wikipedia.org/wiki/Sans-serif" target="_blank">sans serif fonts.</a>
+The main page remains got a few changes, starting with the font face and size. Before the update, the font family forced to check for <a class="link" href="https://www.marksimonson.com/fonts/view/proxima-nova" target="_blank">Proxima Nova</a> and fallback to Arial Nova or other <a class="link" href="https://en.wikipedia.org/wiki/Sans-serif" target="_blank">sans serif fonts.</a>
 
-Then I cleaned up my CSS file to make the whole website <a href="https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00" target="_blank">"mobile-first".</a>
+Then I cleaned up my CSS file to make the whole website <a class="link" href="https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00" target="_blank">"mobile-first".</a>
 <br/>
 <br/>
 
@@ -57,7 +57,7 @@ Note: The navigation drawer will not work on browser back button - as I learned 
 
 # Security
 
-The website was also SSL-enabled - <a href="https://www.websecurity.digicert.com/security-topics/https-everywhere" target="_blank">HTTPS Everywhere.</a>
+The website was also SSL-enabled - <a class="link" href="https://www.websecurity.digicert.com/security-topics/https-everywhere" target="_blank">HTTPS Everywhere.</a>
 
 This also means that the old stream URLs will not work. Thankfully, the audio servers have secured stream URLs for secure websites.
 <br/>
@@ -71,12 +71,12 @@ Making the images took waaaaay longer than I expected. I decided to add 3 mockup
 
 <figure class="image">
 <img src="/images/02-21/tunein/ogrpn.png" alt="Tune In Open Graph Image for Homepage" style="width: 60%; ">
-<figcaption><em>Facebook Open Graph Preview</em></figcaption>
+<figcaption>Facebook Open Graph Preview</figcaption>
 <br/>
 <img src="/images/02-21/tunein/ogstation.png" alt="Tune In Open Graph Image for Homepage" style="width: 60%; ">
-<figcaption><em>Twitter Open Graph Preview</em></figcaption>
+<figcaption>Twitter Open Graph Preview</figcaption>
 </figure>
-Creating the metadata tags was made easy by using <a href="https://metatags.io/" target="_blank">Metatags.io</a>.
+Creating the metadata tags was made easy by using <a class="link" href="https://metatags.io/" target="_blank">Metatags.io</a>.
 <br/>
 <br/>
 
@@ -86,7 +86,7 @@ I went on to also update the website's favicons, to differentiate tunein to the 
 
 <figure>
 <img src="/images/02-21/tunein/radio_app.png" alt="Tune In Open Graph Image for Homepage" style="width: 20%; ">
-<figcaption><em>Website Favicon</em></figcaption>
+<figcaption>Website Favicon</figcaption>
 </figure>
 <br/>
 
@@ -124,8 +124,8 @@ I added a subtle footer to the whole website. That's it. :)
 
 # Final Words
 
-This website is another medium for the company's aim for a greater reach by expanding to Digital Media. In addition to our native apps (which is available for Android - <a href="https://play.google.com/store/apps/details?id=com.rpnradio.radiov1&hl=en&gl=US" target="_blank">Google Play Store</a> and <a href="https://appgallery.huawei.com/#/app/C103076031" target="_blank">Huawei App Gallery</a>), the website also serves a means for our audiences to access our stations' broadcast anytime and anywhere in the world.
+This website is another medium for the company's aim for a greater reach by expanding to Digital Media. In addition to our native apps (which is available for Android - <a class="link" href="https://play.google.com/store/apps/details?id=com.rpnradio.radiov1&hl=en&gl=US" target="_blank">Google Play Store</a> and <a class="link" href="https://appgallery.huawei.com/#/app/C103076031" target="_blank">Huawei App Gallery</a>), the website also serves a means for our audiences to access our stations' broadcast anytime and anywhere in the world.
 
-You can visit the website here: <a href="https://tunein./rpnradio.com/" target="_blank">Tune In — RPN Radio.</a>
+You can visit the website here: <a class="link" href="https://tunein./rpnradio.com/" target="_blank">Tune In — RPN Radio.</a>
 
-You may also want to check my blog post about the RPN Radio App here:<br/><a href="/rpnradio-android/">RPN Radio: Streaming App for Android.</a>
+You may also want to check my blog post about the RPN Radio App here:<br/><a class="link" href="/rpnradio-android/">RPN Radio: Streaming App for Android.</a>

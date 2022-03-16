@@ -8,7 +8,7 @@ tags: ["Samsung", "SSD", "Samsung 970 EVO Plus"]
 categories: ["Technology"]
 featuredimage: "/images/feat/970-evo-plus.webp"
 comments: true
-images: ["/images/og/samsung-970evo.png"]
+ogimage: "/images/og/samsung-970evo.png"
 ---
 
 Here we go again folks! Another PC upgrade, this time we take our storage to the next level.
@@ -31,10 +31,10 @@ I forgot to take pictures to avoid the SSD from picking up some static from my d
 
 <figure class="image">
 <img src="/images/03-21/samsung-evo/samsung-970-evo-plus-box.png" style="display:inline;margin-left:auto;margin-right:auto;width:60%;">
-<figcaption><em>Samsung 970 EVO Plus</em></figcaption>
+<figcaption>Samsung 970 EVO Plus</figcaption>
 
 <img src="/images/03-21/samsung-evo/taskbar.png" style="display:inline;margin-left:auto;margin-right:auto;width:40%;">
-<figcaption><em>Taskbar</em></figcaption>
+<figcaption>Taskbar</figcaption>
 </figure>
 <br/>
 

@@ -8,7 +8,7 @@ tags: ["Web Development", "Hugo", "Website", "GitHub Pages"]
 categories: ["Coding"]
 featuredimage: "/images/hugo.png"
 comments: true
-images: ["/images/og/hugo.png"]
+ogimage: "/images/og/hugo.png"
 ---
 
 It was early 2019, I think when I accidentally deleted my Wordpress database that contains at least 20 posts. Sad right? After that sad moment, I tried to repost everything using Hugo, a static website builder, but found that it was too complicated - with YAML, some .scss, layouts, etc.

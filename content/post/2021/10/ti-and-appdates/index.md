@@ -1,7 +1,8 @@
 ---
-title: "#TI10 and Appdates"
+title: "TI10 and Appdates"
 date: 2021-10-15T03:53:07+08:00
 draft: false
+slug: ti10-and-appdates
 author: "David"
 
 tags:
@@ -18,7 +19,7 @@ tags:
 categories: ["Gaming", "App Development"]
 featuredimage: "/images/og/ti10-appdates.png"
 comments: true
-images: ["/images/og/ti10-appdates.png"]
+ogimage: "/images/og/ti10-appdates.png"
 ---
 
 Let's start with [The International](https://en.wikipedia.org/wiki/The_International_2021#:~:text=The%20International%202021%2C%20also%20known,2%20world%20championship%20esports%20tournament.), shortened as TI, Valve's yearly Dota 2 tournament where the 18 of the best teams around the world gather to fight for the Aegis of the Champions every year. After being canceled and waiting for more than 2 years it is now happening, without an audience in Bucharest, Romania with a total prizepool of $40M+.
@@ -27,7 +28,7 @@ Let's start with [The International](https://en.wikipedia.org/wiki/The_Internati
 {{< tweet 1444037357775179779 >}}
 </center>
 
-I only play the game against custom BOT scripts 🤣 just to past time or just to be updated with what patches <a href="https://dota2.fandom.com/wiki/IceFrog" target="_blank">IceFrog</a> brings to the game. What I mostly do is watch major tournaments especially those when teams need to earn <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit" target="_blank">DPC points</a> for entering the prestigious TI.
+I only play the game against custom BOT scripts 🤣 just to past time or just to be updated with what patches <a class="link" href="https://dota2.fandom.com/wiki/IceFrog" target="_blank">IceFrog</a> brings to the game. What I mostly do is watch major tournaments especially those when teams need to earn <a class="link" href="https://liquipedia.net/dota2/Dota_Pro_Circuit" target="_blank">DPC points</a> for entering the prestigious TI.
 
 ## 10 Days of DOTA
 
@@ -43,7 +44,7 @@ Now, as of this writing, we just ended Day 3 of the Main Stage and I've followed
 
 Thanks to [Wykrhm Reddy (@wykrhm)](https://twitter.com/wykrhm) for being such a good Dota Community Man.
 
-## Sekretong Malupet
+## The Secret
 
 Watching all games and supporting SEA teams, my heart still goes to Team Secret for all their TI runs. Right now, they already secured Top 3 finish for the semifinals game against PSG.LGD.
 
@@ -51,7 +52,7 @@ Watching all games and supporting SEA teams, my heart still goes to Team Secret 
 {{< tweet 1447192871677857796 >}}
 </center>
 
-I follow the games by watching <a href="https://www.twitch.tv/singsing" target="_blank">singsing's Twitch stream</a> as he and his (pepega) friends cast and analyze the stream - chill and fun. This way I can watch (or listen) while doing app coding.
+I follow the games by watching <a class="link" href="https://www.twitch.tv/singsing" target="_blank">singsing's Twitch stream</a> as he and his (pepega) friends cast and analyze the stream - chill and fun. This way I can watch (or listen) while doing app coding.
 
 ## Coding and Appdates
 
@@ -61,7 +62,7 @@ My job (finally) provided me a Samsung A71 Android phone to test the app (and fo
 
 {{< figure src="/images/10-21/appdates/samsung-a71.png" height="400px" caption="Samsung A71" >}}
 
-The app has been up on the Google Play Store for some time (as I blogged <a href="https://reddavid.me/rpn-android-app/" target="_blank">here</a>) and lacked significant updates. It stayed that way for a while until all busy-ness and code-confusion (is this even a term?) has subsided.
+The app has been up on the Google Play Store for some time (as I blogged <a class="link" href="https://reddavid.me/rpn-android-app/" target="_blank">here</a>) and lacked significant updates. It stayed that way for a while until all busy-ness and code-confusion (is this even a term?) has subsided.
 
 These past days, I managed to release an update for the Android beta app and also started a TestFlight for iOS devices.
 
@@ -69,23 +70,16 @@ I decided to version the app as 2.0 as this was a complete rework from the old c
 
 Version 2.0 brings a new UI and supports offline mode - see downloaded news (as opposed to before that it will not work when there is no internet; though it is always recommended to be connected to get the latest news).
 
-{{< figure src="/images/10-21/appdates/news-screen1 (Phone).png" height="400px" caption="News Items" >}}
-
-{{< figure src="/images/10-21/appdates/news-screen2 (Phone).png" height="400px" caption="News Details Page" >}}
+![News Items Page](news-screen1.png)![News Detail Page](news-screen2.png)
 
 ### Get into the Beta Test
 
-The app is available for testing and I welcome your feedback after getting the app here from **[Google Play Store](https://bit.ly/2YVpJC9)** and [Apple TestFlight](https://apple.co/2XaMBNl).
+The app is available for testing and I welcome your feedback after getting the app here from **[Google Play Store](https://bit.ly/2YVpJC9)** and **[Apple TestFlight](https://apple.co/2XaMBNl)**.
 
-Or scan the QR code below:
+Or scan the QR code/s below:
 
-#### Google Play Store
-
-{{< figure src="/images/10-21/appdates/play-qr.png"  >}}
-
-#### Apple TestFlight
-
-{{< figure src="/images/10-21/appdates/testflight-qr.png"  >}}
+{{< figure src="/images/10-21/appdates/play-qr.png" alt="Google Play Store QR Code" caption="Google Play Store QR Code" >}}
+{{< figure src="/images/10-21/appdates/testflight-qr.png" alt="Google Play Store QR Code" caption="Google Play Store QR Code" >}}
 
 You may submit your feedback using built-in tools from Google or TestFlight, sending an [email](mailto:info@rpnradio.com), or any on my socials.
 

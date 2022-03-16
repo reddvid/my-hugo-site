@@ -1,5 +1,5 @@
 {{ $result := dict "exists" false "permalink" nil "resource" nil "isDefault" false }}
-{{ $imageField := default "image" .Context.Site.Params.featuredImageField }}
+{{ $imageField := or "featuredimage" .Context.Site.Params.featuredImageField }}
 {{ $imageValue := index .Context.Params $imageField }}
 
 {{ if $imageValue }}

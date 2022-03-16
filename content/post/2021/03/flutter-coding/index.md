@@ -8,7 +8,7 @@ tags: ["Flutter", "Google", "Android Studio", "Android", "Dev"]
 categories: ["Coding"]
 featuredimage: "/images/feat/android-love-flutter.png"
 comments: true
-images: ["/images/og/flutter-coding.png"]
+ogimage: "/images/og/flutter-coding.png"
 ---
 
 I've heard about Flutter a long time ago but never actually used it or read in-depth about it. But I knew it was a UI framework from Google which uses a single code-base for mobile and web apps.
@@ -50,20 +50,14 @@ Upon opening the IDE, it was said that creating a new Flutter project should be 
 
 Even though `flutter doctor` checked everything, I was disappointed that I can't start right away. Scraping the internet for solutions, I checked Android Studio's configuration and there, I downloaded some Flutter and Dart plugins which after a software restart, I can now create a new Flutter project.
 
-<figure class="image">
-<img src="/images/03-21/flutter/android-studio-flutter.png" style="display:block;margin-left:auto;margin-right:auto;width:80%;">
-<figcaption><em>New Flutter Project</em></figcaption>
-</figure>
+{{< figure src="/images/03-21/flutter/android-studio-flutter.png" width="80%" title="New Flutter Project" alt="New Flutter Project" >}}
 <br/>
 
 Since, the app I am planning to rebuild in Flutter is single-paged, it is a good starting-point to play around the Flutter widgets.
 
 Coming from XAML, where everything seems "as is", I am so uncomfortable about coding UI using script-like codes. But having started SwiftUI for a few weeks, I pretty much can stand it. 😅
 
-<figure class="image">
-<img src="/images/03-21/flutter/ui-code.png" style="display:block;margin-left:auto;margin-right:auto;width:80%;">
-<figcaption><em>Flutter UI Code</em></figcaption>
-</figure>
+{{< figure src="/images/03-21/flutter/ui-code.png" width="80%" title="Flutter UI Code" alt="Flutter UI Code" >}}
 <br/>
 
 # Beginning

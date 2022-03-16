@@ -9,7 +9,7 @@ tags: ["App Development", "Windows 10", "UWP", "Fluent Design"]
 categories: ["Coding"]
 featuredimage: "/images/feat/your-phone.jpg"
 comments: true
-images: ["/images/og/your-phone-tray.png"]
+ogimage: "/images/og/your-phone-tray.png"
 ---
 
 Your Phone Tray UWP app just got updated.
@@ -27,4 +27,4 @@ You can also see a new menu item <strong>Enable Ctrl+Y Hotkey</strong>. If enabl
 
 Microsoft's Your Phone app has been updated several times that launching it directly to the photos section shows a blank UI. For the meantime, all shortcuts to open the app will direct to messages.
 
-<a href="https://bit.ly/UrPhoneTray" target="_blank"><h2>You can download the app by clicking on this link</h2></a>
+<a class="link" href="https://bit.ly/UrPhoneTray" target="_blank"><h2>You can download the app by clicking on this link</h2></a>

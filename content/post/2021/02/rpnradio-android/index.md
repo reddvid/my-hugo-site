@@ -8,18 +8,18 @@ tags: ["Apps", "Android", "App development"]
 categories: ["Coding"]
 featuredimage: "/images/feat/rpnradio.png"
 comments: true
-images: ["/images/og/rpnradio.png"]
+ogimage: "/images/og/rpnradio.png"
 ---
 
 This should just be a short post to promote and showcase this Android app I developed for my job.
 
 # AM Radio in your Pocket
 
-Choose from RPN's <a href="https://rpnradio.com/" target="_blank">(Radio Philippines Network)</a> 12 regional AM stations to tune into. Just connect to the internet and be updated to the latest news, talks, and enjoy some old and new tunes.
+Choose from RPN's <a class="link" href="https://rpnradio.com/" target="_blank">(Radio Philippines Network)</a> 12 regional AM stations to tune into. Just connect to the internet and be updated to the latest news, talks, and enjoy some old and new tunes.
 
 # Development
 
-I tried making this app using Xamarin.Forms but the new Android implementation of the media notification sucked a\*\* that I made the app in pure <a href="https://developer.android.com/guide">Android Java code</a>.
+I tried making this app using Xamarin.Forms but the new Android implementation of the media notification sucked a\*\* that I made the app in pure <a class="link" href="https://developer.android.com/guide">Android Java code</a>.
 
 # App Description
 
@@ -30,12 +30,12 @@ I tried making this app using Xamarin.Forms but the new Android implementation o
 <figure class="image">
 <img src="/images/02-21/rpnradio/stationlist.png" alt="RPN Radio Stations" style="display: inline; width: 40%;">
 <img src="/images/02-21/rpnradio/playingview.png" alt="RPN Radio Streaming" style="display: inline; width: 40%;">
-<figcaption><em>RPN Radio App for Android</em></figcaption>
+<figcaption>RPN Radio App for Android</figcaption>
 </figure>
 <br/>
 
 # Download
 
-The app is available to download for <strong>FREE</strong> from <a href="https://play.google.com/store/apps/details?id=com.rpnradio.radiov1">Google Play Store</a> and <a href="https://appgallery.huawei.com/#/app/C103076031">Huawei App Store.</a>
+The app is available to download for <strong>FREE</strong> from <a class="link" href="https://play.google.com/store/apps/details?id=com.rpnradio.radiov1">Google Play Store</a> and <a class="link" href="https://appgallery.huawei.com/#/app/C103076031">Huawei App Store.</a>
 
 The app will be available soon on iOS.

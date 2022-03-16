@@ -29,13 +29,13 @@ DefaultContentLanguage: en
 hasCJKLanguage: false
 
 permalinks:
-  post: /p/:slug/
+  post: /:slug/
   page: /:slug/
 
 params:
   mainSections:
     - post
-  featuredImageField: image
+  featuredImageField: featuredimage, image
   ogImageField: ogimage
   rssFullContent: true
   favicon:
@@ -50,7 +50,7 @@ params:
 
   sidebar:
     emoji: 👋
-    subtitle: IT Guy and Gamer
+    subtitle: IT Guy | App Dev | Gamer
     avatar:
       enabled: true
       local: false
@@ -61,7 +61,7 @@ params:
     toc: true
     readingTime: true
     license:
-      enabled: true
+      enabled: false
       default: Licensed under CC BY-NC-SA 4.0
 
   comments:
@@ -191,6 +191,12 @@ menu:
   main: []
 
   social:
+    - identifier: twitter
+      name: Twitter
+      url: https://twitter.com/reddvid
+      params:
+        icon: brand-twitter
+
     - identifier: github
       name: GitHub
       url: https://github.com/reddvid
