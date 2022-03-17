@@ -3,7 +3,7 @@ title: "Streaming Again & Minecraft SMP Season 2"
 date: 2021-04-18T02:52:30+08:00
 draft: false
 author: "David"
-
+slug: minecraft-smp-season-2
 tags: ["Facebook", "Facebook Gaming", "Minecraft", "Gaming", "SMP", "Shockbyte"]
 categories: ["Gaming"]
 featuredimage: "/images/feat/mc-smp-s02.png"

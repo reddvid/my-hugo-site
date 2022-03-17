@@ -2,7 +2,7 @@ baseurl: https://reddavid.me
 languageCode: en-us
 theme: hugo-theme-stack-master
 paginate: 7
-title: Red David
+title: Red David Blog
 
 languages:
   en:
@@ -14,11 +14,11 @@ staticDir:
   - static
 
 # Change it to your Disqus shortname before using
-disqusShortname: reddavid-me
+disqusShortname: https-reddavid-me
 
 ogImage: "images/reddavid-og.png"
 # GA Tracking ID
-googleAnalytics:
+googleAnalytics: UA-129071597-1
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -233,7 +233,7 @@ markup:
       unsafe: true
   tableOfContents:
     endLevel: 4
-    ordered: true
+    ordered: false
     startLevel: 2
   highlight:
     noClasses: false
@@ -242,4 +242,4 @@ markup:
     lineNoStart: 1
     lineNos: true
     lineNumbersInTable: true
-    tabWidth: 4
+    tabWidth: 3

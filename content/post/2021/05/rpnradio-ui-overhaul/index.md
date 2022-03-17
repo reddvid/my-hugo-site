@@ -3,7 +3,7 @@ title: "RPN Radio UI Overhaul"
 date: 2021-05-30T00:15:36+08:00
 draft: false
 author: "David"
-
+slug: rpnradio-ui-overhaul
 tags: ["Apps", "RPN", "Apps", "Software Development", "Application Development"]
 categories: ["Coding", "App Development"]
 featuredimage: "/images/feat/rpnradio-ui.jpeg"

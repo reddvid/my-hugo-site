@@ -15,9 +15,9 @@ ogimage: "/images/og/goodbye-2020.png"
 
 Huh, who knew? That we can get through the sh\*tty year that is 2020. 🤔 And for last time (and maybe first?), let's take a look back to what happened with Red David's life in last year (SPOILER: not so much, like most of us I guess).
 
-# January
+## January
 
-## Puerto Galera, 2nd week
+### Puerto Galera, 2nd week
 
 New Year, New Decade! We expected a lot in 2020 coming from 2019. It started out pretty much a normal month. We would have the time to travel out of town,
 
@@ -29,65 +29,48 @@ Our stay was short but it was worth-while. From walking along the beach, taking 
 
 Here are some of the photos we took during our short stay:
 
-<style>
+![I 🤍 Puerto Galera](i-love-puerto-galera.jpg)
+![Toast and fried breakfast](puerto-galera-breakfast.jpg)
 
-div#gallery-2021 {
-   display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
+![Healthy lunch](lunch-at-puerto-galera.jpg)
+![No smoking beyond the point](puerto-galera-no-smoking.jpg)
 
-div#gallery-2021 a {
-  width: 30%;
-  margin: 2px;
-}
+!["Puerto Galera sand castle](puerto-galera-sand-castle.jpg)
+![Sunset at Puerto Galera](puerto-galera-sunset.jpg)
 
-</style>
-
-<div id="gallery-2021">
-{{< figure src="/images/01-21/year-in-review/i-love-puerto-galera.jpg" alt="I 🤍 Puerto Galera" >}}
-{{< figure src="/images/01-21/year-in-review/puerto-galera-breakfast.jpg" alt="Toast and fried breakfast" >}}
-{{< figure src="/images/01-21/year-in-review/lunch-at-puerto-galera.jpg" alt="Healthy lunch">}}
-{{< figure src="/images/01-21/year-in-review/puerto-galera-no-smoking.jpg" alt="No smoking beyond the point" >}}
-{{< figure src="/images/01-21/year-in-review/puerto-galera-sand-castle.jpg" alt="Puerto Galera sand castle" >}}
-{{< figure src="/images/01-21/year-in-review/puerto-galera-sunset.jpg" alt="Sunset at Puerto Galera" >}}
-</div>
-
-## Taal Volcano Eruption
+### Taal Volcano Eruption
 
 Ok hold on, this wasn't a part of our trip but as we are leaving the port to return to Metro Manila, we found out that Taal Volcano erupted (which was located in Batangas) but thankfully the eruption was slow that we weren't stranded along the way. But this news may be the start of something awful through 2020.
 
 The volcano spewed a lot of volcanic ash that towns and cities, including Metro Manila.
 
-## Trip to BGC, last week
+### Trip to BGC, last week
 
 This should be the last week of January and the KPop group Winner was doing a tour in Manila. I am not a KPop fan but my sister is that the 3 girls in our family went to SM Mall of Asia to watch them.
 
-{{< figure src="/images/01-21/year-in-review/baclaran-church.jpg" width="40%" title="Baclaran Church" alt="Baclaran Church" >}}
-
-<p style="font-size:0.7em;">Photo by <a class="link" href="https://unsplash.com/@ruelonguitars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ruel Del Jamorol</a> on <a class="link" href="https://unsplash.com/s/photos/baclaran?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+<!-- {{< figure src="/images/01-21/year-in-review/baclaran-church.jpg" caption="Baclaran Church" alt="Baclaran Church" width="60%" >}} -->
 
 The next day, we went to visit Baclaran church to give thanks to the Lord and went straight the infamous <a class="link" href="https://megaworld-lifestylemalls.com/mall/mckinley-hill/">Venice Grand Canal Mall</a> in Taguig, a Venice-inspired open-air mall.
 
-{{< figure src="/images/01-21/year-in-review/venice-grand-canal.jpg" width="80%" title="Venice Grand Canal Mall in Taguig" alt="Venice Grand Canal Mall in Taguig" >}}
+{{< figure src="/images/01-21/year-in-review/venice-grand-canal.jpg" caption="Venice Grand Canal Mall in Taguig" alt="Venice Grand Canal Mall in Taguig" width="80%" >}}
 
 After exhausting the whole place, we went down to Bonifacio High Grounds which is not that far from the canal mall. We just walked around the place, took some photos, and tried to visit a museum but unfortunately they were already closed.
 
-<br/>
+<hr>
 
-# February
+## February
 
-## Valentine's Day and a New Laptop
+### Valentine's Day and a New Laptop
 
 Hmmm, nothing much happened this month, just the usual Valentine's date on the 14th. We just went to this semi-high end restaurant and ordered some pizza, pasta, and wine.
 
 I also got a new laptop, my third Acer laptop - been an Acer user since 2011-ish because of it's ok specs at a lower price. I blogged about that laptop here: <a class="link" href="/new-laptop/">I Got Myself a New Laptop</a>
 
-<br/>
+<hr>
 
-# March
+## March
 
-## more like MARCH-ing Towards a Global Pandemic
+### Oh no!
 
 Oh how it started so well until a <a class="link" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">new unknown deadly virus broke out of Wuhan, China.</a>
 
@@ -95,9 +78,9 @@ It seemed the world has stopped due to lockdowns, and despite the technological 
 
 These, I think, are the times we don't want to talk about anymore.
 
-<br/>
+<hr>
 
-# April - November
+## April - November
 
 I'll sumamrize these months here, since we all have been in lock down and stayed in our homes. But luckily for us, our occupation allowed us to still make a living and let us stay in.
 
@@ -107,19 +90,19 @@ I went busy during these time, did some web and app development, went on to stre
 
 With all of these, I upgraded (again) my peripherals for my convenience (sorry Girlfried, 😂). I bought a over-the-head headset and an earbuds, for better Zoom meetings and streaming - the JBL Quantum 200 and the HyperX Cloud earbuds. I also got myself a wireless Logitech gaming mouse, the G304, which I reviewed <a class="link" href="/g304-review/">here</a> and a Tecware mechanical keyboard TKL, which you can read more about <a class="link" href="/new-keeb/">here.</a>
 
-{{< figure src="/images/01-21/year-in-review/jbl-quantum.jpg" title="JBL Quantum 200 (pardon the mess)" width="70%" alt="JBL Quantum 200">}}
+{{< figure src="/images/01-21/year-in-review/jbl-quantum.jpg" caption="JBL Quantum 200 (pardon the mess)" width="80%" alt="JBL Quantum 200">}}
 
-{{< figure src="/images/07-20/g304/inside.jpg" title="Logitech G304" width="70%" alt="Logitech G304">}}
+{{< figure src="/images/07-20/g304/inside.jpg" caption="Logitech G304" width="80%" alt="Logitech G304">}}
 
-{{< figure src="/images/08-20/new-kb/rgb.jpg" title="Tecware Elite TKL" width="70%" alt="Logitech G304">}}
+{{< figure src="/images/08-20/new-kb/rgb.jpg" caption="Tecware Elite TKL" width="80%" alt="Logitech G304">}}
 
 I also went on to upgrade my work PC's SSD for a better brand and higher storage, cheaper though - the XPG 8200. Also bought a JBL Go3 bluetooth speaker, and the Logitech C922 webcam, also for Zoom meetings 🤣. I blogged about the camera here: <a class="link" href="/the-logitech-c922/">Finally! Logitech C922</a>
 
-{{< figure src="/images/10-20/c922/c922_camera.jpg" title="Logitech C922" width="65%" alt="Logitech C922">}}
-<br/>
-<br/>
+{{< figure src="/images/10-20/c922/c922_camera.jpg" caption="Logitech C922" width="65%" alt="Logitech C922">}}
 
-# December
+<hr>
+
+## December
 
 ## Christmas and New Year's Eve
 
@@ -127,11 +110,11 @@ This might be the hardest Christmas and New Year we've all faced and celebrated,
 
 The shopping continues, I got myself the Razer Hammerhead Wireless earbuds and a yellow iPhone 11 for Christmas. I did not post a blog about the wireless earbuds since the unit I got was faulty (had it replaced now). And I prefer not to flaunt my new iPhone since there's nothing special about it, my ultimate goal of buying one is to <a class="link" href="/developing-for-apple-soon/">develop apps for iOS.</a>
 
-{{< figure src="/images/01-21/year-in-review/tech-2020.jpg" title="Razer BT Earbuds and Yellow iPhone 11" width="70%" alt="Logitech C922">}}
-<br/>
-<br/>
+{{< figure src="/images/01-21/year-in-review/tech-2020.jpg" caption="Razer BT Earbuds and Yellow iPhone 11" width="80%" alt="Logitech C922">}}
 
-# How's Your 2020?
+<hr>
+
+## How's Your 2020?
 
 This year had been a mix of emotions but mostly depressing. We still coping to the new normal, keeping safe, and I know we all miss socializing.
 
@@ -140,7 +123,6 @@ This might look like a tech shopping spree for me but I also grew my Facebook pa
 Read a few books, got certificates from online courses, and especially I am still alive and healthy.
 
 How did your 2020 go? Tag me on your story.
-<br/>
 <br/>
 <br/>
 

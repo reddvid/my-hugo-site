@@ -31,7 +31,7 @@ Though I mostly use OBS for game streaming (no facecam), I move things around on
 
 Version 27 also added a missing files window prompt on launch that allows us to relocate or ignore the missing files. Nice addition so we don’t go start streaming only to have the files missing.
 
-{{< figure src="/images/06-21/obs/obs_missing_files_warning.png" title="Missing Files Warning Window" width="80%" >}}
+{{< figure src="/images/06-21/obs/obs_missing_files_warning.png" caption="Missing Files Warning Window" width="80%" >}}
 
 ## No More Noise
 
@@ -46,8 +46,8 @@ Thanks for these 2 new improvements among others:
 - Browser Source interact button (toolbar)
 - Virtual Camera toggle button (system tray)
 
-{{< figure src="/images/06-21/obs/obs_browser_interact.png" title="Browser Source Interact Button" width="80%" >}}
-{{< figure src="/images/06-21/obs/obs_virtual_cam.png" title="Toggle Virtual Camera on System Tray Icon<" width="40%" >}}
+{{< figure src="/images/06-21/obs/obs_browser_interact.png" caption="Browser Source Interact Button" width="80%" >}}
+{{< figure src="/images/06-21/obs/obs_virtual_cam.png" caption="Toggle Virtual Camera on System Tray Icon<" width="40%" >}}
 
 ## Final Thoughts
 

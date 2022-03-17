@@ -3,8 +3,7 @@ title: "I Got Myself a New Laptop"
 date: 2020-02-18T16:30:40+08:00
 draft: false
 author: "David"
-
-toc: false
+slug: new-laptop
 tags: ["Setup", "Acer", "Acer Laptop", "Development"]
 categories: ["Technology"]
 featuredimage: "/images/feat/acer-laptop.jpg"
@@ -12,15 +11,15 @@ comments: true
 ogimage: "/images/og/new-laptop.png"
 ---
 
+## Foreword
+
 Last February 15, I got myself a new Acer laptop. It is an Acer Nitro 5 laptop sporting an AMD Ryzen 3550H with RX560X Graphics. This makes my 3rd Acer laptop in a span of 8+ years and my first ever AMD on a laptop (had an AMD Athlon X2 PC before).
 
-This laptop costs Php34,999 and we could not find a promo since every store follows the retail price. Although, the laptop was <em>on promo</em> with having an included a single stick of 8GB DDR4 memory (upgraded from 4GB), 128GB SSD (m.2 SATA) and a 1TB mechanical drive (not SSHD).
+This laptop costs Php34,999 and we could not find a promo since every store follows the retail price. Although, the laptop was _on promo_ with having an included a single stick of 8GB DDR4 memory (upgraded from 4GB), 128GB SSD (m.2 SATA) and a 1TB mechanical drive (not SSHD).
 
-The laptop includes a generic-looking backpack - yes, I said generic since I saw somewhere that there is a <em>gaming-accented</em> version of the bag.
+The laptop includes a generic-looking backpack - yes, I said generic since I saw somewhere that there is a _gaming-accented_ version of the bag.
 
-</br>
-
-# Some quick specs:
+## Quick Specs:
 
 - AMD Ryzen 5 3550H Quad-Core with Vega 8 Graphics (which consumes 2GB of RAM)
 - AMD Radeon RX560X 4GB DDR4 - Here's the catch, upon checking CPU-Z the - installed memory stick is rated at 2666MHz but later found out that Ryzen 3550H is limited to 2400MHz, so maybe that is a bummer
@@ -29,15 +28,15 @@ The laptop includes a generic-looking backpack - yes, I said generic since I saw
 
 Full specs of the laptop can be found <a class="link" href="https://www.acer.com/ac/en/GB/content/model/NH.Q5XEK.008">here</a>
 
-</br>
+<hr>
 
-# Using the laptop
+## Using the laptop
 
 ### Speed
 
-Coming from an Intel i7 laptop, I felt the difference in boot up times, booting on this device is slightly slower - not sure if it's because of the SSD installed since I was using a Samsung 860 Evo on my old laptop.
+Coming from an Intel i7 laptop, I felt the difference in boot up times, booting on this device is slightly slower - not sure if it's because of the SSD installed, since I was using a Samsung 860 Evo on my old laptop.
 
-Next is using Visual Studio, rebuilding some of my apps takes a longer time to finish. Also, having only 6GB of memory (since the 2GB is shared to CPU?) I can't stand having my chrome tabs reload after a while.
+Next is using Visual Studio, rebuilding some of my apps takes a longer time to finish. Also, having only 6GB of memory (since the 2GB is shared for AMD switchable graphics) I can't stand having my chrome tabs reload after a while.
 
 ### Gaming
 
@@ -61,11 +60,11 @@ The ports are ok, but the Type-C is not thunderbolt. The power port is on the mi
 
 Nitro Sense is a great addition that it lets you control the laptop fans manually - they can get loud man! The fan layout is not "optimal" in my opinion though.
 
-Lastly, the speakers on it are s\*\*t 🤮.
+Lastly, the speakers on it are s\*\*t 🤮. Apparently this is what we get for this price. 🤷🏽
 
-</br>
+<hr>
 
-# Upgrades!!!
+## Upgrades
 
 It took me two weeks to "settle" with this new laptop and sometimes got me thinking of "regrets". But I actually planned to upgrade memory - I just didn't have the money 😂.
 
@@ -81,10 +80,11 @@ Replaying some games with higher FPS is also a plus.
 
 Right now, I am thinking of upgrading to nVMe, to a higher 2.5" SSD and 32GB RAM 😳.
 
-</br>
+<hr>
 
-#### See me play a game on this device in <a class="link" href="https://youtube.com/user/loveisinDA">YouTube</a>
+## Other notes
 
-#### <a class="link" href="https://buymeacoffee.com/reddavid">Buy me a coffee</a> or <a class="link" href="https://paypal.me/reddvid">chip-in for my next upgrade</a>
+Catch me play a game on this device in <a class="link" href="https://facebook.com/RedDavidGG">Facebook Gaming</a>.
+Support my tech lust by <a class="link" href="https://buymeacoffee.com/reddavid">buying me a coffee</a> or <a class="link" href="https://paypal.me/reddvid">send a tip for my next upgrade</a>
 
-<strong>Thank you</strong>
+**Thank you**

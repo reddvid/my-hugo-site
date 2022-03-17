@@ -1,9 +1,9 @@
 ---
-title: "Roundup: Good JuJu "
+title: "Good JuJu: Roundup"
 date: 2021-07-29T00:02:17+08:00
 draft: false
 author: "David"
-
+slug: july-roundup
 tags:
   [
     "Streaming",
@@ -36,7 +36,7 @@ So my last post was June 12, I celebrated my 29th birthday on the 14th and got m
 
 I got the thingy not just to stream games but for future use - like recording "How to use this app" for YouTube or presentations, so it may be an expensive thing but I always think of them as an investment for my app development journey.
 
-{{< figure src="/images/07-21/roundup/elgato.jpg" title="Elgato HD60S+" width="60%" >}}
+{{< figure src="/images/07-21/roundup/elgato.jpg" caption="Elgato HD60S+" width="60%" >}}
 
 Speaking of streaming, I started streaming on Twitch! Right now, I planned on playing Minecraft, Left 4 Dead 2, and Call of Duty: Mobile. Also, I will try to stream on MWFS schedule playing those games or variety. <a class="link" href="https://twitch.tv/RedDavidGG" target="_blank">Give me a follow</a> and get notified when I go live.
 
@@ -57,7 +57,7 @@ Any more happened last week of June? Hmm. Yeah right, I released an update for R
 
 The app is still available for **FREE** on Google Play Store, Huawei App Store, and iOS App Store. I created this simple app landing page for the <a class="link" href="https://tunein.rpnradio.com/download" target="_blank">links.</a>
 
-{{< figure src="/images/07-21/roundup/rpnradio-app-cta.jpg" title="Call-to-Action Button - RPN Radio App" width="40%" >}}
+{{< figure src="/images/07-21/roundup/rpnradio-app-cta.jpg" caption="Call-to-Action Button - RPN Radio App" width="40%" >}}
 
 I also got to try the new <a class="link" href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank">Windows 11 Insider Preview</a> on a VM. Tested on my main machine but I can't risk the beta so I rolled back to Windows 10.
 
@@ -79,7 +79,7 @@ I got my second dose of Covid vaccine (Sinovac) on the 6th, thankfully there wer
 
 With work, I updated the <a class="link" href="https://rpnradio.com" target="_blank">RPN website</a> overall layout after migrating to a new hosting provider. And some minor updates to some if not all the online systems.
 
-{{< figure src="/images/07-21/roundup/rpnradio-website-mobile.png" title="RPN Radio Website" width="40%" >}}
+{{< figure src="/images/07-21/roundup/rpnradio-website-mobile.png" caption="RPN Radio Website" width="40%" >}}
 
 ### Rainy Vacay
 
@@ -89,7 +89,7 @@ I was so looking forward to at least visit a beach, see a sunset, feel the breez
 
 The 20th was a holiday, and magically the weather was at least fine for us to go to Binmaley beach - don't worry, there were no crowds so we can be safe, I think? The sun was peeping through the clouds and by the afternoon, a mild rain poured. Together with relatives, we spend some time there swimming, singing, EATING, and drinking booze until it's time to go home.
 
-{{< figure src="/images/07-21/roundup/binmaley-beach.jpg" title="Binmaley Beach" >}}
+{{< figure src="/images/07-21/roundup/binmaley-beach.jpg" caption="Binmaley Beach" >}}
 {{< figure src="/images/07-21/roundup/lumpiang-gulay.jpg" title="Lumpiang Gulay" width="50%">}}
 
 My other plans went down the drain as the weather became worse, Dagupan City was flooded (plus high tide) that light vehicles weren't able to pass. Sadly, I can't meet my ~~only~~ city friends. There's still next time right? Right?
@@ -99,13 +99,13 @@ I decided to extend my stay but continued checking some online responsibilities 
 We also went to our grandfather's brother to celebrate his 70th birthday. Then we spent some time (and over pizza) with my cousin to talk about tech and stuff.
 
 {{< figure src="/images/07-21/roundup/bday-selfie.jpg" width="40%"  >}}
-{{< figure src="/images/07-21/roundup/bday-damage.jpg" title="Selfie with Lolo and Cousin + Damaged Foods 🤣" width="40%" >}}
+{{< figure src="/images/07-21/roundup/bday-damage.jpg" caption="Selfie with Lolo and Cousin + Damaged Foods 🤣" width="40%" >}}
 
 <br>
 
 Oh, I also got a haircut (question mark).
 
-{{< figure src="/images/07-21/roundup/haircut.jpg" title="Haircut?" width="40%" >}}
+{{< figure src="/images/07-21/roundup/haircut.jpg" caption="Haircut?" width="40%" >}}
 
 <br>
 

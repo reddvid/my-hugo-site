@@ -4,7 +4,6 @@ date: 2020-07-08T21:18:31+08:00
 draft: false
 author: "David"
 
-toc: false
 tags: ["App Development", "Windows 10", "UWP", "Fluent Design"]
 categories: ["Coding"]
 featuredimage: "/images/feat/your-phone.jpg"
@@ -16,15 +15,23 @@ Your Phone Tray UWP app just got updated.
 
 Version 2.0 brings few UI changes, some improvements and a breaking change.
 
-### Improvements
+## Improvements
+
+### New Context Menu
 
 To improve the app, I updated the tray icon context menu to show that it should be running on Startup (see Task Manager Start up)
-<img src="/images/07-20/yourphonetray/ypt-contextmenu.png" style="display:block;margin-left:auto;margin-right:auto;width:30%;">
+{{< figure src="/images/07-20/yourphonetray/ypt-contextmenu.png" caption="Your Phone Tray Context Menu" alt="Context Menu of Your Phone Tray app" width="50%" >}}
 
-You can also see a new menu item <strong>Enable Ctrl+Y Hotkey</strong>. If enabled, the app silently picks up the Ctrl+Y shortcut to open Your Phone app. It can be toggled if the shortcut key messes up some of your programs.
+#### Shortcut Key
 
-### Breaking change
+You can also see a new menu item **Enable Ctrl+Y Hotkey**. If enabled, the app silently picks up the `Ctrl+Y` shortcut to open Your Phone app. It can be toggled if the shortcut key messes up some of your programs.
+
+<hr>
+
+## Breaking change
 
 Microsoft's Your Phone app has been updated several times that launching it directly to the photos section shows a blank UI. For the meantime, all shortcuts to open the app will direct to messages.
 
-<a class="link" href="https://bit.ly/UrPhoneTray" target="_blank"><h2>You can download the app by clicking on this link</h2></a>
+## Download
+
+<a class="link" href="https://bit.ly/UrPhoneTray" target="_blank">**Download the app here**</a> for Windows 10

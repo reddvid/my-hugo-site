@@ -1,0 +1,13 @@
+{{- $src := .Get "src" -}}
+{{- $preload := .Get "preload" -}}
+{{- $type := .Get "type" -}}
+{{- $width := default "90%" (.Get "width") -}}
+{{- $caption := default "" (.Get "caption") -}}
+<figure>
+   <video class="video-shortcode" preload="{{- $preload -}}" controls width="{{- $width -}}">
+      <source src="{{- $src -}}" type="{{- $type -}}">
+      There should have been a video here but your browser does not seem
+      to support it.
+   </video>
+   <figcaption>{{- $caption -}}</figcaption>
+</figure>

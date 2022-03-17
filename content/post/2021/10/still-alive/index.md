@@ -3,7 +3,7 @@ title: "Some Updates (Yes, I am Still Alive)"
 date: 2021-10-05T23:13:11+08:00
 draft: false
 author: "David"
-
+slug: still-alive
 tags: ["Books", "Gaming", "Self-development", "Vacation"]
 categories: ["Stories"]
 featuredimage: "/images/og/still-alive.png"
@@ -34,7 +34,7 @@ I have been intending to cook a healthy meal long before but time constraints an
 
 I can't remember where I found The War of Art (yes, not Art of War). It is a book about fighting resistance of doing art (a metaphor of doing what you REALLY love). It's a short self-development book authored by Steven Pressfield, and later I found that it has sequels or whatever you call it: Do The Work and Turning Pro. Do The Work was originally published first but was updated (I think?) to be the follow-up of TWoA. As the book title says, when overcoming resistance DO THE WORK. Lastly, Turning Pro is about escaping the amateur life (of doing work).
 
-I also stumbled upon a website called [mostrecommendedbooks.com](mostrecommendedbooks.com), a website where you can find a list of books which top personalities and celebrities had read. Some notable personalities I leisurely checked: Barack Obama, Bill Gates, Elon Musk (this man is futuristic and really into tech!), Dwayne "The Rock" Johnson, PewDiePie, Richard Branson, and Steve Jobs.
+I also stumbled upon a website called [mostrecommendedbooks.com](https://mostrecommendedbooks.com), a website where you can find a list of books which top personalities and celebrities had read. Some notable personalities I leisurely checked: Barack Obama, Bill Gates, Elon Musk (this man is futuristic and really into tech!), Dwayne "The Rock" Johnson, PewDiePie, Richard Branson, and Steve Jobs.
 
 They all have their niche but I found that they have some mutual titles which I got interested putting into my reading list:
 
@@ -52,7 +52,7 @@ They all have their niche but I found that they have some mutual titles which I 
 
 I recommend reading **"Man's Search for Meaning"** at least once in your life. 🙂
 
-{{< figure src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY475_.jpg" title="Man's Search for Meaning cover" >}}
+{{< figure src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY475_.jpg" caption="Man's Search for Meaning cover" >}}
 
 ## Online Courses
 
@@ -72,4 +72,4 @@ As for the company's mobile apps - updates are still pending. I am hoping for a 
 
 Lastly, on my very very free time, I can get to play and record playing the guitar and upload to my <a class="link" href="https://youtube.com/RedDavid" target="blank_">YouTube</a> channel. Feel free to like or dislike. 🤣 I also compensate some time to stream on <a class="link" href="https://twitch.tv/reddavidgg" target="blank_">Twitch</a> for a few hours.
 
-I hope these are enough to keep you updated. I will also post some tech buys I did to give myself back for the hard-work I believe I do. Hit me up in <a class="link" href="twitter.com/reddvid" target="blank_">Twitter</a> or <a class="link" href="facebook.com/reddavidgg" target="blank_">Facebook</a> on how your last two months went!
+I hope these are enough to keep you updated. I will also post some tech buys I did to give myself back for the hard-work I believe I do. Hit me up in <a class="link" href="https://twitter.com/reddvid" target="blank_">Twitter</a> or <a class="link" href="https://facebook.com/reddavidgg" target="blank_">Facebook</a> on how your last two months went!

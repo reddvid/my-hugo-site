@@ -30,7 +30,7 @@ Minecraft is a really popular game we all know that, and most of my followers we
 
 Yes, I have been thinking of switching to either one, why? First, Twitch have several audience interaction which I have been using when I watch my favorite streamers there like, watch points, play with viewers, etc and you can watch on app minimized.
 
-{{< figure src="/images/twitch-minimized.png" width="40%" title="Watch Twitch Videos Minimized" alt="Watch Twitch Videos Minimized" >}}
+{{< figure src="/images/twitch-minimized.png" width="40%" caption="Watch Twitch Videos Minimized" alt="Watch Twitch Videos Minimized" >}}
 
 While YouTube had a better chat system, but chat highlights and audience interactions are better - with chatbots.
 

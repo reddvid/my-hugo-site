@@ -4,8 +4,8 @@ date: 2020-01-02T03:02:48+08:00
 draft: false
 author: "David"
 
-tags: ["App Development", "Android"]
-categories: ["Coding"]
+tags: ["App Development", "RPN", "RPN News", "Android", "Xamarin Forms"]
+categories: ["Coding", "App Development"]
 featuredimage: "/images/rpn-android.png"
 comments: true
 ogimage: "/images/og/rpnradio-news-android.png"
@@ -19,4 +19,4 @@ Obviously, this is unofficial and not backed by my employers. I believe having t
 
 Also, there are some adjustments I needed to learn in using Xamarin Forms, and had to merge several projects to create both the news and radio part of the app. Thanks to open source!
 
-There are still bugs, I know, but help by checking the app <a href="https://play.google.com/store/apps/details?id=xyz.reddvid.rpnradio" taget="_blank">here</a>
+There are still bugs, I know, but help by checking the app <a class="link" href="https://play.google.com/store/apps/details?id=xyz.reddvid.rpnradio" taget="_blank">here</a>

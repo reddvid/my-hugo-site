@@ -40,7 +40,7 @@ I only play the game against custom BOT scripts 🤣 just to past time or just t
 
 Now, as of this writing, we just ended Day 3 of the Main Stage and I've followed and watched most of the games. Fnatic, a SEA team with 2 Pinoy players, got eliminated on Day 2 just after getting past a heart-wrenching Best-of-One's on the Lower Bracket the day before. The last SEA representative, T1, would have to give their best on their lower bracket run.
 
-{{ < figure src="https://pbs.twimg.com/media/FBrySN5VIAAtGqh?format=jpg&name=large" > }}
+{{< figure src="https://pbs.twimg.com/media/FBrySN5VIAAtGqh?format=jpg&name=large" >}}
 
 Thanks to [Wykrhm Reddy (@wykrhm)](https://twitter.com/wykrhm) for being such a good Dota Community Man.
 

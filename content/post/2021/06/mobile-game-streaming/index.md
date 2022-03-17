@@ -19,7 +19,7 @@ Ever since the new season of Call of Duty: Mobile came out, I just wanted to red
 
 Don't worry guys and gals, kuya Red will be back soon. Konti na lang back to Legendary rank na sa BR mode at pwede na mag-Minecraft.
 
-{{< figure src="/images/06-21/mobile-streaming/codm-locked.png" title="Locked Legendary Rank" >}}
+{{< figure src="/images/06-21/mobile-streaming/codm-locked.png" caption="Locked Legendary Rank" >}}
 
 ## Minecraft 1.17 is Here
 
@@ -45,7 +45,7 @@ First, let's see the devices I use except for the laptop/PC for streaming.
 
 I used to play on my Nokia 7 Plus but can't the specs can't keep up, not sure why. This is when I use [Vysor](https://www.vysor.io/), a screen mirroring app that wirelessly share the phone's screen to the PC. Now, that's where the problem is, wireless mirroring makes the sound delayed that playing action games is not a good experience. I invested in both an iPhone and the adapter since I can use them on future projects - software development.
 
-{{< figure src="/images/06-21/mobile-streaming/adapters.jpg" title="Lightning to AV Adapter and USB Capture Card" width="60%" >}}
+{{< figure src="/images/06-21/mobile-streaming/adapters.jpg" caption="Lightning to AV Adapter and USB Capture Card" width="60%" >}}
 
 I wonder why branded capture cards are so damn expensive?! Like the [Elgato HD60S](https://ecommerce.datablitz.com.ph/products/elgato-hd60-s-game-capture) and [AverMedia Live Gamer Ultra](https://ecommerce.datablitz.com.ph/products/avermedia-live-gamer-ultra-game-streaming-capture-box-gc553). So I went ahead and bought a $6 (300 pesos) unbranded USB capture card and it just works fine. Just stick it well on a USB port and it's good to go.
 
@@ -53,19 +53,19 @@ I wonder why branded capture cards are so damn expensive?! Like the [Elgato HD60
 
 Lastly, I recently bought an [ATR-2500X condenser mic](https://www.audio-technica.com/en-gb/atr2500x-usb) to record songs and guitars for my YouTube channel. Now it's multi-purpose that I use it on my streams and Zoom meetings.
 
-{{< figure src="/images/06-21/mobile-streaming/atr-2500x.jpg" title="Audio-Technica ATR2500X Condenser Mic" width="60%" >}}
+{{< figure src="/images/06-21/mobile-streaming/atr-2500x.jpg" caption="Audio-Technica ATR2500X Condenser Mic" width="60%" >}}
 
 ### Software
 
 As for the software, I use [OBS Studio](https://obsproject.com/). I had a bad experience using SLOBS, it freezes and crashes over simple things. I used to do overlays with Streamlabs but then I found StreamElements OBS.Live. It makes things much easier with a direct "Go Live" button on OBS Studio, chat box, and activity feed. They also provide a nice overlay editor with text-to-speech system on their [website](https://streamelements.com/).
 
-{{< figure src="/images/06-21/mobile-streaming/obslive.png" title="StreamElements OBS.Live Plugin" >}}
+{{< figure src="/images/06-21/mobile-streaming/obslive.png" caption="StreamElements OBS.Live Plugin" >}}
 
 ### Diagram
 
 This is how my setup is connected. Remember that you need an internet with at least 4000kbps of upload speed to actually stream your games on Facebook Gaming ([source](https://www.facebook.com/fbgaminghome/creators/getstarted)). I stream at 1080p60 with 6000kbps bitrate.
 
-{{< figure src="/images/06-21/mobile-streaming/setup-diagram.png" title="Hardware Setup Diagram" >}}
+{{< figure src="/images/06-21/mobile-streaming/setup-diagram.png" caption="Hardware Setup Diagram" >}}
 
 ## Games List
 
