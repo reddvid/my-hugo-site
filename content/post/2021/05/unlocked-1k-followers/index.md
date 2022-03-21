@@ -18,7 +18,7 @@ It was on May 26th that we finally got to a thousand following after a year of s
 
 {{< figure src="/images/1k-achievement.png" width="80%" alt="1K followers achievement custom" >}}
 
-## <strike>Daily</strike> Nightly Streams
+## <del>Daily</del> Nightly Streams
 
 Now that there's that 1K following behind me, I will pursue to stream on a daily basis, even a short one because honestly, I miss talking and updating with them. I will also continue to improve my stream quality.
 

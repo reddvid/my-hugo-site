@@ -16,11 +16,11 @@ Another late blog post. 😓 Well, I may have an explanation you might not acce
 
 So my last post was on December 4th, and I really tried to do a weekly, heck, even daily short posts. But the days do really come fast when the holidays are coming and vacation leave plans make you do work in crunch time.
 
-## 2021 Finale
+## Finale 2021
 
 Luckily, we survived another year of the grueling pandemic and the local government did lower the **Alert Level** to a much more _free_ movements in public - children can now go out with adults in malls. The holidays compared to last 2020 felt better.
 
-### 24th and 25th
+### The 24th and 25th
 
 I decided to celebrate Christmas Eve with my fiancée’s family with a fantastic dinner.
 
@@ -63,7 +63,7 @@ The New Year’s Eve always start early by drinking liquor, listening to loud mu
 There were lots of fireworks compared to last year and people looked a lot more hopeful for the coming year.
 {{< figure src="img/new-years-eve-food.png" caption="Food for New Year's Eve" alt="Food for New Year's Eve" width="90%" >}}
 
-## 2021 Part 2
+## Year 2021 Part 2
 
 {{< figure src="https://media.giphy.com/media/RirZ9781gEyu9sCHKy/giphy.gif" alt="Same shit, different year gif" width="40%" >}}
 Some said it’s going to be another version of 2021 but worse. News in the first week included shortage of acetaminophen (paracetamol) in most drugstores, at least in the NCR.

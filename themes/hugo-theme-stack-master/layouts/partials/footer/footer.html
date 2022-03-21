@@ -7,7 +7,6 @@
         {{ end }}
         {{ now.Format "2006" }} {{ .Site.Title }}
     </section>
-
     <section class="powerby">
         {{ with .Site.Params.footer.customText }}
         {{ . | safeHTML }} <br />

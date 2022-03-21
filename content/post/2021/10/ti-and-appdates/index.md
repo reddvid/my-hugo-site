@@ -30,7 +30,7 @@ Let's start with [The International](https://en.wikipedia.org/wiki/The_Internati
 
 I only play the game against custom BOT scripts 🤣 just to past time or just to be updated with what patches <a class="link" href="https://dota2.fandom.com/wiki/IceFrog" target="_blank">IceFrog</a> brings to the game. What I mostly do is watch major tournaments especially those when teams need to earn <a class="link" href="https://liquipedia.net/dota2/Dota_Pro_Circuit" target="_blank">DPC points</a> for entering the prestigious TI.
 
-## 10 Days of DOTA
+## Ten Days of DOTA
 
 #TI10 started on October 7th with 18 qualified teams playing playoffs on the group stage to determine their position either on the upper or lower bracket; and where two teams: Thunder Predator and SG, in the end, bid farewell for the Main Stage and championship.
 

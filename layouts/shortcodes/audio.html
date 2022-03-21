@@ -1,0 +1,9 @@
+{{- $src := default "" (.Get "src") -}}
+{{- $caption := default "" (.Get "caption") -}}
+<figure>
+   <audio controls style="width: 60%;">
+      <source src="{{- $src -}}" type="audio/mpeg">
+      Your browser does not support the audio element.
+   </audio>
+   <figcaption>{{- $caption -}}</figcaption>
+</figure>
