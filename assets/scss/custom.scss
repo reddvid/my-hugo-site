@@ -15,6 +15,11 @@ div.schmol > article > a {
   padding-bottom: 0;
 }
 
+div.notsoschmol > article > a {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 ol#main-menu {
   row-gap: 1.2rem;
 }

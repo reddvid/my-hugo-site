@@ -28,12 +28,16 @@ links:
     image: img/facebook-stars.jfif
 
 sublinks:
+  - title: Wishlist
+    website: /wishlist
   - title: Buy me a Coffee
     website: https://buymeacoffee.com/reddavid
   - title: Ko-fi
     website: https://ko-fi.com/reddavid
   - title: PayPal
     website: https://paypal.me/reddvid
+  - title: GCash and e-Wallets
+    website: /gcash/
 
 menu:
   main:

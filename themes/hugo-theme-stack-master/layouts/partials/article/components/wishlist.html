@@ -1,0 +1,25 @@
+<h2 class="article-title">These are my most wished items I need and want. 🥰</h2>
+<div class="article-list--compact wishlist notsoschmol">
+    {{ range $i, $link := .Params.wishlist }}
+    <article>
+        <a href="{{ $link.link }}" target="_blank" rel="noopener">
+            {{ with $link.image }}
+            <div class="article-image">
+                <img src="{{ . }}" loading="lazy">
+            </div>
+            {{ end }}
+
+            <div class="article-details">
+                <h2 class="article-title">
+                    {{- $link.title -}}
+                </h2>
+            </div>
+
+            {{ $icon := default "external-link" .Params.Icon }}
+            {{ with $icon }}
+            {{ partial "helper/icon" . }}
+            {{ end }}
+        </a>
+    </article>
+    {{ end }}
+</div>

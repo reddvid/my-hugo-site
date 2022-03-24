@@ -13,7 +13,17 @@ categories: ["Stories"]
 
 Decluttering some files and found this little sad poem saved in a text file, and I just thought of sharing it.
 
-<div style="line-height: 0.8rem !important; text-align: center; background: #111;">
+<div id="poem">
+
+<style>
+div#poem {
+   line-height: 0.8rem !important; text-align: center; background: rgba(125,130,130,0.1); width: 60%; margin: 0 auto; border-radius: 20px;
+}
+
+@media(max-width:768px){
+   div#poem {width: 100%; }
+}
+   </style>
 
 <br>
 

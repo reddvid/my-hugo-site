@@ -34,6 +34,10 @@ Enable the right sidebar if
 {{ partial "article/components/wishlist" . }}
 {{ end }}
 
+{{ if .Params.gcash }}
+{{ partial "article/components/gcash" . }}
+{{ end }}
+
 {{ partial "article/components/related-contents" . }}
 
 {{ if not (eq .Params.comments false) }}
