@@ -25,6 +25,8 @@ I let go of my [Audio Technica ATR2500X condenser microphone](https://reddavid.m
 
 The ATR2500X does record good sound when inside a treated and noise-free room. Here is a sample, though it’s not in a room and background noise is environmental:
 
+{{< audio src="chikinini.mp3" caption="Chikinini by Parokya Ni Edgar Cover by John Dre (Inuman Session)" >}}
+
 ## Samson Q9U
 
 I replaced the AT mic with a Samson Q9U, a USB/XLR combo dynamic microphone which I can directly use on a PC without a USB interface (XLR connection). Despite the slightly higher price, having a dynamic mic to record in a noisy room is slightly tolerable.
