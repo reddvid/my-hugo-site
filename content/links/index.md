@@ -36,8 +36,6 @@ sublinks:
     website: https://ko-fi.com/reddavid
   - title: PayPal
     website: https://paypal.me/reddvid
-  - title: GCash and e-Wallets
-    website: /gcash/
 
 menu:
   main:

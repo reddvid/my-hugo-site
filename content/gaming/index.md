@@ -1,0 +1,170 @@
+---
+title: Gaming
+hidetitle: true
+comments: false
+ogimage: gaming-og.png
+menu:
+  main:
+    weight: -60
+    params:
+      icon: mouse
+---
+
+<style>
+.vcontainer {
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.iframe-resp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.icon {
+  margin-bottom: -6px;
+}
+
+</style>
+
+<h1 style="text-align: center;">Gaming</h1>
+
+## Streaming
+
+I pop-up on Twitch from time-to-time to stream. I still have no schedule.
+
+<div class="vcontainer">
+<iframe
+    src="https://player.twitch.tv/?channel=reddavidgg&parent=reddavid.me&muted=true"
+    class="iframe-resp"
+    allowfullscreen>
+</iframe>
+</div>
+
+<!-- <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+<div id="vcontainer"></div>
+<script type="text/javascript">
+  var options = {
+    width: 1280,
+    height: 720,
+    channel: "reddavidgg",
+    // only needed if your site is also embedded on embed.example.com and othersite.example.com
+    parent: ["localhost", "reddavid.me"]
+  };
+  var player = new Twitch.Player("vcontainer", options);
+  player.setVolume(0.5);
+</script> -->
+
+## Games List
+
+Excluding my Steam library and other platform games (Epic, GOG), below is a table where I track my finished, on-going, to-be-continued, and soon-to-play games.
+
+| Game Title                        | Completion Status        |
+| --------------------------------- | ------------------------ |
+| AER Memories of Old               | **Done**                 |
+| Battlefield 3                     | **Done**                 |
+| Battlefield 4                     | **Done**                 |
+| BioShock                          | **Done**                 |
+| BioShock 2                        | TBC                      |
+| Bioshock Infinite                 | TBC                      |
+| Blackmesa                         | **Done**                 |
+| Braid                             | **Done**                 |
+| Brothers - A Tale of Two Sons     | **Done**                 |
+| Celeste                           | Soon                     |
+| CoD: Black Ops                    | **Done**                 |
+| CoD: MW                           | **Done**                 |
+| CoD: MW 2                         | **Done**                 |
+| CoD: MW 3                         | **Done**                 |
+| CoD: World at War                 | **Done**                 |
+| Dead Space                        | Soon                     |
+| Dead Space 2                      | Soon                     |
+| Dead Space 3                      | Soon                     |
+| Dishonored                        | **Done**                 |
+| Dishonored 2                      | TBC                      |
+| DOOM 2016                         | **Done**                 |
+| Evoland 1/2                       | **Done**                 |
+| Far Cry 3                         | **Done**                 |
+| Far Cry 4                         | **Done**                 |
+| Far Cry 5                         | **Done**                 |
+| Far Cry 6                         | **Done**                 |
+| Far Cry New Dawn                  | **Done**                 |
+| Far Cry Primal                    | **Done**                 |
+| Ghost Recon: Breakpoint           | TBC                      |
+| Ghost Recon: Wildlands            | **Done**                 |
+| GRIS                              | **Done**                 |
+| GTA 3                             | Soon                     |
+| GTA 4                             | Soon                     |
+| GTA San Andreas                   | TBC                      |
+| GTA V                             | **Done** main story      |
+| GTA Vice City                     | Soon                     |
+| Half-Life                         | **Done**                 |
+| Half-Life 2                       | **Done**                 |
+| Hellblade: Senua's Sacrifice      | Soon                     |
+| HL2: Ep 1                         | **Done**                 |
+| HL2: Ep 2                         | **Done**                 |
+| Hollow Knight                     | **Done** 112% P1-4 NB    |
+| Homefront                         | **Done**                 |
+| Homefront: The Revolution         | Soon                     |
+| Horizon Zero Dawn                 | Soon                     |
+| Journey                           | **Done**                 |
+| Kena Bridge of Spirits            | TBC                      |
+| LIMBO                             | **Done**                 |
+| Machinarium                       | **Done**                 |
+| Mad Max                           | TBC                      |
+| Mafia 2                           | **Done**                 |
+| Medal of Honor                    | **Done**                 |
+| Metro 2033                        | **Done**                 |
+| Metro Exodus                      | **Done**                 |
+| Metro Last Light                  | **Done**                 |
+| Mirror's Edge                     | TBC                      |
+| NFS: Carbon                       | TBC                      |
+| NFS: Most Wanted Black Edition    | **Done**                 |
+| NFS: Underground 2                | **Done**                 |
+| Ori and the Blind Forest          | Soon                     |
+| Ori and the Will of the Wisps     | Soon                     |
+| Portal                            | **Done**                 |
+| Portal 2                          | **Done**                 |
+| Prototype                         | **Done**                 |
+| Prototype 2                       | **Done**                 |
+| Puzzle Agent                      | **Done**                 |
+| Puzzle Agent 2                    | **Done**                 |
+| Raft                              | TBC - playing off stream |
+| Red Dead Redemption 2             | Soon                     |
+| Sleeping Dogs                     | **Done**                 |
+| Slime Rancher                     | **Done** - story         |
+| Spec Ops: The Line                | **Done**                 |
+| The Darkness 2                    | **Done**                 |
+| The Dream Machine                 | TBC                      |
+| The Outer Worlds                  | TBC                      |
+| The Sexy Brutale                  | **Done**                 |
+| The Walking Dead (Season 1?)      | **Done**                 |
+| The Witcher 3: Wild Hunt + 2 DLCs | **Done**                 |
+| The Witness                       | TBC                      |
+| Undertale                         | TBC                      |
+| Valley                            | **Done**                 |
+| Max Payne 2                       | TBC                      |
+| C&C: Red Alert 2 Campaign         | **Done** on Hard         |
+| C&C: RA2 Yuri's Revenge Campaign  | **Done** on Hard         |
+| C&C: Red Alert 3 Campaign         | **Done** on Easy         |
+| C&C: RA3 Uprising                 | **Done** on Easy         |
+| NFS: The Run                      | **Done**                 |
+
+<p style="text-align: right; margin-top: -20px"><small><em>as of March 26, 2022</em></small></p>
+
+## Links
+
+- Join our **[Discord Community](https://discord.gg/rKnJb4J)**
+- Gaming **[YouTube Channel](https://www.youtube.com/channel/UCzhXnO1cPiTos6UD5yWf0vw)**
+- **[Facebook Gaming](https://facebook.com/RedDavidGG/community)**
+- Tip via **[StreamElements](https://streamelements.com/reddavidgg/tip)**
+
+<br>

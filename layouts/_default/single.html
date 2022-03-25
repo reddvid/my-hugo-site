@@ -38,6 +38,10 @@ Enable the right sidebar if
 {{ partial "article/components/gcash" . }}
 {{ end }}
 
+{{ if .Params.gaming }}
+{{ partial "article/components/gaming" . }}
+{{ end }}
+
 {{ partial "article/components/related-contents" . }}
 
 {{ if not (eq .Params.comments false) }}

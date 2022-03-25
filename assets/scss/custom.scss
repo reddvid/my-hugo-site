@@ -5,7 +5,8 @@ body {
 
 p > * > a,
 p > a,
-li > a.link {
+li > a.link,
+strong > a {
   text-decoration: none;
   color: rgb(216, 43, 43) !important;
 }
@@ -22,6 +23,7 @@ div.notsoschmol > article > a {
 
 ol#main-menu {
   row-gap: 1.2rem;
+  overflow: hidden;
 }
 
 header.article-category > a {
@@ -53,4 +55,12 @@ pre {
   font-family: "Courier New", Courier, monospace !important;
   font-size: 1.6rem !important;
   line-height: 1.6rem !important;
+}
+
+*::-webkit-scrollbar,
+*::-webkit-scrollbar-thumb {
+  width: 28px;
+  border-radius: 14px;
+  background-clip: padding-box;
+  border: 10px solid transparent;
 }
