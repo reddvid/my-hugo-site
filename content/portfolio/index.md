@@ -77,4 +77,4 @@ I use Figma for quick graphics, Adobe Photoshop and Illustrator for a more profe
 
 ## Gamer, small-time streamer
 
-On 2020, the new-normal sparks the growth of new streamers. Catch me on Facebook Gaming as <a class="link" href="https://fb.gg/RedDavidGG">**Red David**</a>
+On 2020, the new-normal sparks the growth of new streamers. Check my<a class="link" href="/gaming">**Gaming**</a> section for updates.
