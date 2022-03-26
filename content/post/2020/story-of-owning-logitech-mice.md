@@ -5,7 +5,7 @@ draft: false
 author: "David"
 slug: story-of-owning-logitech-mice
 tags: ["Setup", "Electronics", "Logitech", "Logitech Mice"]
-categories: ["Stories", "Technology", "Gaming"]
+categories: ["Stories", "Tech", "Gaming"]
 featuredimage: "/images/07-20/logi-hero.png"
 comments: true
 ogimage: "/images/og/lgs.png"

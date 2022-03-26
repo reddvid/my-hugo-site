@@ -6,7 +6,7 @@ author: "David"
 slug: g304-review
 
 tags: ["Setup", "Logitech", "Gaming"]
-categories: ["Stories", "Reviews"]
+categories: ["Stories", "Tech", "Gaming"]
 featuredimage: "/images/feat/g304.jpg"
 comments: true
 ogimage: "/images/og/logi-g304.png"

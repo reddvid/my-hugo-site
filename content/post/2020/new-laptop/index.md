@@ -5,7 +5,7 @@ draft: false
 author: "David"
 slug: new-laptop
 tags: ["Setup", "Acer", "Acer Laptop", "Development"]
-categories: ["Technology"]
+categories: ["Tech"]
 featuredimage: "/images/feat/acer-laptop.jpg"
 comments: true
 ogimage: "/images/og/new-laptop.png"

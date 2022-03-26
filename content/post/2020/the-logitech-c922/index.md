@@ -5,7 +5,7 @@ draft: false
 author: "David"
 slug: the-logitech-c922
 tags: ["Logitech", "C922", "Setup", "Logitech C922", "Webcam", "Streaming"]
-categories: ["Technology"]
+categories: ["Tech"]
 featuredimage: "/images/feat/logitech-c922.jpg"
 comments: true
 ogimage: "/images/og/logi-c922.png"

@@ -16,7 +16,7 @@ tags:
     "Android",
     "iOS",
   ]
-categories: ["Gaming", "App Development"]
+categories: ["Gaming", "Coding", "Apps"]
 featuredimage: "/images/og/ti10-appdates.png"
 comments: true
 ogimage: "/images/og/ti10-appdates.png"

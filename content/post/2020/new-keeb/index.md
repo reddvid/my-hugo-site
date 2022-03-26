@@ -6,7 +6,7 @@ author: "David"
 slug: new-keeb
 
 tags: ["Tecware", "Setup", "Mechanical Keyboard", "Keyboard", "Coding"]
-categories: ["Technology"]
+categories: ["Tech"]
 featuredimage: "/images/feat/tecware.jpg"
 comments: true
 ogimage: "/images/og/tecware-kb.png"

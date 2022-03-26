@@ -1,6 +1,7 @@
 ---
 title: Gaming
 hidetitle: true
+description: "Check what are my currently playing, stream, games list, peripherals, and gaming links"
 comments: false
 ogimage: gaming-og.png
 menu:
@@ -37,6 +38,14 @@ menu:
 </style>
 
 <h1 style="text-align: center;">Gaming</h1>
+
+## Currently Playing
+
+- Dying Light: The Following
+
+- Hollow Knight (Godhome Ending)
+
+- Valorant (Less than what I have to)
 
 ## Streaming
 
@@ -159,6 +168,16 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | NFS: The Run                      | **Done**                 |
 
 <p style="text-align: right; margin-top: -20px"><small><em>as of March 26, 2022</em></small></p>
+
+## Peripherals
+
+- [Logitech G304 Wireless](https://www.logitechg.com/en-ph/products/gaming-mice/g304-lightspeed-wireless-gaming-mouse.html)
+- [Tecware Phantom Elite TKL](https://www.tecware.co/phantomelite)
+- [Logitech C922](https://www.logitech.com/en-ph/products/webcams/c922-pro-stream-webcam.960-001090.html)
+- [ATH-M50x](https://www.audio-technica.com/en-us/ath-m50x)/[Razer Hammerhead V2 Pro](https://www2.razer.com/ap-en/gaming-audio/razer-hammerhead-pro-v2)
+- [Samson Q9U](http://www.samsontech.com/samson/products/microphones/dynamic-microphones/q9u/)
+- [Elgato Stream Deck MK.2](https://www.elgato.com/en/stream-deck-mk2)
+- [Elgato HD60 S+](https://www.elgato.com/en/game-capture-hd60-s-plus)
 
 ## Links
 

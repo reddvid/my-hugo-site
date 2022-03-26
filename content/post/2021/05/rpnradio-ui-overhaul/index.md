@@ -5,7 +5,7 @@ draft: false
 author: "David"
 slug: rpnradio-ui-overhaul
 tags: ["Apps", "RPN", "Apps", "Software Development", "Application Development"]
-categories: ["Coding", "App Development"]
+categories: ["Coding"]
 featuredimage: "/images/feat/rpnradio-ui.jpeg"
 comments: true
 ogimage: "/images/og/rpnradio-newui-og.png"

@@ -5,7 +5,7 @@ draft: false
 author: "David"
 
 tags: ["Samsung", "SSD", "Samsung 970 EVO Plus"]
-categories: ["Technology"]
+categories: ["Tech"]
 featuredimage: "/images/feat/970-evo-plus.webp"
 comments: true
 ogimage: "/images/og/samsung-970evo.png"

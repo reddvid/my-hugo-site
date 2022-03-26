@@ -5,7 +5,7 @@ draft: false
 author: "David"
 slug: my-top-windows-and-mobile-apps
 tags: ["Apps", "Windows", "iPhone", "Mobile Apps", "Top 10", "Apps List"]
-categories: ["Apps", "Software"]
+categories: ["Tech"]
 featuredimage: "/images/og/apps.png"
 comments: true
 ogimage: "/images/og/apps.png"

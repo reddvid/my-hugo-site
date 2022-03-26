@@ -4,8 +4,8 @@ date: 2020-01-02T03:02:48+08:00
 draft: false
 author: "David"
 
-tags: ["App Development", "RPN", "RPN News", "Android", "Xamarin Forms"]
-categories: ["Coding", "App Development"]
+tags: ["Coding", "RPN", "RPN News", "Android", "Xamarin Forms"]
+categories: ["Coding"]
 featuredimage: "/images/rpn-android.png"
 comments: true
 ogimage: "/images/og/rpnradio-news-android.png"
