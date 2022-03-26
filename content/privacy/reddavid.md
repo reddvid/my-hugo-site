@@ -58,5 +58,6 @@ comments: false
 <p>If required by law, we will get your permission or give you the opportunity to opt in to or opt out of, as applicable, any new uses of your personal information. </p>
 <h3>Contact Us</h3>
 <p>For any questions or concerns regarding your privacy, you may contact us using the following details: </p>
-<p>David Jessof Ico Ballesteros<br />
-reddavidapps@outlook.com </p>
+<p>David Ballesteros</p>
+
+[reddavidapps@outlook.com](mailto://reddavidapps@outlook.com)
