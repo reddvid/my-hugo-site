@@ -5,7 +5,15 @@
 <meta name='description' content='{{ $description }}'>
 
 {{- $title := partialCached "data/title" . .RelPermalink -}}
+{{ if eq $title "David Ballesteros" }}
 <title>{{ $title }}</title>
+{{ else if in .RelPermalink "/categories/" }}
+<title>{{ $title }}</title>
+{{ else if in .RelPermalink "/tags/" }}
+<title>{{ $title }}</title>
+{{ else }}
+<title>{{ $title }} - David Ballesteros</title>
+{{ end }}
 
 <link rel='canonical' href='{{ .Permalink }}'>
 

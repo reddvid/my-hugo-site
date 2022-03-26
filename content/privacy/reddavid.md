@@ -1,8 +1,8 @@
 ---
 title: "Privacy Policy for Red David Website"
 date: 2020-02-23T13:10:38+08:00
+slug: "privacy-policy-website"
 draft: false
-hidden: true
 comments: false
 ---
 
