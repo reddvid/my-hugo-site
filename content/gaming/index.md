@@ -42,9 +42,8 @@ menu:
 ## Currently Playing
 
 - Dying Light: The Following
-
 - Hollow Knight (Godhome Ending)
-
+- Minecraft Bedrock
 - Valorant (Less than what I have to)
 
 ## Streaming
