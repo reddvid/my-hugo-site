@@ -37,6 +37,6 @@ I lived and grew up until 21 in a small town in Pangasinan and moved to Metro Ma
 
 I can speak Filipino (Tagalog) and English (spoken: 8, written: 9). I can also speak in my local language Pangasinan.
 
-I graduated and licensed as Electronics Engineer on 2013.
+I graduated and passed the Electronics Engineering board exams on 2013.
 
 <a href="/2022-03_Ballesteros-David.pdf" class="dl-btn">Download résumé</a>
