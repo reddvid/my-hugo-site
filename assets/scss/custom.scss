@@ -1,6 +1,7 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
 * {
-  font-family: "Geomanist", sans-serif !important;
+  font-family: "Neue Haas Grotesk Text Pro", sans-serif;
+  // font-family: "Geomanist", sans-serif !important;
 }
 
 p > * > a,
@@ -55,4 +56,18 @@ pre {
   font-family: "Courier New", Courier, monospace !important;
   font-size: 1.6rem !important;
   line-height: 1.6rem !important;
+}
+
+a.dl-btn {
+  background-color: var(--accent-color);
+  padding: 8px 32px;
+  border-radius: var(--tag-border-radius);
+  display: inline-block;
+  font-size: 1.4rem;
+  font-weight: 700;
+  transition: background-color 0.5s ease;
+
+  &:hover {
+    background-color: var(--accent-color-darker);
+  }
 }

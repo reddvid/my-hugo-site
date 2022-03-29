@@ -7,7 +7,7 @@ faeturedimage: "/images/about-hero.jpg"
 aliases:
   - about-us
   - contact
-description: "About David 'Red' Ballesteros' life, biography and career history"
+description: "About David Ballesteros' life, biography and career history"
 comments: false
 menu:
   main:
@@ -21,22 +21,22 @@ menu:
 
 Hi! I am David. I am an electronics engineer and an app developer.
 
-I currently work as IT admin at CNN Philippines (seconded by Radio Philippines Network).
+I currently work as an IT admin at CNN Philippines (seconded by Radio Philippines Network).
 
-During days off, I develop desktop and mobile applications using XAML/C# and Flutter/Dart stacks, respectively. I also know a little bit of bare HTML/CSS/JS.
+On off days, I develop desktop and mobile applications using XAML/C# and Flutter/Dart stacks, respectively. I also know a little bit of bare HTML/CSS/JS.
 
 ## Background
 
 I started coding in college for our project study, RFID Gate System. We used Forms and VB.Net for the software and C++ for the Arduino controller. I then got into Windows Phone App development and learned C#, XAML, and Git. The first apps I developed were mostly for personal-use until I registered and submitted one to the Windows Phone Store.
 
-Then I started coding apps which helped me simplify the jobs I do - from monitoring and reporting data and statistics to automating web interactions. What started as a hobby became a small source of income. I have more than a dozen apps available right now in the Windows 10 Store.
-
-And right now, I am learning web development and looking forward to get a Microsoft Certification.
+Then I developed apps that helped me simplify daily tasks, from monitoring, reporting statistical data, to automating web interactions. What started as a hobby became a small source of income.
 
 ## Bio
 
-Lived until 21 in a small town in Pangasinan.
+I lived and grew up until 21 in a small town in Pangasinan and moved to Metro Manila to venture for a living.
 
-I can speak Filipino (Tagalog), and English (spoken: 8, written: 9). I can also speak in my local dialect, Pangasinan.
+I can speak Filipino (Tagalog) and English (spoken: 8, written: 9). I can also speak in my local language Pangasinan.
 
 I graduated and licensed as Electronics Engineer on 2013.
+
+<a href="/2022-03_Ballesteros-David.pdf" class="dl-btn">Download résumé</a>
