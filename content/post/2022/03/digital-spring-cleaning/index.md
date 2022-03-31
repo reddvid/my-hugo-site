@@ -1,6 +1,6 @@
 ---
 title: "Digital Spring Cleaning"
-description:
+description: "Organizing files and folders"
 date: 2022-03-29T01:53:46+08:00
 featuredimage: "spring-cleaning.png"
 ogimage: "spring-cleaning.png"

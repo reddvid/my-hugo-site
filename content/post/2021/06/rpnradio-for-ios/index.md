@@ -3,7 +3,7 @@ title: "Get RPN Radio for iOS"
 date: 2021-06-12T00:50:15+08:00
 draft: false
 author: "David"
-
+description: "Get the free app for your iPhone"
 tags: ["Apps", "Software Development", "RPN Radio", "iOS", "iPhone", "Apple"]
 categories: ["Coding"]
 featuredimage: "/images/og/rpnradio-appstore.png"

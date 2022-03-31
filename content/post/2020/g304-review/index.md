@@ -4,7 +4,7 @@ date: 2020-07-06T23:42:58+08:00
 draft: false
 author: "David"
 slug: g304-review
-
+description: "Reviewing my first wireless mouse ever"
 tags: ["Setup", "Logitech", "Gaming"]
 categories: ["Stories", "Tech", "Gaming"]
 featuredimage: "/images/feat/g304.jpg"

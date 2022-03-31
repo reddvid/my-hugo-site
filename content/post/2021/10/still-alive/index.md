@@ -2,6 +2,7 @@
 title: "Some Updates (Yes, I am Still Alive)"
 date: 2021-10-05T23:13:11+08:00
 draft: false
+description: "I'm back! Giving you a few life updates"
 author: "David"
 slug: still-alive
 tags: ["Books", "Gaming", "Self-development", "Vacation"]

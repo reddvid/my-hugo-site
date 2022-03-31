@@ -3,7 +3,7 @@ title: "App Landing Page for ZIP Code PH"
 date: 2021-03-19T02:21:44+08:00
 draft: false
 author: "David"
-
+description: "Simple webpage for ZIP Code PH app download"
 tags: ["Apps", "ZIP Code PH", "Website", "App Landing Page", "Web Design"]
 categories: ["Coding"]
 featuredimage: "/images/feat/zipcodeph-applanding.png"

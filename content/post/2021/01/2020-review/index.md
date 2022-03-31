@@ -3,12 +3,10 @@ title: "2020 Review"
 date: 2021-01-06T13:27:12+08:00
 draft: false
 author: "David"
-
+description: "What happened in this godly year"
 tags: ["Review", "2020"]
 categories: ["Stories"]
 featuredimage: "/images/feat/bye-2020.jpg"
-
-lightgallery: true
 comments: true
 ogimage: "/images/og/goodbye-2020.png"
 ---

@@ -3,7 +3,7 @@ title: "Your Phone Tray V2"
 date: 2020-07-08T21:18:31+08:00
 draft: false
 author: "David"
-
+description: "Check what's new with Your Phone Tray for Windows 10"
 tags: ["App Development", "Windows 10", "UWP", "Fluent Design"]
 categories: ["Coding"]
 featuredimage: "/images/feat/your-phone.jpg"

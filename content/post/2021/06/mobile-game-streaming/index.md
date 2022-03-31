@@ -3,7 +3,7 @@ title: "Mobile Game Streaming"
 date: 2021-06-12T04:26:59+08:00
 draft: false
 author: "David"
-
+description: "Playing mobile games and streaming it online"
 tags: ["Call of Duty", "Mobile Gaming", "Setup", "Streaming", "Facebook Gaming"]
 categories: ["Gaming", "Tech"]
 featuredimage: "/images/feat/codm-fbgg-streaming.png"

@@ -3,7 +3,7 @@ title: "Unlocked: 1K Followers"
 date: 2021-05-29T22:26:48+08:00
 draft: false
 author: "David"
-
+description: "Achievement getting 1,000 followers on Facebook Gaming page"
 tags:
   ["Minecraft", "Facebook", "Facebook Gaming", "Twitch", "YouTube", "Streaming"]
 categories: ["Gaming"]

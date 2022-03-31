@@ -3,7 +3,7 @@ title: "RPN Android App"
 date: 2020-01-02T03:02:48+08:00
 draft: false
 author: "David"
-
+description: "Let me introduce you to my latest developed Android app"
 tags: ["Coding", "RPN", "RPN News", "Android", "Xamarin Forms"]
 categories: ["Coding"]
 featuredimage: "/images/rpn-android.png"

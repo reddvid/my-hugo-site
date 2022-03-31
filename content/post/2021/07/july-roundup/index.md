@@ -2,6 +2,7 @@
 title: "Good JuJu: Roundup"
 date: 2021-07-29T00:02:17+08:00
 draft: false
+description: "Haven't blogged in a while so here's what happend in June and July"
 author: "David"
 slug: july-roundup
 tags:

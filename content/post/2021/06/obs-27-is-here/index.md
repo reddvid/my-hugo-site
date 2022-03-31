@@ -3,7 +3,7 @@ title: "OBS Studio 27 is here"
 date: 2021-06-08T03:15:06+08:00
 draft: false
 author: "David"
-
+description: "OBS Studio releases version 27.0"
 tags: ["OBS", "OBS Studio", "Streaming"]
 categories: ["Apps"]
 featuredimage: "/images/feat/obs27.png"

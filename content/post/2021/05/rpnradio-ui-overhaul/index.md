@@ -2,6 +2,7 @@
 title: "RPN Radio UI Overhaul"
 date: 2021-05-30T00:15:36+08:00
 draft: false
+description: "Updating the looks of RPN Radio mobile app"
 author: "David"
 slug: rpnradio-ui-overhaul
 tags: ["Apps", "RPN", "Apps", "Software Development", "Application Development"]

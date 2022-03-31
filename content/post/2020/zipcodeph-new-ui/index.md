@@ -2,6 +2,7 @@
 title: "ZIP Code PH Gets Refreshed UI"
 date: 2020-08-16T22:02:34+08:00
 draft: false
+description: "Adding Fluent design to my Windows 10 app"
 author: "David"
 slug: zipcodeph-new-ui
 tags: ["App Development", "Windows 10", "Fluent Design", "UWP"]

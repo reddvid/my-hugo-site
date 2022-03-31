@@ -3,6 +3,7 @@ title: "ZIP Code PH for Android gets Dark Mode"
 date: 2021-02-05T23:17:22+08:00
 draft: false
 author: "David"
+description: "Dark mode is now available for ZIP Code PH"
 slug: zipcodeph-android-dark-mode
 tags: ["Apps", "Development", "Software", "Android"]
 categories: ["Coding"]

@@ -2,6 +2,7 @@
 title: "[Update: NOW AVAILABLE] ZIP Code PH for iOS"
 date: 2021-03-16T01:28:15+08:00
 draft: false
+description: "Download ZIP Code PH now for iOS"
 author: "David"
 slug: zipcodeph-ios
 tags: ["iOS", "Coding", "SwiftUI", "Apple"]

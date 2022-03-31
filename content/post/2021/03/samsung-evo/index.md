@@ -3,7 +3,7 @@ title: "Upgrade! Samsung 970 EVO Plus"
 date: 2021-03-16T01:09:00+08:00
 draft: false
 author: "David"
-
+description: "Got more fast storage with Samsung 970 EVO+"
 tags: ["Samsung", "SSD", "Samsung 970 EVO Plus"]
 categories: ["Tech"]
 featuredimage: "/images/feat/970-evo-plus.webp"

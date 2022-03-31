@@ -4,7 +4,7 @@ date: 2020-08-17T19:56:25+08:00
 draft: false
 author: "David"
 slug: new-keeb
-
+description: "Short review of my new Tecware mechanical keyboard"
 tags: ["Tecware", "Setup", "Mechanical Keyboard", "Keyboard", "Coding"]
 categories: ["Tech"]
 featuredimage: "/images/feat/tecware.jpg"

@@ -3,6 +3,7 @@ title: "Tune In RPN Radio Update"
 date: 2021-02-16T20:30:09+08:00
 draft: false
 author: "David"
+description: "Basic webpage for streaming audio from RPN stations"
 slug: tunein-update
 tags: ["Apps", "Website", "RPN", "RPN Radio", "Android", "Webapp"]
 categories: ["Coding"]

@@ -3,6 +3,7 @@ title: "My Top Apps for Windows and iPhone"
 date: 2021-11-02T00:45:35+08:00
 draft: false
 author: "David"
+description: "Top lists of my most-used and must-have Windows and iPhone apps"
 slug: my-top-windows-and-mobile-apps
 tags: ["Apps", "Windows", "iPhone", "Mobile Apps", "Top 10", "Apps List"]
 categories: ["Tech"]

@@ -2,6 +2,7 @@
 title: "Flutter Coding"
 date: 2021-03-15T22:06:53+08:00
 draft: false
+description: "Learning Flutter and Dart for cross-platform mobile apps"
 author: "David"
 slug: flutter-coding
 tags: ["Flutter", "Google", "Android Studio", "Android", "Dev"]

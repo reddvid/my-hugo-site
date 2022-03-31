@@ -4,7 +4,7 @@ date: 2021-10-15T03:53:07+08:00
 draft: false
 slug: ti10-and-appdates
 author: "David"
-
+description: "Watching DOTA 2 and coding at the same time"
 tags:
   [
     "Apps",

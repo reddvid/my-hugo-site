@@ -3,6 +3,7 @@ title: "Finally! Logitech C922"
 date: 2020-10-01T23:17:51+08:00
 draft: false
 author: "David"
+description: "Reviewing the top-rated streaming/online meeting webcam"
 slug: the-logitech-c922
 tags: ["Logitech", "C922", "Setup", "Logitech C922", "Webcam", "Streaming"]
 categories: ["Tech"]

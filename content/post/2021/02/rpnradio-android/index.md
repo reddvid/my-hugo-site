@@ -2,6 +2,7 @@
 title: "RPN Radio: Streaming App for Android"
 date: 2021-02-03T01:25:58+08:00
 draft: false
+description: "Introducing RPN Radio mobile app for Android"
 author: "David"
 slug: rpnradio-android
 tags: ["Apps", "Android", "App development"]

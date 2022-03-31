@@ -3,6 +3,7 @@ title: "(Update: Now Available on 3 Major App Stores) RPN News Mobile App"
 date: 2021-12-04T03:22:25+08:00
 draft: false
 author: "David"
+description: "RPN Radio is now on major app Stores: Apple App Store, Google Play Store, and Huawei AppGallery"
 slug: rpnnews-mobile-app
 tags: ["RPN", "RPN News", "mobile apps", "apps", "Android", "iPhone", "Huawei"]
 categories: ["Apps", "Coding"]

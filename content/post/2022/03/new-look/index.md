@@ -1,7 +1,7 @@
 ---
 title: "Looking New in 2022"
-description:
 date: 2022-03-16T02:43:53+08:00
+description: "New Hugo theme for my website"
 featuredimage: "2022-update-og.png"
 ogimage: "2022-update-og.png"
 slug: new-in-2022

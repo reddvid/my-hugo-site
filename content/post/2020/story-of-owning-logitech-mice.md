@@ -3,6 +3,7 @@ title: "Story of my Logitech Mice"
 date: 2020-07-01
 draft: false
 author: "David"
+description: "I have been a fan of Logitech mice for daily office work and gaming"
 slug: story-of-owning-logitech-mice
 tags: ["Setup", "Electronics", "Logitech", "Logitech Mice"]
 categories: ["Stories", "Tech", "Gaming"]

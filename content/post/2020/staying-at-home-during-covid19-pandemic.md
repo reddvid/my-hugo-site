@@ -3,7 +3,7 @@ title: "Staying at Home During the COVID-19 Pandemic"
 date: 2020-03-19T01:28:20+08:00
 draft: false
 author: "David"
-
+description: "Stay safe!"
 tags: ["Covid-19", "WFH"]
 categories: ["Stories"]
 featuredimage: "/images/at-home.jpg"

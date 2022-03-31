@@ -3,7 +3,7 @@ title: "Going Twitch"
 date: 2021-07-16T01:29:12+08:00
 draft: true
 author: "David"
-
+description: "Migrating to Twitch for better streams"
 tags: ["Apps"]
 categories: ["Stories"]
 featuredimage: "/images/feat/image.jpg"

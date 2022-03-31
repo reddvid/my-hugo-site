@@ -1,6 +1,6 @@
 ---
 title: "A Poem From the Past"
-description:
+description: "Remembering someone with a poem"
 date: 2022-03-25T00:49:09+08:00
 featuredimage: "hug-someone.png"
 ogimage: "hug-someone-og.png"

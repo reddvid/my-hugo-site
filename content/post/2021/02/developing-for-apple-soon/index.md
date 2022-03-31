@@ -3,7 +3,7 @@ title: "Developing for Apple Soon"
 date: 2021-02-06T00:40:14+08:00
 draft: false
 author: "David"
-
+description: "App Developing for iOS"
 tags: ["Apps", "Software development", "Apple", "iOS"]
 categories: ["Coding"]
 featuredimage: "/images/feat/appstore.png"

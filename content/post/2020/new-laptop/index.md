@@ -3,6 +3,7 @@ title: "I Got Myself a New Laptop"
 date: 2020-02-18T16:30:40+08:00
 draft: false
 author: "David"
+description: "A short review of my new Acer laptop for coding, gaming, and content-creation"
 slug: new-laptop
 tags: ["Setup", "Acer", "Acer Laptop", "Development"]
 categories: ["Tech"]

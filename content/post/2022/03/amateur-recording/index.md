@@ -1,6 +1,6 @@
 ---
 title: "Amateur Recording"
-description:
+description: "Basic home setup for audio recording"
 date: 2022-03-22T01:32:24+08:00
 featuredimage: "amateur-recording-og.png"
 ogimage: "amateur-recording-og.png"

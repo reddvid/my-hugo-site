@@ -1,7 +1,7 @@
 ---
 title: "Updating RPN Radio Mobile App"
 slug: "updating-rpnradio-mobile-app"
-description:
+description: Version 2.0 coming soon
 date: 2022-03-31T00:44:04+08:00
 featuredimage: "rpnradio-updates-feat.png"
 ogimage: "rpnradio-updates-og.png"
@@ -21,6 +21,18 @@ tags:
   ]
 categories: ["Apps", "Coding"]
 ---
+
+## Update 1
+
+<small>2022-03-31</small>
+
+I just refactored the FutureBuilder by separating the future tasks to where they are actually used in the UI - to prevent long startup and show the main UI at launch instead of a loading screen.
+
+Version 2.0.1 is now on open testing for Android on Google Play Store.
+
+Download link: [RPN Radio for Android (Beta)](https://play.google.com/store/apps/details?id=com.rpnradio.radiov1&hl=en&gl=US)
+
+<hr>
 
 It's been a while since I coded and updated my apps, it just somehow began again when I felt the urge to refresh my website's looks. Now I am aiming to light up every Github contribution grid block whenever I can.
 

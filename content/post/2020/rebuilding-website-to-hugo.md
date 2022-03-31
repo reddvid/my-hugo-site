@@ -3,7 +3,7 @@ title: "Rebuilding Website with Hugo"
 date: 2020-02-23T21:43:46+08:00
 draft: false
 author: "David"
-
+description: "Announcement! My website is now built with Hugo"
 tags: ["Web Development", "Hugo", "Website", "GitHub Pages"]
 categories: ["Coding", "Stories"]
 featuredimage: "/images/hugo.png"
