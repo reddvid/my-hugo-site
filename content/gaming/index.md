@@ -58,6 +58,13 @@ I pop-up on Twitch from time-to-time to stream. I still have no schedule.
 </iframe>
 </div>
 
+## Latest Highlight Video
+
+**Warning**: Lots of curses in most of the highlight vids. 😅
+
+<div class="vcontainer">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iGzGALaDQsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  class="iframe-resp" allowfullscreen></iframe>
+</div>
 <!-- <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
 <div id="vcontainer"></div>
 <script type="text/javascript">
