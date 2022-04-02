@@ -1,5 +1,5 @@
 ---
-title: "Elgato Stream Deck"
+title: "Elgato Stream Deck MK.2 (Must Have Tech)"
 description: I recently got the Elgato Stream Deck MK.2
 slug: "elgato-streamdeck"
 date: 2022-04-03T02:14:42+08:00
@@ -57,6 +57,18 @@ Here are some of the icons in action (Stream Deck mockup).
 The icons are available in my Github repo: [mnml-strmdck-icns](https://github.com/reddvid/mnml-strmdck-icns)
 
 I will soon share the Figma file.
+
+### Tools and Resources
+
+Big thanks for the free & open tools and resources I used:
+
+- Figma (and it's Community)
+- PowerToys
+- Wikimedia Commons
+- SVG Export Chrome Extension
+- Character Map UWP
+- Bootstrap Icons
+- Coffee
 
 ## Tips and Tricks
 

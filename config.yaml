@@ -50,7 +50,7 @@ params:
 
   sidebar:
     emoji: 👋
-    subtitle: IT Guy | App Dev | Gamer
+    subtitle: IT Guy | App Developer
     avatar:
       enabled: true
       local: false
