@@ -3,8 +3,8 @@ title: "Elgato Stream Deck"
 description: I recently got the Elgato Stream Deck MK.2
 slug: "elgato-streamdeck"
 date: 2022-04-03T02:14:42+08:00
-featuredimage: "/images/feat/"
-ogimage: "/images/og/"
+featuredimage: "streamdeck-og.png"
+ogimage: "streamdeck-og.png"
 hidden: false
 comments: true
 draft: false
