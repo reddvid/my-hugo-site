@@ -44,7 +44,7 @@ Then most are already outdated and forced some to major versions with<code>flutt
 
 Also, I tried to use Android Studio for Flutter programming and it took a little while again to get used to keyboard shortcuts coming from VS Code.
 
-Like the usual <code>Alt + Shift + F</code> to format code, now I have to use two hands for <code>Ctrl + Shift + L</code>. Also the shortcut for navigating to implementations <code>F12</code> on VS Code, it’s now <code>Ctrl + Alt + B</code>. Heck, I can’t be bothered wasting time to remap those shortcut keys...
+Like the usual <code>Alt + Shift + F</code> to format code, now I have to use two hands for <code>Ctrl + Shift + L</code>. Also the shortcut for navigating to implementations <code>F12</code> on VS Code, it's now <code>Ctrl + Alt + B</code>. Heck, I can't be bothered wasting time to remap those shortcut keys...
 
 Despite the hassle above, Flutter coding in Android Studio also has awesome perks like: better debugging, better error checking by highlighting files with errors, faster navigation to files, assets manager and Intellisense. Though Android SDK management is still a pain in the a\*\*. Change my mind.
 
@@ -53,11 +53,11 @@ Despite the hassle above, Flutter coding in Android Studio also has awesome perk
 My project files were all over the place, so I finally bothered to refactor some files to proper folders like putting model classes to a <code>model</code> folder, services to <code>services</code> folder, etc.
 {{< figure src="img/refactoring-files.png" caption="Refactoring files to folders"  >}}
 
-Upgrading packages with at least 3 versions above since the app’s last update brought so much changes. Honestly I followed this open source project **([Flutter Audio Service Demo](https://github.com/suragch/flutter_audio_service_demo))** from GitHub and slightly modified/refactor the codes to minimize and actually use the code my app will only use.
+Upgrading packages with at least 3 versions above since the app's last update brought so much changes. Honestly I followed this open source project **([Flutter Audio Service Demo](https://github.com/suragch/flutter_audio_service_demo))** from GitHub and slightly modified/refactor the codes to minimize and actually use the code my app will only use.
 
 ### Futures
 
-I also updated the app with a new feature to fetch sponsors’ ad placement images from a URL then view them when they are actually _present_ in the contract - I used [JSON](https://www.json.org/json-en.html) to fetch the data. I faced a problem decoding it when I faced this unfamiliar type <code>Map<String, dynamic></code> coming from a C# perspective.
+I also updated the app with a new feature to fetch sponsors' ad placement images from a URL then view them when they are actually _present_ in the contract - I used [JSON](https://www.json.org/json-en.html) to fetch the data. I faced a problem decoding it when I faced this unfamiliar type <code>Map<String, dynamic></code> coming from a C# perspective.
 
 I managed to get it to work but a new issue appeared, two tasks are being awaited even the UI is now visible which made two variables <code>null</code> when they are still being done, making some unwanted behaviors.
 
@@ -79,9 +79,9 @@ return FutureBuilder(
 
 ### ExpansionList and Swiper
 
-Now I need to add a feature for the app to show a carousel/auto-scrolling of images after being checked if it’s on the database - now it’s based off a .json file.
+Now I need to add a feature for the app to show a carousel/auto-scrolling of images after being checked if it's on the database - now it's based off a .json file.
 
-As stated above, I don’t know if Flutter/Dart preferred indexing a <code>List</code> by using a <code>Map</code> and not a number-index. So I poorly crammed the codes online to fetch the json, decode to objects, index, and list the image names.
+As stated above, I don't know if Flutter/Dart preferred indexing a <code>List</code> by using a <code>Map</code> and not a number-index. So I poorly crammed the codes online to fetch the json, decode to objects, index, and list the image names.
 
 ```dart
 Future<Map<String, dynamic>> getImages() async {
@@ -103,7 +103,7 @@ Sponsors View using ExpansionTile and Swiper
 
 I used <code>ExpansionTile</code> to allow the users to collapse/expand the view and <code>Swiper</code> to show an auto-scroll of the images.
 
-Here’s the code for the Sponsors UI:
+Here's the code for the Sponsors UI:
 
 ```dart
 ExpansionTile(
@@ -142,7 +142,7 @@ ExpansionTile(
 
 ## To-Do
 
-It’s hard work but I would look to further clean and optimize the code.
+It's hard work but I would look to further clean and optimize the code.
 
 - Do not use Swiper when image list is only 1
 - Improve loading screen during FutureBuilder

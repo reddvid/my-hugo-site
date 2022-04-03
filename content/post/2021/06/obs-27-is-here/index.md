@@ -23,13 +23,13 @@ I will talk about the new features and improvements here that will be useful for
 
 ## Undo & Redo
 
-At last! No more annoyances when you just ACCIDENTALLY move something on the canvas. Undo and redo is here for every change you do in your sources and scenes - not sure for all filters though. And that’s 5000 actions.
+At last! No more annoyances when you just ACCIDENTALLY move something on the canvas. Undo and redo is here for every change you do in your sources and scenes - not sure for all filters though. And that's 5000 actions.
 
 Though I mostly use OBS for game streaming (no facecam), I move things around only to notice that it was not the source I wanted to move! This surely helps users out and always had been the most requested feature.
 
 ## Files, where?
 
-Version 27 also added a missing files window prompt on launch that allows us to relocate or ignore the missing files. Nice addition so we don’t go start streaming only to have the files missing.
+Version 27 also added a missing files window prompt on launch that allows us to relocate or ignore the missing files. Nice addition so we don't go start streaming only to have the files missing.
 
 {{< figure src="/images/06-21/obs/obs_missing_files_warning.png" caption="Missing Files Warning Window" width="80%" >}}
 
@@ -55,4 +55,4 @@ This new version of OBS Studio definitely helps with the new added features. Now
 
 I use OBS Studio together with <a class="link" href="https://streamelements.com/" target="_blank">StreamElements</a> OBS Live to simplify my stream setup to Facebook Gaming. I now have 1,019 followers (as of this writing) and why not check me out there? Maybe talk about gaming, life, or programming? <a class="link" href="https://fb.gg/RedDavidGG/" target="_blank">RedDavidGG on Facebook Gaming</a>
 
-I dedicate the starwall page for my stars-sender. Thanks and make sure to check out OBS Studio’s latest release <a class="link" href="https://obsproject.com/" target="_blank">here.</a>
+I dedicate the starwall page for my stars-sender. Thanks and make sure to check out OBS Studio's latest release <a class="link" href="https://obsproject.com/" target="_blank">here.</a>

@@ -26,9 +26,9 @@ Honestly, I am lazy af to clean things on a regular basis since I really suck at
 
 ## Bit of My Digital History
 
-If you didn’t know, I started my computer life at the early age of 9/10? I just remember I was in grade 5, 1997-ish, when I fell in love with computers. But with the lack of internet, I only grew up into video games and not programming. I just picked up programming during college days when I was actually bought a laptop by my parents.
+If you didn't know, I started my computer life at the early age of 9/10? I just remember I was in grade 5, 1997-ish, when I fell in love with computers. But with the lack of internet, I only grew up into video games and not programming. I just picked up programming during college days when I was actually bought a laptop by my parents.
 
-We tackled a bunch of languages even being an Electronics Engineering student, like C++, Turbo C, and Java. But I didn’t felt good about those languages until our thesis days where I got help with a friend, an IT student, using VB.Net. I slightly understood it better than the latter ones. It was also the start of programming in [C#.Net](<[http://C#.Net](https://docs.microsoft.com/en-us/dotnet/csharp/)>) for my Windows Phone to make apps.
+We tackled a bunch of languages even being an Electronics Engineering student, like C++, Turbo C, and Java. But I didn't felt good about those languages until our thesis days where I got help with a friend, an IT student, using VB.Net. I slightly understood it better than the latter ones. It was also the start of programming in [C#.Net](<[http://C#.Net](https://docs.microsoft.com/en-us/dotnet/csharp/)>) for my Windows Phone to make apps.
 
 ## Files
 
@@ -36,7 +36,7 @@ Being into the Windows environment, files did matter and I actually had free 15G
 
 Now with more than 8 years, my cloud is cluttered and having to use extensive apps, software, and services means there are alot more files scattered everywhere.
 
-Now let’s go organizing.
+Now let's go organizing.
 
 ## Organizing
 
@@ -107,7 +107,7 @@ I am subscribed to Microsoft 365 Personal which offers 1TB of cloud storage and 
 
 ## Share Your Way
 
-So that’s about my file naming and folder organization and it is still on-going as of this writing. How do you organize your digital life? Share it on the comments below.
+So that's about my file naming and folder organization and it is still on-going as of this writing. How do you organize your digital life? Share it on the comments below.
 
 <br>
 <small><a class="link" rel="noopener" href='https://pngtree.com/so/cleaning'>cleaning png from pngtree.com/</a></small>

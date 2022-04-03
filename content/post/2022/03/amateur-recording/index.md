@@ -23,7 +23,7 @@ categories: ["Music", "Tech"]
 
 I let go of my [Audio Technica ATR2500X condenser microphone](https://reddavid.me/mobile-game-streaming/#hardware) since recording with it picks up a lot of background noise-making the guitar sound bad when reducing noise on post-edit.
 
-The ATR2500X does record good sound when inside a treated and noise-free room. Here is a sample, though it’s not in a room and background noise is environmental:
+The ATR2500X does record good sound when inside a treated and noise-free room. Here is a sample, though it's not in a room and background noise is environmental:
 
 {{< audio src="chikinini.mp3" caption="Chikinini by Parokya Ni Edgar Cover by John Dre (Inuman Session)" >}}
 
