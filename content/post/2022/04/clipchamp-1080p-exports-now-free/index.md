@@ -7,8 +7,17 @@ ogimage: "clipchamp.png"
 hidden: false
 comments: true
 draft: false
-tags: ["Apps"]
-categories: ["Stories"]
+tags:
+  [
+    "Apps",
+    "Clipchamp",
+    "1080p",
+    "Video Editor",
+    "Microsoft",
+    "Windows",
+    "Content Creation",
+  ]
+categories: ["Apps"]
 ---
 
 In case you missed it, Microsoft acquired a web-based video editing app known as [Clipchamp](clipchamp.com) back in Q4 2021. And after they finally put the app into Windows to become a slightly better editing tool (also on Xbox?), but all it gave to users are disappointment because of features locked behind [overpriced subscription](https://www.windowscentral.com/microsofts-clipchamp-video-editing-tools-are-underbaked).
