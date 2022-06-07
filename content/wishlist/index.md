@@ -10,8 +10,8 @@ wishlist:
     link: https://shope.ee/4UwjZet9Tk
   - title: Apple AirPods Pro
     link: https://shope.ee/AnkQSTzA8
-  - title: Razer Hammerhead True Wireless Pro
-    link: https://shope.ee/7zWbnDXzk0
+  - title: Apple MagSafe Charger
+    link: https://shope.ee/9K2pz4SG9I
   - title: Steam Games
     link: https://store.steampowered.com/wishlist/id/reddvid/#sort=order
 
