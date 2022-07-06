@@ -39,12 +39,14 @@ menu:
 
 <h1 style="text-align: center;">Gaming</h1>
 
-## Currently Playing
+## Currently Playing and Game Bucket List
 
-- Dying Light: The Following
-- Hollow Knight (Godhome Ending)
-- Minecraft Bedrock
-- Valorant (Less than what I have to)
+- Ori and the Blind Forest: Definitive Edition [(On-going YouTube playlist)](https://www.youtube.com/watch?v=4Bdl2vMRHZk&list=PLwC47NQhSu5wJlvkMyWrVrvbay5Ngk_N9)
+- Emily is Away <3
+- Ori and the Will of the Wisps
+- The Witness
+- Cuphead
+- Pid
 
 ## Streaming
 
@@ -52,7 +54,7 @@ I pop-up on Twitch from time-to-time to stream. I still have no schedule.
 
 <div class="vcontainer">
 <iframe
-    src="https://player.twitch.tv/?channel=reddavidgg&parent=reddavid.me&muted=true"
+    src="https://player.twitch.tv/?channel=reddavidtv&parent=reddavid.me&muted=true"
     class="iframe-resp"
     allowfullscreen>
 </iframe>
@@ -63,7 +65,7 @@ I pop-up on Twitch from time-to-time to stream. I still have no schedule.
 **Warning**: Lots of curses in most of the highlight vids. 😅
 
 <div class="vcontainer">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iGzGALaDQsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  class="iframe-resp" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4Bdl2vMRHZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  class="iframe-resp" allowfullscreen></iframe>
 </div>
 <!-- <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
 <div id="vcontainer"></div>
@@ -144,7 +146,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | NFS: Carbon                       | TBC                      |
 | NFS: Most Wanted Black Edition    | **Done**                 |
 | NFS: Underground 2                | **Done**                 |
-| Ori and the Blind Forest          | Soon                     |
+| Ori and the Blind Forest          | **Done**                 |
 | Ori and the Will of the Wisps     | Soon                     |
 | Portal                            | **Done**                 |
 | Portal 2                          | **Done**                 |
@@ -174,7 +176,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | C&C: RA3 Uprising                 | **Done** on Easy         |
 | NFS: The Run                      | **Done**                 |
 
-<p style="text-align: right; margin-top: -20px"><small><em>as of March 26, 2022</em></small></p>
+<p style="text-align: right; margin-top: -20px"><small><em>as of July 05, 2022</em></small></p>
 
 ## Peripherals
 

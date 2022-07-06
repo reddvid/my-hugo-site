@@ -217,7 +217,7 @@ menu:
 
     - identifier: twitch
       name: Twitch
-      url: https://twitch.tv/aka1red
+      url: https://twitch.tv/reddavidtv
       params:
         icon: brand-twitch
 

@@ -4,20 +4,69 @@
   // font-family: "Geomanist", sans-serif !important;
 }
 
-p > * > a,
-p > a,
-li > a.link,
-strong > a {
-  text-decoration: none;
-  color: rgb(216, 43, 43) !important;
+[data-scheme="dark"] {
+
+  p>*>a,
+  p>a,
+  li>a.link,
+  strong>a {
+    text-decoration: none;
+    color: #F9D2D2 !important;
+  }
+
+  div.schmol>article>a {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  a.dl-btn {
+    background-color: var(--accent-color);
+    padding: 8px 32px;
+    border-radius: var(--tag-border-radius);
+    display: inline-block;
+    color: #990606 !important;
+    font-size: 1.4rem;
+    font-weight: 700;
+    transition: background-color 0.5s ease;
+
+    &:hover {
+      background-color: var(--accent-color-darker);
+    }
+  }
 }
 
-div.schmol > article > a {
-  padding-top: 0;
-  padding-bottom: 0;
+[data-scheme="light"] {
+
+  p>*>a,
+  p>a,
+  li>a.link,
+  strong>a {
+    text-decoration: none;
+    color: #990606 !important;
+  }
+
+  div.schmol>article>a {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  a.dl-btn {
+    background-color: var(--accent-color);
+    padding: 8px 32px;
+    border-radius: var(--tag-border-radius);
+    display: inline-block;
+    font-size: 1.4rem;
+    font-weight: 700;
+    transition: background-color 0.5s ease;
+    color: #F9D2D2 !important;
+
+    &:hover {
+      background-color: var(--accent-color-darker);
+    }
+  }
 }
 
-div.notsoschmol > article > a {
+div.notsoschmol>article>a {
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -27,7 +76,7 @@ ol#main-menu {
   overflow: hidden;
 }
 
-header.article-category > a {
+header.article-category>a {
   font-size: 1.2rem;
   padding: 0.6rem 0.8rem;
 }
@@ -36,18 +85,18 @@ nav#TableOfContents {
   font-size: 1.4rem;
 }
 
-header.article-header > hr {
+header.article-header>hr {
   opacity: 0.55 !important;
   background-color: rgba(255, 255, 255, 0.5) !important;
 }
 
-figcaption > p,
+figcaption>p,
 figcaption {
   margin-top: 0px !important;
   font-size: 1.2rem;
 }
 
-footer.article-time > div {
+footer.article-time>div {
   column-gap: 5px;
 }
 
@@ -56,18 +105,4 @@ pre,
 code span {
   font-family: "Courier New", Courier, monospace !important;
   font-size: 1.5rem;
-}
-
-a.dl-btn {
-  background-color: var(--accent-color);
-  padding: 8px 32px;
-  border-radius: var(--tag-border-radius);
-  display: inline-block;
-  font-size: 1.4rem;
-  font-weight: 700;
-  transition: background-color 0.5s ease;
-
-  &:hover {
-    background-color: var(--accent-color-darker);
-  }
 }
