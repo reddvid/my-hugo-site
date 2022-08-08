@@ -39,34 +39,28 @@ menu:
 
 <h1 style="text-align: center;">Gaming</h1>
 
-## Currently Playing and Game Bucket List
+## Currently Playing
 
-- Ori and the Blind Forest: Definitive Edition [(On-going YouTube playlist)](https://www.youtube.com/watch?v=4Bdl2vMRHZk&list=PLwC47NQhSu5wJlvkMyWrVrvbay5Ngk_N9)
-- Emily is Away <3
-- Ori and the Will of the Wisps
-- The Witness
-- Cuphead
-- Pid
+- Bioshock Infinite (To Complete)
+- Kena: Bridge of Spirits (To Complete)
+- Death's Door
+- Far Cry 6 (To Replay)
 
 ## Streaming
 
-I pop-up on Twitch from time-to-time to stream. I still have no schedule.
+I pop-up on <strike>Twitch</strike> Facebook from time-to-time to stream. I still have no schedule.
 
-<div class="vcontainer">
-<iframe
-    src="https://player.twitch.tv/?channel=reddavidtv&parent=reddavid.me&muted=true"
-    class="iframe-resp"
-    allowfullscreen>
-</iframe>
-</div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=1923295877819117&autoLogAppEvents=1" nonce="3RBbTOjV"></script>
 
-## Latest Highlight Video
+<center>
+<div class="fb-video" data-href="https://www.facebook.com/RedDavidGG/live" data-width="800" data-show-text="false"></div></center>
 
-**Warning**: Lots of curses in most of the highlight vids. 😅
+## YouTube Playlists
 
-<div class="vcontainer">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4Bdl2vMRHZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  class="iframe-resp" allowfullscreen></iframe>
-</div>
+- [Kena: Bridge of Spirits](https://www.youtube.com/playlist?list=PLwC47NQhSu5z7WwAGX3coYPzR3y_UIKsc)
+- [The Witness](https://www.youtube.com/playlist?list=PLwC47NQhSu5zgk32JZbPRF9sgSY7i6sdN)
+- [Ori and the Blind Forest](https://www.youtube.com/playlist?list=PLwC47NQhSu5wJlvkMyWrVrvbay5Ngk_N9)
 <!-- <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
 <div id="vcontainer"></div>
 <script type="text/javascript">
@@ -92,7 +86,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Battlefield 4                     | **Done**                 |
 | BioShock                          | **Done**                 |
 | BioShock 2                        | TBC                      |
-| Bioshock Infinite                 | TBC                      |
+| Bioshock Infinite                 | TBC/On-going             |
 | Blackmesa                         | **Done**                 |
 | Braid                             | **Done**                 |
 | Brothers - A Tale of Two Sons     | **Done**                 |
@@ -108,6 +102,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Dishonored                        | **Done**                 |
 | Dishonored 2                      | TBC                      |
 | DOOM 2016                         | **Done**                 |
+| DOOM Eternal                      | TBC                      |
 | Evoland 1/2                       | **Done**                 |
 | Far Cry 3                         | **Done**                 |
 | Far Cry 4                         | **Done**                 |
@@ -133,7 +128,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Homefront: The Revolution         | Soon                     |
 | Horizon Zero Dawn                 | Soon                     |
 | Journey                           | **Done**                 |
-| Kena Bridge of Spirits            | TBC                      |
+| Kena Bridge of Spirits            | **Done**                 |
 | LIMBO                             | **Done**                 |
 | Machinarium                       | **Done**                 |
 | Mad Max                           | TBC                      |
@@ -165,7 +160,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | The Sexy Brutale                  | **Done**                 |
 | The Walking Dead (Season 1?)      | **Done**                 |
 | The Witcher 3: Wild Hunt + 2 DLCs | **Done**                 |
-| The Witness                       | TBC                      |
+| The Witness                       | **Done**                 |
 | Turnip Boy                        | **Done**                 |
 | Undertale                         | TBC                      |
 | Valley                            | **Done**                 |
@@ -176,7 +171,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | C&C: RA3 Uprising                 | **Done** on Easy         |
 | NFS: The Run                      | **Done**                 |
 
-<p style="text-align: right; margin-top: -20px"><small><em>as of July 05, 2022</em></small></p>
+<p style="text-align: right; margin-top: -20px"><small><em>as of August 9, 2022</em></small></p>
 
 ## Peripherals
 
