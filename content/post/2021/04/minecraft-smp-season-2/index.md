@@ -44,7 +44,7 @@ Head over to our Discord server for the rules and guidelines, and for the Server
 
 I have been aiming to reach followers before the year 2020 ends but I failed to do so, much more that I stopped streaming for more than a month.
 
-Now with regained confidence, I am on the path to reach that goal while improving my streaming. So head over to my [Facebook Gaming Page](https://fb.gg/RedDavidGG) and see if you like me to gain a Follow!
+Now with regained confidence, I am on the path to reach that goal while improving my streaming. So head over to my [Facebook Gaming Page](https://fb.gg/RedDavidGaming) and see if you like me to gain a Follow!
 
 ## Facebook Stars ✨🌟⭐
 

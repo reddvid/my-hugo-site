@@ -117,7 +117,7 @@ There are a couple of issues for me, the first one really makes me annoyed is th
 
 ## Great Overall
 
-Overall, I am happy with the C922 webcam - my loved ones can see me clearly during video calls. And I thank everybody for supporting me on my <a class="link" href="https://fb.gg/RedDavidGG/" target="_blank">stream</a>, visiting my website, and checking my Windows 10 apps.
+Overall, I am happy with the C922 webcam - my loved ones can see me clearly during video calls. And I thank everybody for supporting me on my <a class="link" href="https://fb.gg/RedDavidGaming/" target="_blank">stream</a>, visiting my website, and checking my Windows 10 apps.
 
 {{< figure src="/images/10-20/c922/c922_logicapture.png" caption="Logitech C922 Monitor-Mounted with Logitech Capture" alt="Logitech C922 Monitor-Mounted with Logitech Capture" width="60%" >}}
 

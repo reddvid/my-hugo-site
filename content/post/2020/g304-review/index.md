@@ -44,7 +44,7 @@ The power switch is located below the mouse with a red and blue color indicator 
 
 ### Grip
 
-The mouse shape fits perfectly in my hands and I can switch to the wired G Pro when I play some competitive games - not that this can't do the job. But I often stick to this, G304, every time I stream my games (shameless plug - https://fb.gg/RedDavidGG/)
+The mouse shape fits perfectly in my hands and I can switch to the wired G Pro when I play some competitive games - not that this can't do the job. But I often stick to this, G304, every time I stream my games (shameless plug - https://fb.gg/RedDavidGaming/)
 
 {{< figure src="/images/07-20/g304/hand-top.jpg" width="50%" caption="Top view grip" alt="G304 top grip" >}}
 {{< figure src="/images/07-20/g304/hand-side.jpg" width="50%" caption="Side view of grip" alt="G304 side grip" >}}

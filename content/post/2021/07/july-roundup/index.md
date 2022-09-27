@@ -41,7 +41,7 @@ I got the thingy not just to stream games but for future use - like recording "H
 
 Speaking of streaming, I started streaming on Twitch! Right now, I planned on playing Minecraft, Left 4 Dead 2, and Call of Duty: Mobile. Also, I will try to stream on MWFS schedule playing those games or variety. <a class="link" href="https://twitch.tv/aka1red" target="_blank">Give me a follow</a> and get notified when I go live.
 
-I will be using my <a class="link" href="https://fb.gg/RedDavidGG" target="_blank">Facebook Page</a> and <a class="link" href="https://discord.gg/rKnJb4J" target="_blank">Discord server</a> to post updates.
+I will be using my <a class="link" href="https://fb.gg/RedDavidGaming" target="_blank">Facebook Page</a> and <a class="link" href="https://discord.gg/rKnJb4J" target="_blank">Discord server</a> to post updates.
 
 ### Stream Setup (Mobile Gaming)
 

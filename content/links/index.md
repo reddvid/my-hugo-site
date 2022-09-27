@@ -20,7 +20,7 @@ links:
     image: img/youtube.png
   - title: Facebook Gaming
     description: Where I mostly stream video games
-    website: https://facebook.com/RedDavidGG
+    website: https://facebook.com/RedDavidGaming
     image: img/facebook-gaming.jpg
   - title: Facebook Stars Sender Wall
     description: Dedicated Page for the awesome people donating stars on my livestreams

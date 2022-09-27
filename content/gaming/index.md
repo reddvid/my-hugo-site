@@ -41,10 +41,7 @@ menu:
 
 ## Currently Playing
 
-- Bioshock Infinite (To Complete)
-- Kena: Bridge of Spirits (To Complete)
-- Death's Door
-- Far Cry 6 (To Replay)
+- Assassin's Creed Odyssey
 
 ## Streaming
 
@@ -54,7 +51,7 @@ I pop-up on <strike>Twitch</strike> Facebook from time-to-time to stream. I stil
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=1923295877819117&autoLogAppEvents=1" nonce="3RBbTOjV"></script>
 
 <center>
-<div class="fb-video" data-href="https://www.facebook.com/RedDavidGG/live" data-width="800" data-show-text="false"></div></center>
+<div class="fb-video" data-href="https://www.facebook.com/RedDavidGaming/live" data-width="800" data-show-text="false"></div></center>
 
 ## YouTube Playlists
 
@@ -67,7 +64,7 @@ I pop-up on <strike>Twitch</strike> Facebook from time-to-time to stream. I stil
   var options = {
     width: 1280,
     height: 720,
-    channel: "reddavidgg",
+    channel: "RedDavidGaming",
     // only needed if your site is also embedded on embed.example.com and othersite.example.com
     parent: ["localhost", "reddavid.me"]
   };
@@ -82,11 +79,13 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Game Title                        | Completion Status        |
 | --------------------------------- | ------------------------ |
 | AER Memories of Old               | **Done**                 |
+| Assassin's Creed Origins          | **Done** on Hard         |
+| Assassin's Creed Odyssey          | Soon                     |
 | Battlefield 3                     | **Done**                 |
 | Battlefield 4                     | **Done**                 |
 | BioShock                          | **Done**                 |
 | BioShock 2                        | TBC                      |
-| Bioshock Infinite                 | TBC/On-going             |
+| Bioshock Infinite                 | **Done** on Hard         |
 | Blackmesa                         | **Done**                 |
 | Braid                             | **Done**                 |
 | Brothers - A Tale of Two Sons     | **Done**                 |
@@ -187,7 +186,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 - Join our **[Discord Community](https://discord.gg/rKnJb4J)**
 - Gaming **[YouTube Channel](https://www.youtube.com/channel/UCzhXnO1cPiTos6UD5yWf0vw)**
-- **[Facebook Gaming](https://facebook.com/RedDavidGG/community)**
-- Tip via **[StreamElements](https://streamelements.com/reddavidgg/tip)**
+- **[Facebook Gaming](https://facebook.com/RedDavidGaming/community)**
+- Tip via **[StreamElements](https://streamelements.com/RedDavidGaming/tip)**
 
 <br>

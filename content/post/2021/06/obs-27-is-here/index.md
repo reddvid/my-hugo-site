@@ -53,6 +53,6 @@ Thanks for these 2 new improvements among others:
 
 This new version of OBS Studio definitely helps with the new added features. Now I want a selective record feature.
 
-I use OBS Studio together with <a class="link" href="https://streamelements.com/" target="_blank">StreamElements</a> OBS Live to simplify my stream setup to Facebook Gaming. I now have 1,019 followers (as of this writing) and why not check me out there? Maybe talk about gaming, life, or programming? <a class="link" href="https://fb.gg/RedDavidGG/" target="_blank">RedDavidGG on Facebook Gaming</a>
+I use OBS Studio together with <a class="link" href="https://streamelements.com/" target="_blank">StreamElements</a> OBS Live to simplify my stream setup to Facebook Gaming. I now have 1,019 followers (as of this writing) and why not check me out there? Maybe talk about gaming, life, or programming? <a class="link" href="https://fb.gg/RedDavidGaming/" target="_blank">RedDavidGaming on Facebook Gaming</a>
 
 I dedicate the starwall page for my stars-sender. Thanks and make sure to check out OBS Studio's latest release <a class="link" href="https://obsproject.com/" target="_blank">here.</a>

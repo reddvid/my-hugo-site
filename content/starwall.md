@@ -30,4 +30,4 @@ ogimage: "/images/og/starwall.png"
 <br>
 <h6>Updated 14-Dec-2021</h6>
 
-<p style="margin-top: 50px;">Follow me on <a class="link" href="https://fb.gg/RedDavidGG/" target="_blank">Facebook Gaming</a> to watch gameplay and send stars to be a part of the Star Senders Wall.</p>
+<p style="margin-top: 50px;">Follow me on <a class="link" href="https://fb.gg/RedDavidGaming/" target="_blank">Facebook Gaming</a> to watch gameplay and send stars to be a part of the Star Senders Wall.</p>

@@ -73,4 +73,4 @@ As for the company's mobile apps - updates are still pending. I am hoping for a 
 
 Lastly, on my very very free time, I can get to play and record playing the guitar and upload to my <a class="link" href="https://youtube.com/RedDavid" target="blank_">YouTube</a> channel. Feel free to like or dislike. 🤣 I also compensate some time to stream on <a class="link" href="https://twitch.tv/aka1red" target="blank_">Twitch</a> for a few hours.
 
-I hope these are enough to keep you updated. I will also post some tech buys I did to give myself back for the hard-work I believe I do. Hit me up in <a class="link" href="https://twitter.com/reddvid" target="blank_">Twitter</a> or <a class="link" href="https://facebook.com/reddavidgg" target="blank_">Facebook</a> on how your last two months went!
+I hope these are enough to keep you updated. I will also post some tech buys I did to give myself back for the hard-work I believe I do. Hit me up in <a class="link" href="https://twitter.com/reddvid" target="blank_">Twitter</a> or <a class="link" href="https://facebook.com/RedDavidGaming" target="blank_">Facebook</a> on how your last two months went!

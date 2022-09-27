@@ -73,10 +73,10 @@ I have a few mobile games on my phone right now compared to my [Steam Library](h
 
 I have a love and hate relationship with games like PUBG Mobile and Mobile Legends. I am looking forward to Apex Legends: Mobile and Diablo Immortal though. They're both are already in beta preview on Android, currently waiting for the iPhone/iPad version.
 
-[Send me a message](https://m.me/reddavidgg) to request a game I can play, or we can play together.
+[Send me a message](https://m.me/RedDavidGaming) to request a game I can play, or we can play together.
 
 ## Support me on Facebook Gaming
 
 This seems repetitive, but I do need some support when I go live. It feels like streaming and talking to friends is now an everyday duty, haha. But kidding aside, everyone needs help.
 
-Check me [here](https://fb.gg/reddavidgg), and let's talk more about tech and things.
+Check me [here](https://fb.gg/RedDavidGaming), and let's talk more about tech and things.

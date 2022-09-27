@@ -85,7 +85,7 @@ Right now, I am thinking of upgrading to nVMe, to a higher 2.5" SSD and 32GB RAM
 
 ## Other notes
 
-Catch me play a game on this device in <a class="link" href="https://facebook.com/RedDavidGG">Facebook Gaming</a>.
+Catch me play a game on this device in <a class="link" href="https://facebook.com/RedDavidGaming">Facebook Gaming</a>.
 Support my tech lust by <a class="link" href="https://buymeacoffee.com/reddavid">buying me a coffee</a> or <a class="link" href="https://paypal.me/reddvid">send a tip for my next upgrade</a>
 
 **Thank you**

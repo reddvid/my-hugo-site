@@ -36,4 +36,4 @@ While YouTube had a better chat system, but chat highlights and audience interac
 
 I held back these thoughts before since I did start my Facebook page a long time and gained a few followers. I just hoped if I made up my mind to switch, we can determine the real supporters. Maybe?
 
-That's it for this blog post. Thank you again for visiting my website and you can catch up on my Gaming Videos on [Facebook Gaming](https://fb.gg/RedDavidGG) and follower me there. You can also follow me on my socials: @reddvid
+That's it for this blog post. Thank you again for visiting my website and you can catch up on my Gaming Videos on [Facebook Gaming](https://fb.gg/RedDavidGaming) and follower me there. You can also follow me on my socials: @reddvid
