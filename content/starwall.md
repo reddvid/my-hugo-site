@@ -5,8 +5,8 @@ date: 2021-02-12T21:59:46.000+08:00
 description: Wall of my Facebook Stars Senders
 comments: true
 ogimage: "/images/og/starwall.png"
-
 ---
+
 <img src="/images/stars.png" style="border-radius: 200px; margin-left: auto; margin-right: auto; width: 20%; display: block; margin-top: 2em; "/>
 <h1 style="text-align: center; margin-bottom: 2em; margin-top: 5px; ">Stars Senders Wall</h1>
 
