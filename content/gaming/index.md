@@ -44,16 +44,15 @@ margin-bottom: -6px;
 ## Currently Playing
 
 - Nothing specific (variety)
-- Maybe replay Witcher 3 Next-gen Update? idk
-- Assassin's Creed Odyssey (postponed)
+- Some Xbox PC Game pass games
+
+## Streaming
+
+I pop-up on Twitch <strike>Facebook</strike> from time-to-time to stream. I still have no schedule.
 
 ## Wall of Star-senders
 
 Thanks to all Facebook star-senders! Glorified here: [Starwall](https://reddavid.me/starwall "Starwall")
-
-## Streaming
-
-I pop-up on <strike>Twitch</strike> Facebook from time-to-time to stream. I still have no schedule.
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=1923295877819117&autoLogAppEvents=1" nonce="3RBbTOjV"></script>
@@ -89,7 +88,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 - Dead Space 1, 2, 3
 - Doom Eternal
-- Ori and the Will of the Wisps
+- <strike>Ori and the Will of the Wisps</strike>
 - Assassin's Creed: Odyssey (to continue & finish)
 - Assassin's Creed: Valhalla
 - Horizon: Zero Dawn
@@ -105,7 +104,8 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | --------------------------------- | ------------------------ |
 | AER Memories of Old               | Done                     |
 | Assassin's Creed Origins          | Done on Hard             |
-| Assassin's Creed Odyssey          | Soon                     |
+| Assassin's Creed Odyssey          | TBC                      |
+| Assassin's Creed Valhalla         | Soon                     |
 | Battlefield 3                     | Done                     |
 | Battlefield 4                     | Done                     |
 | BioShock                          | Done                     |
@@ -130,18 +130,18 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Evoland 1/2                       | Done                     |
 | Far Cry 3                         | Done                     |
 | Far Cry 4                         | Done                     |
-| Far Cry 5                         | Done                     |
-| Far Cry 6                         | Done                     |
-| Far Cry New Dawn                  | Done                     |
 | Far Cry Primal                    | Done                     |
+| Far Cry 5                         | Done                     |
+| Far Cry New Dawn                  | Done                     |
+| Far Cry 6                         | Done                     |
 | Ghost Recon: Breakpoint           | TBC                      |
 | Ghost Recon: Wildlands            | Done                     |
 | GRIS                              | Done                     |
-| GTA 3                             | Soon                     |
-| GTA 4                             | Soon                     |
-| GTA San Andreas                   | TBC                      |
-| GTA V                             | Done main story          |
 | GTA Vice City                     | Soon                     |
+| GTA San Andreas                   | TBC                      |
+| GTA III                           | Soon                     |
+| GTA IV                            | Soon                     |
+| GTA V                             | Done main story          |
 | Half-Life                         | Done                     |
 | Half-Life 2                       | Done                     |
 | Hellblade: Senua's Sacrifice      | Soon                     |
@@ -159,14 +159,16 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Mafia 2                           | Done                     |
 | Medal of Honor                    | Done                     |
 | Metro 2033                        | Done                     |
-| Metro Exodus                      | Done                     |
 | Metro Last Light                  | Done                     |
+| Metro Exodus                      | Done                     |
 | Mirror's Edge                     | TBC                      |
 | NFS: Carbon                       | TBC                      |
 | NFS: Most Wanted Black Edition    | Done                     |
+| NFS: Heat                         | TBC                      |
+| NFS: The Run                      | Done                     |
 | NFS: Underground 2                | Done                     |
 | Ori and the Blind Forest          | Done                     |
-| Ori and the Will of the Wisps     | Soon                     |
+| Ori and the Will of the Wisps     | Done                     |
 | Portal                            | Done                     |
 | Portal 2                          | Done                     |
 | Prototype                         | Done                     |
@@ -177,12 +179,13 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Red Dead Redemption 2             | Soon                     |
 | Sleeping Dogs                     | Done                     |
 | Slime Rancher                     | Done - story             |
+| Slime Rancher 2                   | TBC                      |
 | Spec Ops: The Line                | Done                     |
 | The Darkness 2                    | Done                     |
 | The Dream Machine                 | TBC                      |
 | The Outer Worlds                  | TBC                      |
 | The Sexy Brutale                  | Done                     |
-| The Walking Dead (Season 1?)      | Done                     |
+| The Walking Dead (Season 1)       | Done                     |
 | The Witcher 3: Wild Hunt + 2 DLCs | Done                     |
 | The Witness                       | Done                     |
 | Turnip Boy                        | Done                     |
@@ -193,7 +196,6 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | C&C: RA2 Yuri's Revenge Campaign  | Done on Hard             |
 | C&C: Red Alert 3 Campaign         | Done on Easy             |
 | C&C: RA3 Uprising                 | Done on Easy             |
-| NFS: The Run                      | Done                     |
 
 <p style="text-align: right; margin-top: -20px"><small><em>as of August 9, 2022</em></small></p>
 
