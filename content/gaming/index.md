@@ -45,6 +45,8 @@ margin-bottom: -6px;
 
 - Nothing specific (variety)
 - Some Xbox PC Game pass games
+  - Tunic
+- Far Cry 6 (New Game+)
 
 ## Streaming
 
@@ -201,21 +203,52 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 </details>
 
+## PC Specs
+
+- CPU: Ryzen 7 5700X
+- Motherboard: MSI B550M PRO-VDH WIFI
+- Cooler: Silverstone PF240-ARGB
+- RAM: G.Skill Trident Z Neo RGB 2x8GB 3600MHz
+- SSD (Boot): Samsung 970 Evo Plus 1TB
+- SSD (Games 😁): Samsung 970 Evo Plus 500GB
+- Storage: Seagate Barracuda 2TB
+- GPU: Gigabyte RTX 2060 6GB
+- Case: Silverstone Fara R1 V2 Midtower
+- PSU: Huntkey MVP K650
+- UPS: APC Easy UPS 650VA
+
 ## Peripherals
 
-- [Logitech G304 Wireless](https://www.logitechg.com/en-ph/products/gaming-mice/g304-lightspeed-wireless-gaming-mouse.html)
-- [Tecware Phantom Elite TKL](https://www.tecware.co/phantomelite)
-- [Logitech C922](https://www.logitech.com/en-ph/products/webcams/c922-pro-stream-webcam.960-001090.html)
-- [ATH-M50x](https://www.audio-technica.com/en-us/ath-m50x)/[Razer Hammerhead V2 Pro](https://www2.razer.com/ap-en/gaming-audio/razer-hammerhead-pro-v2)
-- [Samson Q9U](http://www.samsontech.com/samson/products/microphones/dynamic-microphones/q9u/)
-- [Elgato Stream Deck MK.2](https://www.elgato.com/en/stream-deck-mk2)
-- [Elgato HD60 S+](https://www.elgato.com/en/game-capture-hd60-s-plus)
+- Samsung Odyssey G3 27" 1080p 144Hz
+- AOC AOC 23" 1080p 60Hz
+- Royal Kludge K68
+- Logitech G304 Wireless
+- Steelseries QCK XL
+- Logitech C922
+- JBL Go 3
+- Audio-Technica ATH-M30X
+- Razer Hammerhead V2 Pro
+- Samson Q9U
+- Elgato Stream Deck MK.2
+- Elgato HD60 S+
+- 2 Xbox Wireless Controller (got a wife now)
 
 ## Links
 
+### Profiles
+
+- [**Steam**](https://steamcommunity.com/id/reddvid/): 91135388
+- Xbox: reddvid
+- Valorant/RIOT: RedDavid#0666
+- Ubisoft Connect: RedDavidGG
+- Epic Games: RedDavidGG
+
+### Channels
+
 - Join our [**Discord Community**](https://discord.gg/rKnJb4J)
-- Gaming [**YouTube Channel**](https://www.youtube.com/channel/UCzhXnO1cPiTos6UD5yWf0vw)
-- [**Facebook Gaming**](https://facebook.com/RedDavidGaming/community)
+- [**Twitch**](https://twitch.tv/reddavidgg/)
+- Gaming [**YouTube Channel**](https://www.youtube.com/@RedDavidGG)
+- [**Facebook Gaming**](https://facebook.com/RedDavidGG/community)
 - Tip via [**StreamElements**](https://streamelements.com/RedDavidGaming/tip)
 
 <br>
