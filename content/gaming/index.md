@@ -223,7 +223,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 - AOC AOC 23" 1080p 60Hz
 - Royal Kludge K68
 - Logitech G304 Wireless
-- Steelseries QCK XL
+- Steelseries QCK+
 - Logitech C922
 - JBL Go 3
 - Audio-Technica ATH-M30X

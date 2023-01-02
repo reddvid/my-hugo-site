@@ -1,6 +1,15 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('/Mona-Sans.woff2') format('woff2 supports variations'),
+    url('/Mona-Sans.woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+
 * {
-  font-family: "Neue Haas Grotesk Text Pro", sans-serif;
+  font-family: "Mona Sans", sans-serif;
   // font-family: "Geomanist", sans-serif !important;
 }
 
@@ -105,4 +114,8 @@ pre,
 code span {
   font-family: "Courier New", Courier, monospace !important;
   font-size: 1.5rem;
+}
+
+aside.right-sidebar {
+  max-width: 120px;
 }

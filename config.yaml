@@ -1,6 +1,6 @@
 baseurl: https://reddavid.me
 languageCode: en-us
-theme: hugo-theme-stack-master
+theme: hugo-theme-stack-3.16.0
 paginate: 7
 title: Red David Blog
 
@@ -50,7 +50,7 @@ params:
 
   sidebar:
     emoji: 👋
-    subtitle: IT Guy | App Developer
+    subtitle: IT Admin • App Developer • Small-time Streamer
     avatar:
       enabled: true
       local: false
@@ -215,11 +215,17 @@ menu:
       params:
         icon: brand-linkedin
 
-    - identifier: facebook
-      name: Facebook
-      url: https://fb.gg/reddavidgaming
+    - identifier: twitch
+      name: Twitch
+      url: https://twitch.tv/reddavidgg
       params:
-        icon: brand-facebook
+        icon: brand-twitch
+
+    - identifier: youtube
+      name: YouTube
+      url: https://youtube.com/@reddavidtv
+      params:
+        icon: brand-youtube
 
 related:
   includeNewer: true

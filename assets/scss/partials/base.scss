@@ -1,6 +1,8 @@
 html {
   font-size: 62.5%;
-  overflow-y: scroll;
+  overflow-y: scroll;  
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 * {
@@ -9,7 +11,7 @@ html {
 
 body {
   background: var(--body-background);
-  margin: 0;
+
   font-family: var(--base-font-family);
   font-size: 1.6rem;
   -webkit-font-smoothing: antialiased;
