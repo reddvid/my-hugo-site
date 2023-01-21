@@ -98,10 +98,10 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
   --article-font-size: 1.6rem;
 
   @include respond(md) {
-    --article-font-size: 1.7rem;
+    --article-font-size: 1.5rem; // was 1.7
   }
 
-  --article-line-height: 1.85;
+  --article-line-height: 1.5; // was 1.85
 }
 
 /*

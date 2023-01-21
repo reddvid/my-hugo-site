@@ -2,51 +2,52 @@
 title: Gaming
 hidetitle: true
 description:
-  Check what are my currently playing, stream, games list, peripherals,
+  Check what are my currently playing, stream, games list, peripherals, 
   and gaming links
 comments: false
 ogimage: gaming-og.png
 menu:
   main:
+
     weight: -60
     params:
       icon: mouse
+
 ---
 
 <style>
 .vcontainer {
-position: relative;
-overflow: hidden;
-margin: 0 auto;
-width: 100%;
+position: relative; 
+overflow: hidden; 
+margin: 0 auto; 
+width: 100%; 
 padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
 .iframe-resp {
-position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-width: 100%;
-height: 100%;
+position: absolute; 
+top: 0; 
+left: 0; 
+bottom: 0; 
+right: 0; 
+width: 100%; 
+height: 100%; 
 }
 
 .icon {
-margin-bottom: -6px;
+margin-bottom: -6px; 
 }
 
 </style>
 
-<h1 style="text-align: center;">Gaming</h1>
+<h1 style="text-align: center; ">Gaming</h1>
 
 ## Currently Playing
 
-- Nothing specific (variety)
-- Some Xbox PC Game pass games
-  - Tunic
-- Far Cry 6 (New Game+)
+* Epistory
+* Some Xbox PC Game pass games
+  + Tunic
 
 ## Streaming
 
@@ -64,49 +65,48 @@ Thanks to all Facebook star-senders! Glorified here: [Starwall](https://reddavid
 
 ## YouTube Playlists
 
-- [Kena: Bridge of Spirits](https://www.youtube.com/playlist?list=PLwC47NQhSu5z7WwAGX3coYPzR3y_UIKsc)
-- [The Witness](https://www.youtube.com/playlist?list=PLwC47NQhSu5zgk32JZbPRF9sgSY7i6sdN)
-- [Ori and the Blind Forest](https://www.youtube.com/playlist?list=PLwC47NQhSu5wJlvkMyWrVrvbay5Ngk_N9)
+* [AC Odyssey](https://www.youtube.com/watch?v=QSV6RKyRDE8&list=PLwC47NQhSu5zKkl9bWtIFwBYTpBOhcyIn)
+* [AC Odyssey, Goddess of the Hunt](https://www.youtube.com/watch?v=29me84NpCs0&list=PLwC47NQhSu5y2eLPSxCQlXBmf5Ee9I4uT)
+* [Bioshock Infinite VOD](https://www.youtube.com/watch?v=VAVGG1C4m-U&list=PLwC47NQhSu5xzXkD7sSaBSIURfOSFVX73)
+* [Inside Full Playthrough](https://www.youtube.com/watch?v=ZvoqZadYKeI&list=PLwC47NQhSu5yL8ECQdU9pGSIX3rT5PcuM)
   <!-- <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
   <div id="vcontainer"></div>
   <script type="text/javascript">
   var options = {
-  width: 1280,
-  height: 720,
-  channel: "RedDavidGaming",
+  width: 1280, 
+  height: 720, 
+  channel: "RedDavidGaming", 
   // only needed if your site is also embedded on embed.example.com and othersite.example.com
   parent: \["localhost", "reddavid.me"\]
-  };
-  var player = new Twitch.Player("vcontainer", options);
-  player.setVolume(0.5);
+  }; 
+  var player = new Twitch. Player("vcontainer", options); 
+  player.setVolume(0.5); 
   </script> -->
 
 ## Games List
 
 Excluding my Steam library and other platform games (Epic, GOG), below is a table where I track my finished, on-going, to-be-continued, and soon-to-play games.
 
-<details>
-<summary>Y2023 list</summary>
+### Y2023 List
 
-- Dead Space 1, 2, 3
-- Doom Eternal
-- <strike>Ori and the Will of the Wisps</strike>
-- Assassin's Creed: Odyssey (to continue & finish)
-- Assassin's Creed: Valhalla
-- Horizon: Zero Dawn
-- Red Dead Redemption 2
-- Resident Evil 3 Remake
-- Resident Evil 7, 8
-</details>
+* Dead Space 1, 2, 3
+* Doom Eternal
+* ~~Ori and the Will of the Wisps~~
+* ~~Assassin's Creed: Odyssey (to continue & finish)~~
+* Assassin's Creed: Valhalla
+* Horizon: Zero Dawn
+* Red Dead Redemption 2
+* Resident Evil 3 Remake
+* Resident Evil 7, 8
+* Max Payne 1, 2, 3
 
-<details>
-<summary>Full List</summary>
+<details><summary><strong>Full List</strong></summary>
 
 | Game Title                        | Completion Status        |
 | --------------------------------- | ------------------------ |
 | AER Memories of Old               | Done                     |
-| Assassin's Creed Origins          | Done on Hard             |
-| Assassin's Creed Odyssey          | TBC                      |
+| Assassin's Creed Origins          | Done on Hard Diff        |
+| Assassin's Creed Odyssey          | Done on Hard Diff        |
 | Assassin's Creed Valhalla         | Soon                     |
 | Battlefield 3                     | Done                     |
 | Battlefield 4                     | Done                     |
@@ -205,50 +205,58 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 ## PC Specs
 
-- CPU: Ryzen 7 5700X
-- Motherboard: MSI B550M PRO-VDH WIFI
-- Cooler: Silverstone PF240-ARGB
-- RAM: G.Skill Trident Z Neo RGB 2x8GB 3600MHz
-- SSD (Boot): Samsung 970 Evo Plus 1TB
-- SSD (Games 😁): Samsung 970 Evo Plus 500GB
-- Storage: Seagate Barracuda 2TB
-- GPU: Gigabyte RTX 2060 6GB
-- Case: Silverstone Fara R1 V2 Midtower
-- PSU: Huntkey MVP K650
-- UPS: APC Easy UPS 650VA
+* CPU: AMD Ryzen 7 5700X
+* Motherboard: MSI B550M PRO-VDH Wifi
+* Cooler: Silverstone PF240-ARGB
+* RAM: G. Skill Trident Z Neo RGB 4x8GB 3600MHz
+* SSD (System): Samsung 970 Evo Plus 1TB
+* SSD (Games): Samsung 970 Evo Plus 500GB
+* Storage: Seagate Barracuda 2TB
+* GPU: Gigabyte RTX 2060 6GB
+* Case: Silverstone Fara R1 V2 Midtower
+* PSU: Huntkey MVP K650
+* UPS: APC Easy UPS 650VA
 
 ## Peripherals
 
-- Samsung Odyssey G3 27" 1080p 144Hz
-- AOC AOC 23" 1080p 60Hz
-- Royal Kludge K68
-- Logitech G304 Wireless
-- Steelseries QCK+
-- Logitech C922
-- JBL Go 3
-- Audio-Technica ATH-M30X
-- Razer Hammerhead V2 Pro
-- Samson Q9U
-- Elgato Stream Deck MK.2
-- Elgato HD60 S+
-- 2 Xbox Wireless Controller (got a wife now)
+* Samsung Odyssey G3 27" 1080p 144Hz
+* AOC AOC 23" 1080p 60Hz
+* Royal Kludge K68
+* Logitech G304 Wireless
+* Steelseries QCK+ 
+* Logitech C922
+* JBL Go 3 Bluetooth Speakers
+* Sony SRS-D5 Speakers
+* Audio-Technica ATH-M30X
+* Samson Q9U Dynamic Mic
+* Audio-Technica ATR2500X-USB Condenser Mic
+* Elgato Stream Deck MK.2
+* Elgato HD60 S+
+* 2 Xbox Wireless Controller (got a wife now)
+
+### Laptop (Hiram)
+
+* Acer Nitro AN515-43
+* Tecware Phantom Elite TKL
+* Logitech G Pro Wired Mouse
+* Razer Hammerhead V2 Pro
 
 ## Links
 
 ### Profiles
 
-- [**Steam**](https://steamcommunity.com/id/reddvid/): 91135388
-- Xbox: reddvid
-- Valorant/RIOT: RedDavid#0666
-- Ubisoft Connect: RedDavidGG
-- Epic Games: RedDavidGG
+* [**Steam**](https://steamcommunity.com/id/reddvid/): 91135388
+* Xbox: reddvid
+* Valorant/RIOT: RedDavid#0666
+* Ubisoft Connect: RedDavidGG
+* Epic Games: RedDavidGG
 
 ### Channels
 
-- Join our [**Discord Community**](https://discord.gg/rKnJb4J)
-- [**Twitch**](https://twitch.tv/reddavidgg/)
-- Gaming [**YouTube Channel**](https://www.youtube.com/@RedDavidGG)
-- [**Facebook Gaming**](https://facebook.com/RedDavidGG/community)
-- Tip via [**StreamElements**](https://streamelements.com/RedDavidGaming/tip)
+* Join our [**Discord Community**](https://discord.gg/rKnJb4J)
+* [**Twitch**](https://twitch.tv/reddavidgg/)
+* Gaming [**YouTube Channel**](https://www.youtube.com/@RedDavidGG)
+* [**Facebook Gaming**](https://facebook.com/RedDavidGG/community)
+* Got a spare change to help me upgrade my setup and dev journey? [**Donate via PayPal**](https://paypal.me/reddvid)
 
 <br>
