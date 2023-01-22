@@ -246,7 +246,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 ### Profiles
 
 * [**Steam**](https://steamcommunity.com/id/reddvid/): 91135388
-* Xbox: reddvid
+* Xbox PC: reddvid
 * Valorant/RIOT: RedDavid#0666
 * Ubisoft Connect: RedDavidGG
 * Epic Games: RedDavidGG
