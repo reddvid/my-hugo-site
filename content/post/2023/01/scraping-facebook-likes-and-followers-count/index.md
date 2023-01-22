@@ -120,9 +120,6 @@ public static async Task<string[]> GetFacebookStats(string facebookId)
     string likes;
     string followers;
 
-    // Skip old Batac Facebook ID
-    if (facebookId.Equals("RPNBatac639")) return new string[2] { "-", "-" };
-
     try
     {
         var options = new LaunchOptions()
