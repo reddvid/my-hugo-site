@@ -66,7 +66,7 @@ params:
 
   comments:
     enabled: true
-    provider: disqus
+    provider: giscus
 
     disqusjs:
       shortname:
@@ -122,14 +122,14 @@ params:
       siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
     giscus:
-      repo:
-      repoID:
-      category:
-      categoryID:
-      mapping:
-      lightTheme:
-      darkTheme:
-      reactionsEnabled: 1
+      repo: "reddvid/reddvid.github.io"
+      repoID: "MDEwOlJlcG9zaXRvcnkxNzc0NDEzMDE="
+      category: "General"
+      categoryID: "DIC_kwDOCpOKFc4CT3lg"
+      mapping: "pathname"
+      lightTheme: "light"
+      darkTheme: "dark"
+      reactionsEnabled: 0
       emitMetadata: 0
 
     gitalk:
