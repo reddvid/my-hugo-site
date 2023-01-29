@@ -45,9 +45,11 @@ margin-bottom: -6px;
 
 ## Currently Playing
 
-* Epistory
+* Control (Streaming)
+* Epistory (Off-stream)
 * Some Xbox PC Game pass games
-  + Tunic
+  + ~~Tunic~~
+  + High on Life
 
 ## Streaming
 
@@ -230,6 +232,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 * Audio-Technica ATH-M30X
 * Samson Q9U Dynamic Mic
 * Audio-Technica ATR2500X-USB Condenser Mic
+* Razer Hammerhead TW X
 * Elgato Stream Deck MK.2
 * Elgato HD60 S+
 * 2 Xbox Wireless Controller (got a wife now)
