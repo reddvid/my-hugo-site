@@ -99,9 +99,11 @@ Regex Pattern for Classic Pages:
 and for the New Page Experience:
 
 ```csharp
-@"(\d+\.?\d*[K]|\d+) likes"
-@"(\d+\.?\d*[K]|\d+) followers"
+@"""text"":""(\d+\.?\d*[K]|\d+) likes"
+@"""text"":""(\d+\.?\d*[K]|\d+) followers"
 ```
+
+_Edit: Actually added literal "text" so it avoids inconsistent code and text from page source_
 
 The regex pattern for the NPE was a little bit tricky since it changed how the numbers are shown - instead of the full numerical amount (e.g. 48,321), Facebook shortened it to 48.3K.
 
@@ -150,8 +152,8 @@ public static async Task<string[]> GetFacebookStats(string facebookId)
         }
         else
         {
-            likes = Regex.Match(pageContent, @"(\d+\.?\d*[K]|\d+) likes").Groups[1].Value;
-            followers = Regex.Match(pageContent, @"(\d+\.?\d*[K]|\d+) followers").Groups[1].Value;
+            likes = Regex.Match(pageContent, @"""text"":""(\d+\.?\d*[K]|\d+) likes").Groups[1].Value;
+            followers = Regex.Match(pageContent, @"""text"":""(\d+\.?\d*[K]|\d+) followers").Groups[1].Value;
         }
 
         return new string[2] { likes, followers };
