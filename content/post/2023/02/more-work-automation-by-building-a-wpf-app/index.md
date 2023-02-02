@@ -10,7 +10,6 @@ draft: false
 tags: ["Apps", "WPF", "C#", "Visual Studio", ".NET", "Coding", "MySQL", "Regular Expressions", "Fluent", "Software Development", "Automation", "Workflow"]
 categories: ["Coding", "Software Development"]
 ---
-# More Work Automation by Building a WPF App
 
 As I mentioned in my previous blog post, I do some online broadcasting/content duties which include posting on the website, monitoring and logging 12 stations’ social media and audio servers, and any particular aspect of it.
 
