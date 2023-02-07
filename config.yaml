@@ -223,7 +223,7 @@ menu:
 
     - identifier: youtube
       name: YouTube
-      url: https://youtube.com/@reddavidtv
+      url: https://youtube.com/@reddavid
       params:
         icon: brand-youtube
 

@@ -81,8 +81,9 @@ div.notsoschmol>article>a {
 }
 
 ol#main-menu {
-  row-gap: 1.2rem;
+  row-gap: 1.5rem !important;
   overflow: hidden;
+  min-height: 650px !important;
 }
 
 header.article-category>a {
@@ -118,6 +119,7 @@ code span {
 
 aside.right-sidebar {
   max-width: 120px;
+  margin-bottom: 40px;
 }
 
 .ff {
@@ -138,4 +140,38 @@ a.cardlink {
 
 table.lntable {
   max-height: 500px;
+}
+
+.right-sidebar {
+  gap: 18px;
+}
+
+div.archives-year>a {
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+}
+
+ol#main-menu>li {
+  height: 26px !important;
+}
+
+ol#main-menu>li>a {
+  display: flex;
+  height: 26px !important;
+  align-items: center;
+  flex-direction: row;
+  align-content: center;
+  justify-content: flex-start;
+}
+
+ol#main-menu>li>a>svg {
+  height: 26px !important;
+}
+
+ol#main-menu>li>a>span {
+  margin-top: 4px !important;
+}
+
+li#dark-mode-toggle {
+  margin-bottom: 60px;
 }
