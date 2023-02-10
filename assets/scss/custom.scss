@@ -175,3 +175,27 @@ ol#main-menu>li>a>span {
 li#dark-mode-toggle {
   margin-bottom: 60px;
 }
+
+div.app-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+figure.gallery-image>a>img {
+  height: 360px !important;
+  width: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .article-content .gallery {
+    flex-direction: column;
+    flex-grow: 0;
+  }
+
+  figure.gallery-image {
+    flex-basis: 1px !important;
+    width: 100% !important;
+  }
+}

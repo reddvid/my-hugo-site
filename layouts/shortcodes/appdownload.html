@@ -1,0 +1,26 @@
+{{- $android := default "" (.Get "android_appid") -}}
+{{- $appstore := default "" (.Get "appstore_id") -}}
+{{- $windows := default "" (.Get "windows_appid") -}}
+{{- $appgallery := default "" (.Get "appgallery_id") -}}
+<div class="app-badges">
+  {{- if not (eq $appstore "") -}}
+  <a href="https://apps.apple.com/us/app/{{ $appstore }}" target="_blank">
+    <img class="badge appstore" alt="Download on the App Store" src="/images/badges/appstore.png">
+  </a>
+  {{- end -}}
+  {{- if not (eq $android "") -}}
+  <a href="https://play.google.com/store/apps/details?id={{ $android }}" target="_blank">
+    <img class="badge googleplay" alt="Get it on Google Play" src="/images/badges/google_play.png">
+  </a>
+  {{- end -}}
+  {{- if not (eq $appgallery "") -}}
+  <a href="https://appgallery.huawei.com/app/{{ $appgallery }}" target="_blank">
+    <img class="badge huawei" alt="Explore it on AppGallery" src="/images/badges/appgallery.png">
+  </a>
+  {{- end -}}
+  {{- if not (eq $windows "") -}}
+  <a href="https://apps.microsoft.com/store/detail/{{ $windows }}" target="_blank">
+    <img class="badge msstore" alt="Get it from Microsoft" src="/images/badges/msstore.png">
+  </a>
+  {{- end -}}
+</div>
