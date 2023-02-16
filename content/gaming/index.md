@@ -194,8 +194,9 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 ## Peripherals
 
+* Gigabyte G27F 2 27" 1080p 165Hz
 * Samsung Odyssey G3 27" 1080p 144Hz
-* AOC AOC 23" 1080p 60Hz
+* ~~AOC 23" 1080p 60Hz~~
 * Royal Kludge K68
 * Logitech G304 Wireless
 * Steelseries QCK+ 
