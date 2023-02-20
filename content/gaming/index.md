@@ -1,5 +1,5 @@
 ---
-title: Gaming
+title: "Gaming"
 hidetitle: true
 description:
   Check what are my currently playing, stream, games list, peripherals, 
@@ -9,37 +9,10 @@ ogimage: gaming-og.png
 menu:
   main:
 
-    weight: -60
     params:
       icon: mouse
 
 ---
-
-<style>
-.vcontainer {
-position: relative; 
-overflow: hidden; 
-margin: 0 auto; 
-width: 100%; 
-padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-}
-
-/* Then style the iframe to fit in the container div with full height and width */
-.iframe-resp {
-position: absolute; 
-top: 0; 
-left: 0; 
-bottom: 0; 
-right: 0; 
-width: 100%; 
-height: 100%; 
-}
-
-.icon {
-margin-bottom: -6px; 
-}
-
-</style>
 
 <h1 style="text-align: center; ">Gaming</h1>
 
@@ -221,8 +194,9 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 ## Peripherals
 
+* Gigabyte G27F 2 27" 1080p 165Hz
 * Samsung Odyssey G3 27" 1080p 144Hz
-* AOC AOC 23" 1080p 60Hz
+* ~~AOC 23" 1080p 60Hz~~
 * Royal Kludge K68
 * Logitech G304 Wireless
 * Steelseries QCK+ 

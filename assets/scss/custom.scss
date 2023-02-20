@@ -81,8 +81,9 @@ div.notsoschmol>article>a {
 }
 
 ol#main-menu {
-  row-gap: 1.2rem;
+  row-gap: 1.5rem !important;
   overflow: hidden;
+  min-height: 650px !important;
 }
 
 header.article-category>a {
@@ -118,6 +119,7 @@ code span {
 
 aside.right-sidebar {
   max-width: 120px;
+  margin-bottom: 40px;
 }
 
 .ff {
@@ -140,6 +142,60 @@ table.lntable {
   max-height: 500px;
 }
 
-span.cl {
+.right-sidebar {
+  gap: 18px;
+}
 
+div.archives-year>a {
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+}
+
+ol#main-menu>li {
+  height: 26px !important;
+}
+
+ol#main-menu>li>a {
+  display: flex;
+  height: 26px !important;
+  align-items: center;
+  flex-direction: row;
+  align-content: center;
+  justify-content: flex-start;
+}
+
+ol#main-menu>li>a>svg {
+  height: 26px !important;
+}
+
+ol#main-menu>li>a>span {
+  margin-top: 4px !important;
+}
+
+li#dark-mode-toggle {
+  margin-bottom: 60px;
+}
+
+div.app-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+figure.gallery-image>a>img {
+  height: 360px !important;
+  width: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .article-content .gallery {
+    flex-direction: column;
+    flex-grow: 0;
+  }
+
+  figure.gallery-image {
+    flex-basis: 1px !important;
+    width: 100% !important;
+  }
 }
