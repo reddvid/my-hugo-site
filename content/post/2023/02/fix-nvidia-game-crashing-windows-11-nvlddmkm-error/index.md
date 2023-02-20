@@ -8,7 +8,7 @@ hidden: false
 comments: true
 draft: false
 tags: ["NVIDIA", "How to fix", "Fix nvlddmkm error", "Game crash", "Black screen"]
-categories: ["Stories"]
+categories: ["Stories","Gaming"]
 ---
 [Skip the bullsh*t, just show me your solution! (please)](#solution-for-me-at-least)
 

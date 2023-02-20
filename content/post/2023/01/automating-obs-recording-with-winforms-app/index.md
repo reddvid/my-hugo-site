@@ -8,7 +8,7 @@ hidden: false
 comments: true
 draft: false
 tags: ["Apps", "WinForms", "C#", "Visual Studio", ".NET", "Coding", "OBS Recording", "Script", "PowerShell","Software Development"]
-categories: ["Coding", "Software Development"]
+categories: ["Coding"]
 ---
 
 There was a requirement at work (not mine) that requires to record the 12 radio stations’ broadcast traffic to be monitored later for any discrepancies and whatnot.
