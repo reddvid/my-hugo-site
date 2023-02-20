@@ -112,8 +112,8 @@ footer.article-time>div {
 code,
 pre,
 code span {
-  font-family: "Courier New", Courier, monospace !important;
-  font-size: 1.5rem;
+  font-family: "Cascadia Code", "Courier New", Courier, monospace !important;
+  font-size: 1.35rem;
 }
 
 aside.right-sidebar {
@@ -138,4 +138,8 @@ a.cardlink {
 
 table.lntable {
   max-height: 500px;
+}
+
+span.cl {
+
 }
