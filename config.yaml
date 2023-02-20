@@ -215,12 +215,6 @@ menu:
       params:
         icon: brand-linkedin
 
-    - identifier: twitch
-      name: Twitch
-      url: https://twitch.tv/reddavidgg
-      params:
-        icon: brand-twitch
-
     - identifier: youtube
       name: YouTube
       url: https://youtube.com/@reddavid
