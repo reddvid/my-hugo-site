@@ -7,9 +7,11 @@ ogimage: "/images/og/stream.png"
 hidden: false
 comments: true
 draft: false
-tags: ["C#", "CSharp", "Software Development", ".NET", "dotNet", "Console app", "AltaCast", "online radio", "VLC", "Programming", "VB Virtual Audio Cable"]
+tags: ["C#", "CSharp", "Software Development", ". NET", "dotNet", "Console app", "AltaCast", "online radio", "VLC", "Programming", "VB Virtual Audio Cable"]
 categories: ["Coding"]
 ---
+
+[02/22 Updated Code to Fix Timer](#programming-a-console-app)
 
 What happens when radio station’s go offline - or after their broadcast hours end? Dead air. Well, I am not sure if it is also the term being used in 24/7 audio servers.
 
@@ -47,9 +49,14 @@ I will be using [VLC](https://www.videolan.org/vlc/) as the media player since i
 
 This app will be a timer to check set times:
 
-- 10PM - Start Client Stream
-- 12MN - Change Media Source
-- 3AM - Stop/Quit Stream
+* 10PM - Start Client Stream
+* 12MN - Change Media Source
+* 3AM - Stop/Quit Stream
+
+**UPDATE** 
+* Fixed various bugs (time check)
+* Changed every second tick to every minute
+* Adjusted Trim Extension to remove seconds
 
 Below is the full code:
 
@@ -72,7 +79,8 @@ public class Program
         Console.WriteLine();
 
         Console.WriteLine("Starting timer...");
-        _timer = new Timer(TimerCallback, null, 0, 1000);
+        // Changed timer tick to 60_000 ms | 60 secs
+        _timer = new Timer(TimerCallback, null, 0, 60_000);
 
         Console.ReadLine();
     }
@@ -83,20 +91,18 @@ public class Program
         TimeSpan shift = TimeSpan.Parse("23:59");
         TimeSpan stop = TimeSpan.Parse("02:55");
         TimeSpan now = DateTime.Now.TimeOfDay;
-        now = now.StripMilliseconds();
+        now = now.StripSeconds();
 
         Console.WriteLine($"Now: {now} | Start: {start} | Shift: {shift} | Stop: {stop}");
 
         if (now == start && !isActive)
         {
-            Console.WriteLine("Starting stream...");
             StartLocalStream();
             isActive = true;
         }
         else if (now == shift && isActive)
         {
             // Change Media Playback
-            Console.WriteLine("Changing media file...");
             ChangeMediaPlayback();
         }
         else if (now == stop && isActive)
@@ -104,7 +110,6 @@ public class Program
             // Stop apps
             KillProcesses("vlc");
             KillProcesses("altacastStandalone");
-            Console.WriteLine("Stopping stream...");
             isActive = false;
         }
     }   
@@ -126,7 +131,7 @@ public class Program
         var altaCast1 = @"D:\altacast\altacastStandalone.exe";
         var altaCast2 = @"D:\altacast2\altacastStandalone.exe";
 
-        CreateAndRunProcess(directory: @"C:\Program Files\VideoLan\VLC", fileName: vlc, args: "https://dwizmanila.radioca.st/stream.mp3");
+        CreateAndRunProcess(directory: @"C:\Program Files\VideoLan\VLC", fileName: vlc, args: "http://149.56.147.197:9079/stream");
         CreateAndRunProcess(directory: @"D:\altacast\", fileName: altaCast1, isShell: true, verb: "runas");
         CreateAndRunProcess(directory: @"D:\altacast2\", fileName: altaCast2, isShell: true, verb: "runas");
     }
@@ -150,11 +155,11 @@ public class Program
         {
             process.Kill();
         }
-    }
-    
-   
+    }  
 }
 ```
+
+&nbsp; 
 
 ```csharp
 // https://stackoverflow.com/a/35750677
@@ -177,8 +182,8 @@ You can tune in at [https://tunein.rpnradio.com/](https://tunein.rpnradio.com/) 
 
 As of now, stations’ broadcast hours differ (sign on and sign off) and I want the app to be dynamic. Some plans for the app:
 
-- Detect actual “dead air” time
-- Detect actual “on air” time
-- Custom playlist in VLC (not relying on “hook ups”)
+* Detect actual “dead air” time
+* Detect actual “on air” time
+* Custom playlist in VLC (not relying on “hook ups”)
 
 Thanks for reading the blog post.
