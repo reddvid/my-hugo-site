@@ -18,15 +18,18 @@ menu:
 
 ## Currently Playing
 
-* Control (Streaming)
+* Control
+* Blasphemous
+* Far Cry 6 Inside the Mind DLC
 * Epistory (Off-stream)
-* Some Xbox PC Game pass games
-  + ~~Tunic~~
-  + High on Life
 
 ## Streaming
 
-I pop-up on Twitch <strike>Facebook</strike> from time-to-time to stream. I still have no schedule.
+I won't be streaming any time soon and until further notice. I would be uploading gameplay videos instead on [YouTube](https://youtube.com/@reddavidgg/) following this schedule (6:00PM GMT+8):
+
+![](upload-sched.png)
+
+~~I pop-up on Twitch/Facebook/YouTube from time-to-time to stream. I still have no schedule.~~
 
 ## Wall of Star-senders
 
