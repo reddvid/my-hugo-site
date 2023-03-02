@@ -184,42 +184,43 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 ## PC Specs
 
 * CPU: AMD Ryzen 7 5700X
-* Motherboard: MSI B550M PRO-VDH Wifi
+* Motherboard: MSI B550M PRO-VDH WIFI
 * Cooler: Silverstone PF240-ARGB
 * RAM: G. Skill Trident Z Neo RGB 4x8GB 3600MHz
 * SSD (System): Samsung 970 Evo Plus 1TB
-* SSD (Games): Samsung 970 Evo Plus 500GB
+* SSD (Games): Corsair Force MP510 960GB
 * Storage: Seagate Barracuda 2TB
 * GPU: Gigabyte RTX 2060 6GB
-* Case: Silverstone Fara R1 V2 Midtower
+* Case: Silverstone Fara R1
 * PSU: Huntkey MVP K650
 * UPS: APC Easy UPS 650VA
 
 ## Peripherals
 
-* Gigabyte G27F 2 27" 1080p 165Hz
-* Samsung Odyssey G3 27" 1080p 144Hz
-* ~~AOC 23" 1080p 60Hz~~
-* Royal Kludge K68
-* Logitech G304 Wireless
-* Steelseries QCK+ 
-* Logitech C922
-* JBL Go 3 Bluetooth Speakers
-* Sony SRS-D5 Speakers
-* Audio-Technica ATH-M30X
-* Samson Q9U Dynamic Mic
-* Audio-Technica ATR2500X-USB Condenser Mic
-* Razer Hammerhead TW X
-* Elgato Stream Deck MK.2
-* Elgato HD60 S+
-* 2 Xbox Wireless Controller (got a wife now)
-
-### Laptop (Hiram)
-
-* Acer Nitro AN515-43
-* Tecware Phantom Elite TKL
-* Logitech G Pro Wired Mouse
-* Razer Hammerhead V2 Pro
+* Monitor/s:
+  + Gigabyte G27F 2 27" 1080p 165Hz
+  + Samsung Odyssey G3 27" 1080p 144Hz
+* Keyboard/s:
+  + Royal Kludge K68
+  + Tecware Phantom Elite TKL
+* Mice:
+  + Logitech G304 Wireless
+  + Logitech G Pro Wired Mouse
+* Mousepad: Alpha Desk Mat
+* Webcam: Logitech C922
+* Audio: 
+  + JBL Go 3 Bluetooth Speakers
+  + Sony SRS-D5 Speakers
+  + Razer Hammerhead V2 Pro
+  + Razer Hammerhead TW X
+  + Audio-Technica ATH-M30X
+* Mic/s:
+  + Samson Q9U Dynamic Mic
+  + Audio-Technica ATR2500X-USB Condenser Mic
+* Misceallanouse:
+  + Elgato Stream Deck MK.2
+  + Elgato HD60 S+
+  + 2 Xbox Wireless Controller (got a wife now)
 
 ## Links
 
