@@ -20,46 +20,25 @@ menu:
 
 * Control
 * Blasphemous
+* Stray
+* Ghost Recon Breakpoint
 * Far Cry 6 Inside the Mind DLC
 * Epistory (Off-stream)
 
 ## Streaming
 
-I won't be streaming any time soon and until further notice. I would be uploading gameplay videos instead on [YouTube](https://youtube.com/@reddavidgg/) following this schedule (6:00PM GMT+8):
-
-![](upload-sched.png)
-
-~~I pop-up on Twitch/Facebook/YouTube from time-to-time to stream. I still have no schedule.~~
+I pop-up on Twitch/Facebook/YouTube from time-to-time to stream. I still have no schedule.
 
 ## Wall of Star-senders
+
+_Stars is a virtual good that lets fans show creators love and gives creators the ability to show love back. Get stars here: https://fb.gg/stars_
 
 Thanks to all Facebook star-senders! Glorified here: [Starwall](https://reddavid.me/starwall "Starwall")
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=1923295877819117&autoLogAppEvents=1" nonce="3RBbTOjV"></script>
 
-<center>
-<div class="fb-video" data-href="https://www.facebook.com/RedDavidGaming/live" data-width="800" data-show-text="false"></div></center>
-
-## YouTube Playlists
-
-* [AC Odyssey](https://www.youtube.com/watch?v=QSV6RKyRDE8&list=PLwC47NQhSu5zKkl9bWtIFwBYTpBOhcyIn)
-* [AC Odyssey, Goddess of the Hunt](https://www.youtube.com/watch?v=29me84NpCs0&list=PLwC47NQhSu5y2eLPSxCQlXBmf5Ee9I4uT)
-* [Bioshock Infinite VOD](https://www.youtube.com/watch?v=VAVGG1C4m-U&list=PLwC47NQhSu5xzXkD7sSaBSIURfOSFVX73)
-* [Inside Full Playthrough](https://www.youtube.com/watch?v=ZvoqZadYKeI&list=PLwC47NQhSu5yL8ECQdU9pGSIX3rT5PcuM)
-  <!-- <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
-  <div id="vcontainer"></div>
-  <script type="text/javascript">
-  var options = {
-  width: 1280, 
-  height: 720, 
-  channel: "RedDavidGaming", 
-  // only needed if your site is also embedded on embed.example.com and othersite.example.com
-  parent: \["localhost", "reddavid.me"\]
-  }; 
-  var player = new Twitch. Player("vcontainer", options); 
-  player.setVolume(0.5); 
-  </script> -->
+<div class="fb-video" data-href="https://www.facebook.com/RedDavidGG/live" data-width="800" data-show-text="false"></div>
 
 ## Games List
 
@@ -239,5 +218,16 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 * Gaming [**YouTube Channel**](https://www.youtube.com/@RedDavidGG)
 * [**Facebook Gaming**](https://facebook.com/RedDavidGG/community)
 * Got a spare change to help me upgrade my setup and dev journey? [**Donate via PayPal**](https://paypal.me/reddvid)
+
+## FAQs
+
+* What's your rank in _____?
+  + I am done playing online competitive games, so no ranks/medals, etc. (Though I got til Divine 1 in Dota 2 back in the days.)
+* What's your stream schedule?
+  + I have none.
+* Why are you inconsistent with what you do?
+  + Busy life.
+* Do you play mobile games?
+  + Seldomly, I grew up playing games on a bigger screen.
 
 <br>
