@@ -18,27 +18,16 @@ menu:
 
 ## Currently Playing
 
-* Control
-* Blasphemous
-* Stray
-* Ghost Recon Breakpoint
+* High on Life
+* Astroneer
 * Far Cry 6 Inside the Mind DLC
 * Epistory (Off-stream)
 
 ## Streaming
 
-I pop-up on Twitch/Facebook/YouTube from time-to-time to stream. I still have no schedule.
+I pop-up on Twitch from time-to-time to stream. I still have no schedule.
 
-## Wall of Star-senders
-
-_Stars is a virtual good that lets fans show creators love and gives creators the ability to show love back. Get stars here: https://fb.gg/stars_
-
-Thanks to all Facebook star-senders! Glorified here: [Starwall](https://reddavid.me/starwall "Starwall")
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=1923295877819117&autoLogAppEvents=1" nonce="3RBbTOjV"></script>
-
-<div class="fb-video" data-href="https://www.facebook.com/RedDavidGG/live" data-width="800" data-show-text="false"></div>
+<div style="padding-bottom: 56.25%; position: relative; "><iframe width="100%" height="100%" src="https://player.twitch.tv/?autoplay=false&channel=reddavidgg&parent=reddavid.me" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; "><small>Powered by <a href="https://embed.tube/embed-code-generator/twitch/">twitch embed</a> generator</small></iframe></div>
 
 ## Games List
 
@@ -48,14 +37,18 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 * Dead Space 1, 2, 3
 * Doom Eternal
-* ~~Ori and the Will of the Wisps~~
-* ~~Assassin's Creed: Odyssey (to continue & finish)~~
 * Assassin's Creed: Valhalla
 * Horizon: Zero Dawn
 * Red Dead Redemption 2
-* Resident Evil 3 Remake
+* Resident Evil 2 & 3 (Remake)
 * Resident Evil 7, 8
 * Max Payne 1, 2, 3
+* ~~Blasphemous~~
+* ~~Stray~~
+* ~~Control~~
+* ~~Ghost Recon: Breakpoint~~
+* ~~Ori and the Will of the Wisps~~
+* ~~Assassin's Creed: Odyssey~~
 
 <details><summary><strong>Full List</strong></summary>
 
@@ -71,6 +64,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | BioShock 2                        | TBC                      |
 | Bioshock Infinite                 | Done on Hard             |
 | Blackmesa                         | Done                     |
+| Blasphemous                       | Done                     |
 | Braid                             | Done                     |
 | Brothers - A Tale of Two Sons     | Done                     |
 | Celeste                           | Soon                     |
@@ -79,6 +73,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | CoD: MW 2                         | Done                     |
 | CoD: MW 3                         | Done                     |
 | CoD: World at War                 | Done                     |
+| Control                           | Done                     |
 | Dead Space                        | Soon                     |
 | Dead Space 2                      | Soon                     |
 | Dead Space 3                      | Soon                     |
@@ -86,6 +81,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Dishonored 2                      | TBC                      |
 | DOOM 2016                         | Done                     |
 | DOOM Eternal                      | TBC                      |
+| Dying Light: The Following        | Done                     |
 | Evoland 1/2                       | Done                     |
 | Far Cry 3                         | Done                     |
 | Far Cry 4                         | Done                     |
@@ -93,7 +89,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Far Cry 5                         | Done                     |
 | Far Cry New Dawn                  | Done                     |
 | Far Cry 6                         | Done                     |
-| Ghost Recon: Breakpoint           | TBC                      |
+| Ghost Recon: Breakpoint           | Done                     |
 | Ghost Recon: Wildlands            | Done                     |
 | GRIS                              | Done                     |
 | GTA Vice City                     | Soon                     |
@@ -104,6 +100,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Half-Life                         | Done                     |
 | Half-Life 2                       | Done                     |
 | Hellblade: Senua's Sacrifice      | Soon                     |
+| High on Life                      | TBC                      |
 | HL2: Ep 1                         | Done                     |
 | HL2: Ep 2                         | Done                     |
 | Hollow Knight                     | Done 112% P1-4 NB        |
@@ -134,12 +131,20 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 | Prototype 2                       | Done                     |
 | Puzzle Agent                      | Done                     |
 | Puzzle Agent 2                    | Done                     |
-| Raft                              | TBC - playing off stream |
+| Raft                              | Done                     |
+| Resident Evil 2 Remake            | Soon                     |
+| Resident Evil 3 Remake            | Soon                     |
+| Resident Evil 4 Remake            |                          |
+| Resident Evil 5                   |                          |
+| Resident Evil 6                   |                          |
+| Resident Evil 7                   |                          |
+| Resident Evil 8                   |                          |
 | Red Dead Redemption 2             | Soon                     |
 | Sleeping Dogs                     | Done                     |
-| Slime Rancher                     | Done - story             |
+| Slime Rancher                     | Done                     |
 | Slime Rancher 2                   | TBC                      |
 | Spec Ops: The Line                | Done                     |
+| Stray                             | Done                     |
 | The Darkness 2                    | Done                     |
 | The Dream Machine                 | TBC                      |
 | The Outer Worlds                  | TBC                      |
@@ -165,11 +170,11 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 * CPU: AMD Ryzen 7 5700X
 * Motherboard: MSI B550M PRO-VDH WIFI
 * Cooler: Silverstone PF240-ARGB
-* RAM: G. Skill Trident Z Neo RGB 4x8GB 3600MHz
+* RAM: Fury Beast 4x16GB 3600MHz
 * SSD (System): Samsung 970 Evo Plus 1TB
 * SSD (Games): Corsair Force MP510 960GB
 * Storage: Seagate Barracuda 2TB
-* GPU: Gigabyte RTX 2060 6GB
+* GPU: ASUS Dual Radeon RX 6700XT 12GB
 * Case: Silverstone Fara R1
 * PSU: Huntkey MVP K650
 * UPS: APC Easy UPS 650VA
@@ -181,21 +186,17 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
   + Samsung Odyssey G3 27" 1080p 144Hz
 * Keyboard/s:
   + Royal Kludge K68
-  + Tecware Phantom Elite TKL
 * Mice:
   + Logitech G304 Wireless
   + Logitech G Pro Wired Mouse
-* Mousepad: Alpha Desk Mat
+  + Logitech G403 Wired Mouse
 * Webcam: Logitech C922
 * Audio: 
-  + JBL Go 3 Bluetooth Speakers
   + Sony SRS-D5 Speakers
   + Razer Hammerhead V2 Pro
-  + Razer Hammerhead TW X
   + Audio-Technica ATH-M30X
 * Mic/s:
   + Samson Q9U Dynamic Mic
-  + Audio-Technica ATR2500X-USB Condenser Mic
 * Misceallanouse:
   + Elgato Stream Deck MK.2
   + Elgato HD60 S+
