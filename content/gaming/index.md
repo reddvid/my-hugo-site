@@ -18,16 +18,15 @@ menu:
 
 ## Currently Playing
 
-* High on Life
-* Astroneer
-* Far Cry 6 Inside the Mind DLC
-* Epistory (Off-stream)
+* Atomic Heart
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLwC47NQhSu5xKuzJU85jj5IE0WXXW-6cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Streaming
 
-I pop-up on Twitch from time-to-time to stream. I still have no schedule.
+I am now streaming on YouTube - midnightly streams or afternoons on Fridays and Saturdays.
 
-<div style="padding-bottom: 56.25%; position: relative; "><iframe width="100%" height="100%" src="https://player.twitch.tv/?autoplay=false&channel=reddavidgg&parent=reddavid.me" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; "><small>Powered by <a href="https://embed.tube/embed-code-generator/twitch/">twitch embed</a> generator</small></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCzhXnO1cPiTos6UD5yWf0vw" frameborder="0" allowfullscreen></iframe>
 
 ## Games List
 
@@ -36,7 +35,6 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 ### Y2023 List
 
 * Dead Space 1, 2, 3
-* Doom Eternal
 * Assassin's Creed: Valhalla
 * Horizon: Zero Dawn
 * Red Dead Redemption 2
