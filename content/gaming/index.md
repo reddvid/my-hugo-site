@@ -47,6 +47,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 * ~~Ghost Recon: Breakpoint~~
 * ~~Ori and the Will of the Wisps~~
 * ~~Assassin's Creed: Odyssey~~
+* ~~Ravenlok~~
 
 <details><summary><strong>Full List</strong></summary>
 
