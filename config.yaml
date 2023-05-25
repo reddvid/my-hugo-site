@@ -249,3 +249,9 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     tabWidth: 3
+
+caches:
+  getcsv:
+    dir: :cacheDir/:project
+    maxAge: "30m"
+

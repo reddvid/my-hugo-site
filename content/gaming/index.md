@@ -32,135 +32,17 @@ I am now streaming on YouTube - midnightly streams or afternoons on Fridays and 
 
 Excluding my Steam library and other platform games (Epic, GOG), below is a table where I track my finished, on-going, to-be-continued, and soon-to-play games.
 
-### Y2023 List
+### Recent Games
 
-* Dead Space 1, 2, 3
-* Assassin's Creed: Valhalla
-* Horizon: Zero Dawn
-* Red Dead Redemption 2
-* Resident Evil 2 & 3 (Remake)
-* Resident Evil 7, 8
-* Max Payne 1, 2, 3
-* ~~Blasphemous~~
-* ~~Stray~~
-* ~~Control~~
-* ~~Ghost Recon: Breakpoint~~
-* ~~Ori and the Will of the Wisps~~
-* ~~Assassin's Creed: Odyssey~~
-* ~~Ravenlok~~
+{{< recentgames >}}
 
-<details><summary><strong>Full List</strong></summary>
+<h3>Full List (as far as I remember)</h3>
+<details>
+<summary>
+<small><em>as of May 26, 2023</em></small>
+</summary>
+{{< games >}}
 
-| Game Title                        | Completion Status        |
-| --------------------------------- | ------------------------ |
-| AER Memories of Old               | Done                     |
-| Assassin's Creed Origins          | Done on Hard Diff        |
-| Assassin's Creed Odyssey          | Done on Hard Diff        |
-| Assassin's Creed Valhalla         | Soon                     |
-| Battlefield 3                     | Done                     |
-| Battlefield 4                     | Done                     |
-| BioShock                          | Done                     |
-| BioShock 2                        | TBC                      |
-| Bioshock Infinite                 | Done on Hard             |
-| Blackmesa                         | Done                     |
-| Blasphemous                       | Done                     |
-| Braid                             | Done                     |
-| Brothers - A Tale of Two Sons     | Done                     |
-| Celeste                           | Soon                     |
-| CoD: Black Ops                    | Done                     |
-| CoD: MW                           | Done                     |
-| CoD: MW 2                         | Done                     |
-| CoD: MW 3                         | Done                     |
-| CoD: World at War                 | Done                     |
-| Control                           | Done                     |
-| Dead Space                        | Soon                     |
-| Dead Space 2                      | Soon                     |
-| Dead Space 3                      | Soon                     |
-| Dishonored                        | Done                     |
-| Dishonored 2                      | TBC                      |
-| DOOM 2016                         | Done                     |
-| DOOM Eternal                      | TBC                      |
-| Dying Light: The Following        | Done                     |
-| Evoland 1/2                       | Done                     |
-| Far Cry 3                         | Done                     |
-| Far Cry 4                         | Done                     |
-| Far Cry Primal                    | Done                     |
-| Far Cry 5                         | Done                     |
-| Far Cry New Dawn                  | Done                     |
-| Far Cry 6                         | Done                     |
-| Ghost Recon: Breakpoint           | Done                     |
-| Ghost Recon: Wildlands            | Done                     |
-| GRIS                              | Done                     |
-| GTA Vice City                     | Soon                     |
-| GTA San Andreas                   | TBC                      |
-| GTA III                           | Soon                     |
-| GTA IV                            | Soon                     |
-| GTA V                             | Done main story          |
-| Half-Life                         | Done                     |
-| Half-Life 2                       | Done                     |
-| Hellblade: Senua's Sacrifice      | Soon                     |
-| High on Life                      | TBC                      |
-| HL2: Ep 1                         | Done                     |
-| HL2: Ep 2                         | Done                     |
-| Hollow Knight                     | Done 112% P1-4 NB        |
-| Homefront                         | Done                     |
-| Homefront: The Revolution         | Soon                     |
-| Horizon Zero Dawn                 | Soon                     |
-| Journey                           | Done                     |
-| Kena Bridge of Spirits            | Done                     |
-| LIMBO                             | Done                     |
-| Machinarium                       | Done                     |
-| Mad Max                           | TBC                      |
-| Mafia 2                           | Done                     |
-| Medal of Honor                    | Done                     |
-| Metro 2033                        | Done                     |
-| Metro Last Light                  | Done                     |
-| Metro Exodus                      | Done                     |
-| Mirror's Edge                     | TBC                      |
-| NFS: Carbon                       | TBC                      |
-| NFS: Most Wanted Black Edition    | Done                     |
-| NFS: Heat                         | TBC                      |
-| NFS: The Run                      | Done                     |
-| NFS: Underground 2                | Done                     |
-| Ori and the Blind Forest          | Done                     |
-| Ori and the Will of the Wisps     | Done                     |
-| Portal                            | Done                     |
-| Portal 2                          | Done                     |
-| Prototype                         | Done                     |
-| Prototype 2                       | Done                     |
-| Puzzle Agent                      | Done                     |
-| Puzzle Agent 2                    | Done                     |
-| Raft                              | Done                     |
-| Resident Evil 2 Remake            | Soon                     |
-| Resident Evil 3 Remake            | Soon                     |
-| Resident Evil 4 Remake            |                          |
-| Resident Evil 5                   |                          |
-| Resident Evil 6                   |                          |
-| Resident Evil 7                   |                          |
-| Resident Evil 8                   |                          |
-| Red Dead Redemption 2             | Soon                     |
-| Sleeping Dogs                     | Done                     |
-| Slime Rancher                     | Done                     |
-| Slime Rancher 2                   | TBC                      |
-| Spec Ops: The Line                | Done                     |
-| Stray                             | Done                     |
-| The Darkness 2                    | Done                     |
-| The Dream Machine                 | TBC                      |
-| The Outer Worlds                  | TBC                      |
-| The Sexy Brutale                  | Done                     |
-| The Walking Dead (Season 1)       | Done                     |
-| The Witcher 3: Wild Hunt + 2 DLCs | Done                     |
-| The Witness                       | Done                     |
-| Turnip Boy                        | Done                     |
-| Undertale                         | TBC                      |
-| Valley                            | Done                     |
-| Max Payne 2                       | TBC                      |
-| C&C: Red Alert 2 Campaign         | Done on Hard             |
-| C&C: RA2 Yuri's Revenge Campaign  | Done on Hard             |
-| C&C: Red Alert 3 Campaign         | Done on Easy             |
-| C&C: RA3 Uprising                 | Done on Easy             |
-
-<p style="text-align: right; margin-top: -20px"><small><em>as of August 9, 2022</em></small></p>
 
 </details>
 

@@ -3,7 +3,7 @@
     <h3 class="section-title">
         {{ if eq .Parent (.GetPage "/") }}
         {{ T "list.section" }}
-        {{ else }}
+        {{ else if ne .Parent.Title "nil" }}
         {{ .Parent.Title }}
         {{ end }}
     </h3>

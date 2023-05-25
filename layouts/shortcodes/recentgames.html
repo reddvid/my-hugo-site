@@ -1,0 +1,8 @@
+{{ $recentgames := getCSV ","
+"https://docs.google.com/spreadsheets/d/e/2PACX-1vRTEzOPXvNXx5OJAbFyDVq98KeY1Fz17m_D3xR0Df-fMShdVY9x7LlxYJrkdns2Qp29mKAp0sGmpsI3/pub?gid=2120407294&single=true&output=csv"
+}}
+<ul class="game-log">
+  {{ range after 1 $recentgames }}
+  <li>{{ index . 0 }} - {{ index . 1}}</li>
+  {{ end }}
+</ul>
