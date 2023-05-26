@@ -18,15 +18,21 @@ menu:
 
 ## Currently Playing
 
-* Atomic Heart
+* Tomb Raider (2013)
+  
+## Featured Gameplay
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLwC47NQhSu5xKuzJU85jj5IE0WXXW-6cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLwC47NQhSu5xKuzJU85jj5IE0WXXW-6cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Streaming
 
 I am now streaming on YouTube - midnightly streams or afternoons on Fridays and Saturdays.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCzhXnO1cPiTos6UD5yWf0vw" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe  src="https://www.youtube.com/embed/live_stream?channel=UCzhXnO1cPiTos6UD5yWf0vw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Games List
 
