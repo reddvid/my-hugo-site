@@ -11,4 +11,14 @@ tags: ["Apps"]
 categories: ["Stories"]
 ---
 
-{{< beforeafter before="front-before.png" balt="Hello" after="front-after.png" aalt="World" >}}
+{{< beforeafter before="main-before.png" balt="Template Page - Before" after="main-after.png" aalt="Template Page - After" count="1" >}}
+
+<br>
+
+{{< beforeafter before="front-before.png" balt="Front Layout - Before" after="front-after.png" aalt="Front Layout - After" count="2">}}
+
+<br>
+
+
+{{< beforeafter before="back-before.png" balt="Back Layout - Before" after="back-after.png" aalt="Back Layout - After" count="3" >}}
+
