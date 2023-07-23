@@ -1,0 +1,135 @@
+{{- $before := .Get "before" -}}
+{{- $balt := .Get "balt" -}}
+{{- $aalt := .Get "aalt" -}}
+{{- $after := .Get "after" -}}
+{{- $count := .Get "count" -}}
+<style>
+    [class^="cc-main-"] {
+        display: grid;
+        place-items: center;
+    }
+
+    .cc-image-1 {
+        display: block;
+        max-width: 100% !important;
+        height: 100% !important;
+    }
+
+    .cc-container-1 {
+        display: grid;
+        place-content: center;
+        position: relative;
+        overflow: hidden;
+        border-radius: 1rem;
+        --position: 50%;
+    }
+
+    .image-container-1 {
+        max-width: 800px;
+        max-height: 90vh;
+    }
+
+    .slider-image-1 {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: left;
+    }
+
+    .image-before-1 {
+        position: absolute;
+        inset: 0;
+        width: var(--position);
+        filter: grayscale(5%)
+    }
+
+   .slider-1 {
+        position: absolute;
+        inset: 0;
+        cursor: pointer;
+        opacity: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .slider-1:focus-visible~.slider-button-1 {
+        outline: 5px solid black;
+        outline-offset: 3px;
+    }
+
+    .slider-line-1 {
+        position: absolute;
+        inset: 0;
+        width: .2rem;
+        height: 100%;
+        background-color: #fff;
+        /* z-index: 10; */
+        left: var(--position);
+        transform: translateX(-50%);
+        pointer-events: none;
+    }
+
+    .slider-button-1 {
+        position: absolute;
+        background-color: #fff;
+        color: black;
+        padding: .5rem;
+        border-radius: 100vw;
+        display: grid;
+        place-items: center;
+        top: 50%;
+        left: var(--position);
+        transform: translate(-50%, -50%);
+        pointer-events: none;
+        /* z-index: 100; */
+        box-shadow: 1px 1px 1px hsl(0, 50%, 2%, .5);
+    }
+</style>
+
+<main class="cc-main-{{ $count }}">
+    <div class="cc-container-{{ $count }}">
+        <div class="image-container-{{ $count }}">
+            <img  class="cc-image-{{ $count }} image-before-{{ $count }} slider-image-{{ $count }}" src="{{ $before }}" alt="{{ $balt}}" />
+            <img  class="cc-image-{{ $count }} image-after-{{ $count }} slider-image-{{ $count }}" src="{{ $after }}" alt="{{ $aalt }}" />
+        </div>
+        <!-- step="10" -->
+        <input  type="range" min="0" max="100" value="50" aria-label="Percentage of before photo shown" class="slider-{{ $count }}" />
+        <div class="slider-line-{{ $count }}" aria-hidden="true"></div>
+        <div class="slider-button-{{ $count }}" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 256 256">
+                <rect width="256" height="256" fill="none"></rect>
+                <line x1="128" y1="40" x2="128" y2="216" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16"></line>
+                <line x1="96" y1="128" x2="16" y2="128" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16"></line>
+                <polyline points="48 160 16 128 48 96" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16"></polyline>
+                <line x1="160" y1="128" x2="240" y2="128" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16"></line>
+                <polyline points="208 96 240 128 208 160" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16"></polyline>
+            </svg>
+        </div>
+    </div>
+</main>
+
+
+<script>
+    const container1 = document.querySelector('.cc-container-1');
+    document.querySelector('.slider-1').addEventListener('input', (e) => {
+        container1.style.setProperty('--position', `${e.target.value}%`);
+    });
+
+    const container2 = document.querySelector('.cc-container-2');
+    document.querySelector('.slider-2').addEventListener('input', (e) => {
+        container2.style.setProperty('--position', `${e.target.value}%`);
+    });
+
+    const container3 = document.querySelector('.cc-container-3');
+    document.querySelector('.slider-3').addEventListener('input', (e) => {
+        container3.style.setProperty('--position', `${e.target.value}%`);
+    });
+</script>
+
+<!-- slider credit goes to:
+    https://codepen.io/Coding-in-Public/pen/NWyjZwO-->
