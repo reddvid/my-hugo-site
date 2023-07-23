@@ -18,7 +18,7 @@ menu:
 
 ## Currently Playing
 
-* Tomb Raider (2013)
+* A Plague Tale: Innocence
   
 ## Featured Gameplay
 
