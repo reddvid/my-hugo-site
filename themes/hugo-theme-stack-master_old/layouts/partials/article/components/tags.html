@@ -1,9 +1,0 @@
-{{ if .Params.Tags }}
-<br>
-<hr>
-<section class="article-tags">
-    {{ range (.GetTerms "tags") }}
-    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-    {{ end }}
-</section>
-{{ end }}
