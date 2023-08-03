@@ -4,11 +4,14 @@ date: 2020-02-23T13:10:38+08:00
 slug: "privacy-policy"
 draft: false
 comments: false
+toc: false
+hidetitle: true
+hideshare: true
 ---
 
 Disclaimer: The opinions expressed in this website are my own personal opinions and in no way represent my employer's view.
 
-## Privacy Policy
+# Privacy Policy
 
 Last updated: August 3, 2023
 
@@ -18,7 +21,7 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.reddavid.me/
 
-### Definitions
+## Definitions
 
 * **Service**
 <br>
@@ -52,77 +55,171 @@ We use your data to provide and improve the Service. By using the Service, you a
 <br>
 <br> Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
-### Information Collection and Use
+## Information Collection and Use
 
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
 **TYPES OF DATA COLLECTED**
 
-* **Personal Data**
-<br>
-<br> While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+**Personal Data**
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
    - Email address
    - First name and last name
    - Cookies and Usage Data
 
-* **Usage Data**
-<br>
-<br> We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+**Usage Data**
 
-* **Tracking & Cookies Data**
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-<p>Your privacy is important to us. It is Red David&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a class="link" href="https://reddavid.me">https://reddavid.me</a>, and other sites we own and operate. </p>
-<p>This policy is effective as of 10 March 2021 and was last updated on 10 March 2021. </p>
-<h3>Information We Collect</h3>
-<p>Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services. </p>
-<h4>Log Data</h4>
-<p>When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your device’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, other details about your visit, and technical details that occur in conjunction with any errors you may encounter. </p>
-<p>Please be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons. </p>
-<h4>Collection and Use of Information</h4>
-<p>We may collect personal information from you when you do any of the following on our website: </p>
-<ul>
-   <li>Use a mobile device or web browser to access our content</li>
-   <li>Contact us via email, social media, or on any similar technologies</li>
-   <li>When you mention us on social media</li>
-</ul>
-<p>We may collect, hold, use, and disclose information for the following purposes, and personal information will not be further processed in a manner that is incompatible with these purposes: </p>
-<p>Please be aware that we may combine information we collect about you with general information or research data we receive from other trusted sources. </p>
-<h4>Security of Your Personal Information</h4>
-<p>When we collect and process personal information, and while we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification. </p>
-<p>Although we will do our best to protect the personal information you provide to us, we advise that no method of electronic transmission or storage is 100% secure, and no one can guarantee absolute data security. We will comply with laws applicable to us in respect of any data breach. </p>
-<p>You are responsible for selecting any password and its overall security strength, ensuring the security of your own information within the bounds of our services. </p>
-<h4>How Long We Keep Your Personal Information</h4>
-<p>We keep your personal information only for as long as we need to. This time period may depend on what we are using your information for, in accordance with this privacy policy. If your personal information is no longer required, we will delete it or make it anonymous by removing all details that identify you. </p>
-<p>However, if necessary, we may retain your personal information for our compliance with a legal, accounting, or reporting obligation or for archiving purposes in the public interest, scientific, or historical research purposes or statistical purposes. </p>
-<h3>Children’s Privacy</h3>
-<p>We do not aim any of our products or services directly at children under the age of 13, and we do not knowingly collect personal information about children under 13. </p>
-<h3>Disclosure of Personal Information to Third Parties</h3>
-<p>We may disclose personal information to: </p>
-<ul>
-   <li>a parent, subsidiary, or affiliate of our company</li>
-   <li>third party service providers for the purpose of enabling them to provide their services, for example, IT service providers, data storage, hosting and server providers, advertisers, or analytics platforms</li>
-   <li>our employees, contractors, and/or related entities</li>
-   <li>our existing or potential agents or business partners</li>
-   <li>sponsors or promoters of any competition, sweepstakes, or promotion we run</li>
-   <li>courts, tribunals, regulatory authorities, and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise, or defend our legal rights</li>
-   <li>third parties, including agents or sub-contractors, who assist us in providing information, products, services, or direct marketing to you third parties to collect and process data</li>
-</ul>
-<h3>International Transfers of Personal Information</h3>
-<p>The personal information we collect is stored and/or processed where we or our partners, affiliates, and third-party providers maintain facilities. Please be aware that the locations to which we store, process, or transfer your personal information may not have the same data protection laws as the country in which you initially provided the information. If we transfer your personal information to third parties in other countries: (i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this privacy policy. </p>
-<h3>Your Rights and Controlling Your Personal Information</h3>
-<p>You always retain the right to withhold personal information from us, with the understanding that your experience of our website may be affected. We will not discriminate against you for exercising any of your rights over your personal information. If you do provide us with personal information you understand that we will collect, hold, use and disclose it in accordance with this privacy policy. You retain the right to request details of any personal information we hold about you. </p>
-<p>If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us. </p>
-<p>If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time. We will provide you with the ability to unsubscribe from our email-database or opt out of communications. Please be aware we may need to request specific information from you to help us confirm your identity. </p>
-<p>If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant, or misleading, please contact us using the details provided in this privacy policy. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading, or out of date. </p>
-<p>If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint. </p>
-<h3>Limits of Our Policy</h3>
-<p>Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices. </p>
-<h3>Changes to This Policy</h3>
-<p>At our discretion, we may change our privacy policy to reflect updates to our business processes, current acceptable practices, or legislative or regulatory changes. If we decide to change this privacy policy, we will post the changes here at the same link by which you are accessing this privacy policy. </p>
-<p>If required by law, we will get your permission or give you the opportunity to opt in to or opt out of, as applicable, any new uses of your personal information. </p>
-<h3>Contact Us</h3>
-<p>For any questions or concerns regarding your privacy, you may contact us using the following details: </p>
-<p>David Ballesteros</p>
+**Tracking & Cookies Data**
 
-[reddavidapps@outlook.com](mailto://reddavidapps@outlook.com)
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Example of Cookies we use:
+
+* **Session Cookies**. We use Session Cookies to operate our Service.
+* **Preference Cookies**. We use Preference Cookies to remember your preferences and various settings.
+* **Security Cookies**. We use Security Cookies for security purposes.
+* **Advertising Cookies**. Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+## Use of Data
+
+David Ballesteros's Blog uses the collected data for various purposes:
+
+* To provide and maintain our Service
+* To notify you about changes to our Service
+* To allow you to participate in interactive features of our Service when you choose to do so
+* To provide customer support
+* To gather analysis or valuable information so that we can improve our Service
+* To monitor the usage of our Service
+* To detect, prevent and address technical issues
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), David Ballesteros's Blog legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+David Ballesteros's Blog may process your Personal Data because:
+
+* We need to perform a contract with you
+* You have given us permission to do so
+* The processing is in our legitimate interests and it's not overridden by your rights
+* To comply with the law
+
+## Retention of Data
+
+David Ballesteros's Blog will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+David Ballesteros's Blog will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+David Ballesteros's Blog will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+**LEGAL REQUIREMENTS**
+
+David Ballesteros's Blog may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+* To comply with a legal obligation
+* To protect and defend the rights or property of David Ballesteros's Blog
+* To prevent or investigate possible wrongdoing in connection with the Service
+* To protect the personal safety of users of the Service or the public
+* To protect against legal liability
+
+## Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## "Do Not Track" Signals
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. David Ballesteros's Blog aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+* The right to access, update or to delete the information we have on you. Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+* The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+* The right to object. You have the right to object to our processing of your Personal Data.
+* The right of restriction. You have the right to request that we restrict the processing of your personal information.
+* The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+* The right to withdraw consent. You also have the right to withdraw your consent at any time where David Ballesteros's Blog relied on your consent to process your personal information.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+**ANALYTICS**
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+**Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
+
+**ADVERTISING**
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+**Google AdSense & DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
+
+
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guarian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective data" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+By email: hi at reddavid dot me
+
+
