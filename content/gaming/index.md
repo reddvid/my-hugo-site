@@ -47,6 +47,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 <summary>
 <small><em>as of December 12, 2023</em></small>
 </summary>
+
 {{< games >}}
 
 
@@ -71,20 +72,12 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 * Monitor/s:
   + Gigabyte G27F 2 27" 1080p 165Hz
   + Samsung Odyssey G3 27" 1080p 144Hz
-* Keyboard/s:
-  + Royal Kludge K68
-* Mice:
-  + Logitech G304 Wireless
-  + Logitech G Pro Wired Mouse
-  + Logitech G403 Wired Mouse
+* Keyboard: Keychron K2 V2
+* Mice: Logitech G403 Wired Mouse
 * Webcam: Logitech C922
-* Audio: 
-  + Sony SRS-D5 Speakers
-  + Razer Hammerhead V2 Pro
-  + Audio-Technica ATH-M30X
-* Mic/s:
-  + Samson Q9U Dynamic Mic
-* Misceallanouse:
+* Audio: SteelSeries Tusq
+* Mic: Samson Q9U Dynamic Mic
+* Miscellaneous:
   + Elgato Stream Deck MK.2
   + Elgato HD60 S+
   + 2 Xbox Wireless Controller (got a wife now)
