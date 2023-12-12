@@ -18,7 +18,7 @@ menu:
 
 ## Currently Playing
 
-* A Plague Tale: Innocence
+* Red Dead Redemption 2
   
 ## Featured Gameplay
 
