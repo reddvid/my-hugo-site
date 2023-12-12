@@ -45,7 +45,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 <h3>Full List (as far as I remember)</h3>
 <details>
 <summary>
-<small><em>as of May 26, 2023</em></small>
+<small><em>as of December 12, 2023</em></small>
 </summary>
 {{< games >}}
 
