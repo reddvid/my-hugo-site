@@ -51,7 +51,7 @@ params:
 
   sidebar:
     emoji: 👋
-    subtitle: Systems and IT Engineer | Applications Developer
+    subtitle: Software Developer
     avatar:
       enabled: true
       local: false
