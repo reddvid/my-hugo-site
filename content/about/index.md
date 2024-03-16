@@ -24,8 +24,6 @@ toc: false
 
 Hi! I am David. I am an electronics engineer and a self-taught desktop & mobile app developer.
 
-I currently work as an IT admin at RPN in QCPH.
-
 ## Background
 
 I started coding in college for our project study, RFID Gate System. We used Forms and VB. Net for the software and C++ for the Arduino controller. I then got into Windows Phone App development and learned C#, XAML, and Git. The first apps I developed were mostly for personal-use until I registered and submitted one to the Windows Phone Store.
