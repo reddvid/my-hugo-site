@@ -18,7 +18,7 @@ menu:
 
 ## Currently Playing
 
-* Red Dead Redemption 2
+* The Witcher 3: Wild Hunt (3rd playthrough - All Completed Quests Possible)
   
 ## Featured Gameplay
 
@@ -28,11 +28,7 @@ menu:
 
 ## Streaming
 
-I am now streaming on YouTube - midnightly streams or afternoons on Fridays and Saturdays.
-
-<div class="video-wrapper">
-<iframe  src="https://www.youtube.com/embed/live_stream?channel=UCzhXnO1cPiTos6UD5yWf0vw" frameborder="0" allowfullscreen></iframe>
-</div>
+Streams Minecraft Singleplayer Survival on Facebook (Weekends) and other games on Twitch (no schedule).
 
 ## Games List
 
@@ -60,19 +56,19 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 * Cooler: Silverstone PF240-ARGB
 * RAM: Fury Beast 4x16GB 3600MHz
 * SSD (System): Samsung 970 Evo Plus 1TB
-* SSD (Games): Corsair Force MP510 960GB
-* Storage: Seagate Barracuda 2TB
-* GPU: ASUS Dual Radeon RX 6700XT 12GB
+* SSD (Games): PNY 2TB m.2
+* Storage: Seagate 8TB
+* GPU: ZOTAC 4070 12GB
 * Case: Silverstone Fara R1
-* PSU: Huntkey MVP K650
-* UPS: APC Easy UPS 650VA
+* PSU: Corsair RM750e 80+ Gold
+* UPS: APC 800VA
 
 ## Peripherals
 
 * Monitor/s:
   + Gigabyte G27F 2 27" 1080p 165Hz
   + Samsung Odyssey G3 27" 1080p 144Hz
-* Keyboard: Keychron K2 V2
+* Keyboard: Keychron K2 Pro
 * Mice: Logitech G403 Wired Mouse
 * Webcam: Logitech C922
 * Audio: SteelSeries Tusq
@@ -87,10 +83,6 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 ### Profiles
 
 * [**Steam**](https://steamcommunity.com/id/reddvid/): 91135388
-* Xbox PC: reddvid
-* Valorant/RIOT: RedDavid#0666
-* Ubisoft Connect: RedDavidGG
-* Epic Games: RedDavidGG
 
 ### Channels
 
