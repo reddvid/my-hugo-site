@@ -23,12 +23,12 @@ menu:
 ## Featured Gameplay
 
 <div class="video-wrapper">
-<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLwC47NQhSu5xKuzJU85jj5IE0WXXW-6cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DebCeu5xUgw?si=p_2pOzwXTOMPp_wj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Streaming
 
-Streams Minecraft Singleplayer Survival on Facebook (Weekends) and other games on Twitch (no schedule).
+Streams Minecraft Singleplayer Survival on Facebook (Weekends) and other games on Twitch/YouTube (no schedule).
 
 ## Games List
 
@@ -49,7 +49,10 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 </details>
 
-## PC Specs
+## PC Specs 
+<!-- {{< product name="AMD Ryzen 7 5700X" img_url="img/products/amd-ryzen-7.png" >}}
+{{< product name="AMD Ryzen 7 5700X" img_url="img/products/msi-b550m-pro-vdh-wifi.png" >}}
+{{< product name="Keychron K2 Pro" img_url="img/products/keychron-k2-pro.png" >}} -->
 
 * CPU: AMD Ryzen 7 5700X
 * Motherboard: MSI B550M PRO-VDH WIFI

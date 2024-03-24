@@ -42,8 +42,7 @@ params:
   favicon:
 
   footer:
-    since: 2019
-    customText: Some Rights Reserved. I don't know, do I need a lawyer?
+    customText: Some Rights Reserved.
 
   dateFormat:
     published: Jan 02, 2006
@@ -51,7 +50,7 @@ params:
 
   sidebar:
     emoji: 👋
-    subtitle: Software Developer
+    subtitle: IT Guy / App Developer
     avatar:
       enabled: true
       local: false
