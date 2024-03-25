@@ -8,7 +8,7 @@ hidden: false
 comments: true
 draft: false
 tags: ["Hyper-V", "Virtual Machines", "VM", "Windows 11"]
-categories: ["How-To", "Tech"]
+categories: ["How To", "Tech"]
 ---
 
 Ever want to launch a VM directly without opening the main Hyper-V app first?

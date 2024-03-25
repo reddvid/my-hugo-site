@@ -1,4 +1,3 @@
-/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
 @font-face {
   font-family: 'Mona Sans';
   src:
@@ -9,8 +8,7 @@
 }
 
 * {
-  font-family: "Mona Sans", sans-serif;
-  // font-family: "Geomanist", sans-serif !important;
+  font-family: 'Mona Sans';
 }
 
 [data-scheme="dark"] {
