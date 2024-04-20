@@ -25,7 +25,6 @@ ogimage: "/images/og/ti10-appdates.png"
 Let's start with [The International](https://en.wikipedia.org/wiki/The_International_2021#:~:text=The%20International%202021%2C%20also%20known,2%20world%20championship%20esports%20tournament.), shortened as TI, Valve's yearly Dota 2 tournament where the 18 of the best teams around the world gather to fight for the Aegis of the Champions every year. After being canceled and waiting for more than 2 years it is now happening, without an audience in Bucharest, Romania with a total prizepool of $40M+.
 
 <center>
-{{< tweet 1444037357775179779 >}}
 </center>
 
 I only play the game against custom BOT scripts 🤣 just to past time or just to be updated with what patches <a class="link" href="https://dota2.fandom.com/wiki/IceFrog" target="_blank">IceFrog</a> brings to the game. What I mostly do is watch major tournaments especially those when teams need to earn <a class="link" href="https://liquipedia.net/dota2/Dota_Pro_Circuit" target="_blank">DPC points</a> for entering the prestigious TI.
@@ -35,7 +34,6 @@ I only play the game against custom BOT scripts 🤣 just to past time or just t
 #TI10 started on October 7th with 18 qualified teams playing playoffs on the group stage to determine their position either on the upper or lower bracket; and where two teams: Thunder Predator and SG, in the end, bid farewell for the Main Stage and championship.
 
 <center>
-{{< tweet 1447199723308269568 >}}
 </center>
 
 Now, as of this writing, we just ended Day 3 of the Main Stage and I've followed and watched most of the games. Fnatic, a SEA team with 2 Pinoy players, got eliminated on Day 2 just after getting past a heart-wrenching Best-of-One's on the Lower Bracket the day before. The last SEA representative, T1, would have to give their best on their lower bracket run.
@@ -49,7 +47,6 @@ Thanks to [Wykrhm Reddy (@wykrhm)](https://twitter.com/wykrhm) for being such a 
 Watching all games and supporting SEA teams, my heart still goes to Team Secret for all their TI runs. Right now, they already secured Top 3 finish for the semifinals game against PSG.LGD.
 
 <center>
-{{< tweet 1447192871677857796 >}}
 </center>
 
 I follow the games by watching <a class="link" href="https://www.twitch.tv/singsing" target="_blank">singsing's Twitch stream</a> as he and his (pepega) friends cast and analyze the stream - chill and fun. This way I can watch (or listen) while doing app coding.

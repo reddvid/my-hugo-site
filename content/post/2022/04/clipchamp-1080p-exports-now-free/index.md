@@ -30,7 +30,6 @@ Yes, who does? And surprisingly, Clichamp offers free users to ONLY export their
 
 <div style="display: flex;
 justify-content: center;">
-{{< tweet 1501925460602724354 >}}
 </div>
 
 ### Good News!

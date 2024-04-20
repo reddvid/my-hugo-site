@@ -47,7 +47,6 @@ And checking Twitter after the stream, there were a lot more announced that time
 
 <div style="display: flex;
 justify-content: center;">
-{{< tweet 1511376525597237255 >}}
 </div>
 
 ## Unreal Engine 5
