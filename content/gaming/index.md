@@ -18,12 +18,14 @@ menu:
 
 ## Currently Playing
 
-* The Witcher 3: Wild Hunt (3rd playthrough - All Completed Quests Possible)
+* Cyberpunk 2077
   
 ## Featured Gameplay
 
+<!-- Cyberpunk Porshce -->
+
 <div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DebCeu5xUgw?si=p_2pOzwXTOMPp_wj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/nnIrFD718PM?si=KMpSou5oB-QMyj9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Streaming
@@ -46,40 +48,45 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 {{< games >}}
 
-
 </details>
 
-## PC Specs 
+## Setup
+
+### PC Specs
 <!-- {{< product name="AMD Ryzen 7 5700X" img_url="img/products/amd-ryzen-7.png" >}}
 {{< product name="AMD Ryzen 7 5700X" img_url="img/products/msi-b550m-pro-vdh-wifi.png" >}}
 {{< product name="Keychron K2 Pro" img_url="img/products/keychron-k2-pro.png" >}} -->
 
-* CPU: AMD Ryzen 7 5700X
-* Motherboard: MSI B550M PRO-VDH WIFI
-* Cooler: Silverstone PF240-ARGB
-* RAM: Fury Beast 4x16GB 3600MHz
-* SSD (System): Samsung 970 Evo Plus 1TB
-* SSD (Games): PNY 2TB m.2
-* Storage: Seagate 8TB
-* GPU: ZOTAC 4070 12GB
-* Case: Silverstone Fara R1
-* PSU: Corsair RM750e 80+ Gold
-* UPS: APC 800VA
+* CPU: [AMD Ryzen 7 5700X](https://shope.ee/2q8RdmNfTl)
+* Motherboard: [MSI B550M PRO-VDH WIFI](https://shope.ee/4AdpFtyr57)
+* Cooler: [Silverstone PF240-ARGB](https://shope.ee/4KxFSCyDkA)
+* RAM: [HyperX Fury Beast 4x16GB 3600MHz](https://shope.ee/4VGfeVxaPD)
+* SSD (System): [Samsung 970 Evo Plus 1TB](https://shope.ee/4fa5qowx4G)
+* SSD (Games): [PNY 2TB m.2](https://shope.ee/4ptW37wJjJ)
+* Storage: [Seagate 8TB](https://shope.ee/50CwFQvgOM)
+* GPU: [ZOTAC RTX 4070 12GB](https://shope.ee/5AWMRjv33P)
+* Case: [Silverstone Fara R1](https://shope.ee/2fp1T94Z7w)
+* PSU: [Corsair RM750e 80+ Gold](https://shope.ee/2q8RfS3vmz)
+* UPS: [APC 800VA](https://shope.ee/30Rrrl3IS2)
 
-## Peripherals
+### Peripherals
 
 * Monitor/s:
-  + Gigabyte G27F 2 27" 1080p 165Hz
-  + Samsung Odyssey G3 27" 1080p 144Hz
-* Keyboard: Keychron K2 Pro
-* Mice: Logitech G403 Wired Mouse
-* Webcam: Logitech C922
-* Audio: SteelSeries Tusq
-* Mic: Samson Q9U Dynamic Mic
+  * [Xitrix G2730 27" 1440p 180Hz](https://www.xitrix.net/products/xitrix-g27-27-180hz-ips-gaming-monitor)
+  * [Samsung Odyssey G3 27" 1080p 144Hz](https://shope.ee/3AlI442f75)
+* Keyboard: [Keychron K2 Pro](https://shope.ee/3L4iGN21m8)
+* Mice: [Logitech G403 Wired Mouse](https://shope.ee/3VO8Sg1ORB)
+* Webcam: [Logitech C922](https://shope.ee/3fhYez0l6E)
+* Audio:
+  * [PreSonus Eris 3.5](https://shope.ee/3q0yrI07lH)
+  * [Audio-Technica M30X](https://shope.ee/4fa5qtUX9E)
+  * [Audio-Technica SQ1TW2](https://shope.ee/4ptW3CTtoH)
+* Mic: [Samson Q9U Dynamic Mic](https://shope.ee/1LJdsh9dpo)
 * Miscellaneous:
-  + Elgato Stream Deck MK.2
-  + Elgato HD60 S+
-  + 2 Xbox Wireless Controller (got a wife now)
+  * [Elgato Stream Deck MK.2](https://shope.ee/1Vd45090Ur)
+  * [Elgato HD60 S+](https://shope.ee/1fwUHJ8N9u)
+  * [Xbox Wireless Controller](https://shope.ee/1qFuTc7jox)
+  * [HyperX Gladiate (Xbox gamepad)](https://shope.ee/20ZKfv76U0)
 
 ## Links
 
@@ -89,21 +96,20 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 ### Channels
 
-* Join our [**Discord Community**](https://discord.gg/rKnJb4J)
+* Join our ~~dead~~ [**Discord Community**](https://discord.gg/rKnJb4J)
 * [**Twitch**](https://twitch.tv/reddavidgg/)
 * Gaming [**YouTube Channel**](https://www.youtube.com/@RedDavidGG)
 * [**Facebook Gaming**](https://facebook.com/RedDavidGG/community)
-* Got a spare change to help me upgrade my setup and dev journey? [**Donate via PayPal**](https://paypal.me/reddvid)
+* Got a spare change to support this weird gaming journey? [**Donate via PayPal**](https://paypal.me/reddvid)
 
 ## FAQs
 
 * What's your rank in _____?
-  + I am done playing online competitive games, so no ranks/medals, etc. (Though I got til Divine 1 in Dota 2 back in the days.)
+  * I am done playing online competitive games, so no ranks/medals, etc. (Though I got til Divine 1 in Dota 2 back in the days.)
 * What's your stream schedule?
-  + I have none.
+  * I have none.
 * Why are you inconsistent with what you do?
-  + Busy life.
+  * Busy life.
 * Do you play mobile games?
-  + Seldomly, I grew up playing games on a bigger screen.
-
-<br>
+  * Seldomly, I grew up playing games on a bigger screen.  
+  
