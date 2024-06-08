@@ -8,8 +8,9 @@ languages:
   en:
     languageName: English
     title: David Ballesteros
-    description: Personal blog about life, tech, gaming, coding, and music
     weight: 1
+    params:
+      description: Personal blog about life, tech, gaming, coding, and music
 
 staticDir:
   - static
@@ -45,12 +46,12 @@ params:
     customText: Some Rights Reserved.
 
   dateFormat:
-    published: Jan 02, 2006 15:04 PHST
-    lastUpdated: Jan 02, 2006 15:04 PHST
+    published: Jan 02, 2006 15:04
+    lastUpdated: Jan 02, 2006 15:04
 
   sidebar:
     emoji: 👋
-    subtitle: IT Guy / App Developer
+    subtitle: Application Developer
     avatar:
       enabled: true
       local: false
@@ -186,7 +187,6 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     tabWidth: 3
-
 # caches:
 #   getcsv:
 #     dir: :cacheDir/:project

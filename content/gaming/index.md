@@ -19,6 +19,8 @@ menu:
 ## Currently Playing
 
 * Cyberpunk 2077
+* Minecraft (Java, Singleplayer World 1.20.6)
+* Assassin's Creed Director's Cut
   
 ## Featured Gameplay
 
@@ -30,7 +32,7 @@ menu:
 
 ## Streaming
 
-Streams Minecraft Singleplayer Survival on Facebook (Weekends) and other games on Twitch/YouTube (no schedule).
+I now stream irregularly on Twitch as [@reddavidgg!](https://twitch.tv/reddavidgg)
 
 ## Games List
 
@@ -96,11 +98,22 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 ### Channels
 
-* Join our ~~dead~~ [**Discord Community**](https://discord.gg/rKnJb4J)
 * [**Twitch**](https://twitch.tv/reddavidgg/)
-* Gaming [**YouTube Channel**](https://www.youtube.com/@RedDavidGG)
-* [**Facebook Gaming**](https://facebook.com/RedDavidGG/community)
-* Got a spare change to support this weird gaming journey? [**Donate via PayPal**](https://paypal.me/reddvid)
+* [**YouTube Gaming Channel**](https://youtube.com/@RedDavidGG)
+* [**YouTube VODs Channel**](https://youtube.com/@RedDavidGG2)
+* [**Facebook**](https://facebook.com/RedDavidGG)
+* [**TikTok**](https://tiktok.com/@RedDavidGG)
+* [**Instagram**](https://instagram.com/RedDavidGG)
+* [**Twitter/X**](https://twitter.com/RedDavidGG)
+* [**~~Dead~~ Discord Community**](https://discord.gg/rKnJb4J)
+
+### Support
+
+I don't earn yet from this gaming hobby, so if you feel generous:
+
+* [**PayPal**](https://paypal.com/paypalme/reddvid)
+* [**Streamlabs**](https://streamlabs.com/reddavidgg1)
+* [**Ko-fi**](https://ko-fi.com/reddavidgg1)
 
 ## FAQs
 
