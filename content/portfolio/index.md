@@ -20,8 +20,6 @@ menu:
 
 <h1 style="text-align:center; ">I Make Apps and Do IT Stuff</h1>
 
-{{< github-calendar username="reddvid" >}}{{</ github-calendar >}}
-
 ## ZIP Code PH
 
 Find and search ZIP Codes of the Philippines

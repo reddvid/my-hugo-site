@@ -26,7 +26,7 @@ menu:
 <!-- Starfield Playlist -->
 
 <div class="video-wrapper">
-<iframe src="https://www.youtube.com/embed?listType=playlist&list=PLwC47NQhSu5wO03VtKLU96hT0X8Ic9xqD&rel=0&color=white" width="800" height="450" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed?listType=playlist&list=PLwC47NQhSu5ymja38ozY3eDG1Pcv4e9hN&rel=0&color=white" width="800" height="450" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe>
 </div>
 
 ## Streaming
@@ -59,9 +59,9 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 {{< product name="AMD Ryzen 7 5700X" img_url="img/products/msi-b550m-pro-vdh-wifi.png" >}}
 {{< product name="Keychron K2 Pro" img_url="img/products/keychron-k2-pro.png" >}} -->
 
-- CPU: [AMD Ryzen 7 5700X](https://shope.ee/2q8RdmNfTl)
-- Motherboard: [MSI B550M PRO-VDH WIFI](https://shope.ee/4AdpFtyr57)
-- Cooler: [Silverstone PF240-ARGB](https://shope.ee/4KxFSCyDkA)
+- CPU: [AMD Ryzen 9 5900X](#)
+- Motherboard: [ASUS ROG STRIX B550-F GAMING WIFI II](#)
+- Cooler: [DeepCool AK620 DIGITAL](#)
 - RAM: [HyperX Fury Beast 4x16GB 3600MHz](https://shope.ee/4VGfeVxaPD)
 - SSD (System): [Samsung 970 Evo Plus 1TB](https://shope.ee/4fa5qowx4G)
 - SSD (Games): [PNY 2TB m.2](https://shope.ee/4ptW37wJjJ)
@@ -77,13 +77,15 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
   - [Xitrix G2730 27" 1440p 180Hz](https://www.xitrix.net/products/xitrix-g27-27-180hz-ips-gaming-monitor)
   - [Samsung Odyssey G3 27" 1080p 144Hz](https://shope.ee/3AlI442f75)
 - Keyboard: [Keychron K2 Pro](https://shope.ee/3L4iGN21m8)
-- Mice: [Logitech G403 Wired Mouse](https://shope.ee/3VO8Sg1ORB)
+- Mice: [Logitech G502 Hero](#)
 - Webcam: [Logitech C922](https://shope.ee/3fhYez0l6E)
 - Audio:
   - [PreSonus Eris 3.5](https://shope.ee/3q0yrI07lH)
   - [Audio-Technica M30X](https://shope.ee/4fa5qtUX9E)
   - [Audio-Technica SQ1TW2](https://shope.ee/4ptW3CTtoH)
-- Mic: [Samson Q9U Dynamic Mic](https://shope.ee/1LJdsh9dpo)
+- Mic: 
+  - [Samson Q9U Dynamic Mic](https://shope.ee/1LJdsh9dpo)
+  - [Audio-Technica ATR2500X USB](#)
 - Miscellaneous:
   - [Elgato Stream Deck MK.2](https://shope.ee/1Vd45090Ur)
   - [Elgato HD60 S+](https://shope.ee/1fwUHJ8N9u)

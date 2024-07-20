@@ -1,6 +1,6 @@
 baseurl: https://reddavid.me
 languageCode: en-us
-theme: ["hugo-github-calendar", "stack"]
+theme: ["hugo-theme-stack-3.21.0"]
 paginate: 7
 title: Red David Blog
 
