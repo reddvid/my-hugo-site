@@ -1,6 +1,6 @@
 {{ define "body-class" }}template-search{{ end }}
 {{ define "head" }}
-    {{- with .OutputFormats.Get "/layouts/page/search.json" -}} 
+    {{- with .OutputFormats.Get "json" -}} 
         <link rel="preload" href="{{ .RelPermalink }}" as="fetch" crossorigin="anonymous">
     {{- end -}}
 {{ end }}

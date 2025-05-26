@@ -1,8 +1,10 @@
 baseurl: https://reddavid.me
 languageCode: en-us
 theme: ["hugo-theme-stack-3.30.0"]
-paginate: 7
 title: Red David Blog
+
+pagination:
+    pagerSize: 7
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
