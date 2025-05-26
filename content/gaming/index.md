@@ -39,7 +39,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 
 ### Recent Games
 
-{{< recentgames >}}
+(Working on it!)
 
 <h3>Full List (as far as I remember)</h3>
 <details>
@@ -47,7 +47,7 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 <small><em>as of December 12, 2023</em></small>
 </summary>
 
-{{< games >}}
+(Working on it!)
 
 </details>
 
@@ -59,38 +59,29 @@ Excluding my Steam library and other platform games (Epic, GOG), below is a tabl
 {{< product name="AMD Ryzen 7 5700X" img_url="img/products/msi-b550m-pro-vdh-wifi.png" >}}
 {{< product name="Keychron K2 Pro" img_url="img/products/keychron-k2-pro.png" >}} -->
 
-- CPU: [AMD Ryzen 9 5900X](#)
-- Motherboard: [ASUS ROG STRIX B550-F GAMING WIFI II](#)
-- Cooler: [DeepCool AK620 DIGITAL](#)
-- RAM: [HyperX Fury Beast 4x16GB 3600MHz](https://shope.ee/4VGfeVxaPD)
-- SSD (System): [Samsung 970 Evo Plus 1TB](https://shope.ee/4fa5qowx4G)
-- SSD (Games): [PNY 2TB m.2](https://shope.ee/4ptW37wJjJ)
-- Storage: [Seagate 8TB](https://shope.ee/50CwFQvgOM)
-- GPU: [ZOTAC RTX 4070 12GB](https://shope.ee/5AWMRjv33P)
-- Case: [Silverstone Fara R1](https://shope.ee/2fp1T94Z7w)
-- PSU: [Corsair RM750e 80+ Gold](https://shope.ee/2q8RfS3vmz)
-- UPS: [APC 800VA](https://shope.ee/30Rrrl3IS2)
+- CPU: AMD Ryzen 9 5900X
+- Motherboard: ASUS ROG STRIX B550-F GAMING WIFI II
+- Cooler: DeepCool AK620 DIGITAL
+- RAM: Corsair Vengeance RGB RS 64GB (2X32GB) 3600MHZ
+- SSD (System): Samsung 990 Pro 2TB
+- SSD (Games): PNY 2TB m.2
+- Storage: Seagate 8TB
+- GPU: MSI Geforce RTX 4070 Ti Super 16G Shadow 3X OC
+- PSU: Corsair RM750e 80+ Gold
 
 ### Peripherals
 
 - Monitor/s:
-  - [Xitrix G2730 27" 1440p 180Hz](https://www.xitrix.net/products/xitrix-g27-27-180hz-ips-gaming-monitor)
-  - [Samsung Odyssey G3 27" 1080p 144Hz](https://shope.ee/3AlI442f75)
-- Keyboard: [Keychron K2 Pro](https://shope.ee/3L4iGN21m8)
-- Mice: [Logitech G502 Hero](#)
-- Webcam: [Logitech C922](https://shope.ee/3fhYez0l6E)
+  - LG Ultragear 27GS75Q-B 27" 1440p 180Hz
+  - Xitrix G2730 27" 1440p 180Hz
+- Keyboard: Keychron K2 Pro
+- Mice: Logitech G502 Hero
+- Webcam: Logitech C922
 - Audio:
-  - [PreSonus Eris 3.5](https://shope.ee/3q0yrI07lH)
-  - [Audio-Technica M30X](https://shope.ee/4fa5qtUX9E)
-  - [Audio-Technica SQ1TW2](https://shope.ee/4ptW3CTtoH)
-- Mic: 
-  - [Samson Q9U Dynamic Mic](https://shope.ee/1LJdsh9dpo)
-  - [Audio-Technica ATR2500X USB](#)
-- Miscellaneous:
-  - [Elgato Stream Deck MK.2](https://shope.ee/1Vd45090Ur)
-  - [Elgato HD60 S+](https://shope.ee/1fwUHJ8N9u)
-  - [Xbox Wireless Controller](https://shope.ee/1qFuTc7jox)
-  - [HyperX Gladiate (Xbox gamepad)](https://shope.ee/20ZKfv76U0)
+  - PreSonus Eris 3.5
+  - Audio-Technica 2040 Dynamic Mic
+  - Focusrite 2i2 Gen4
+
 
 ## Links
 
